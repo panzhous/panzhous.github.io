@@ -1,12 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#####  **Instructor for**
+  * Image Perception (CS424) at Singapore Management University, Fall 2024
+  * Project Experience (IS483) at Singapore Management University, Spring 2025
 
-Organize your courses by years, topics, or universities, however you like!
+#####  **Teaching Assistant for**
+  * Neural Network (NUS EE5904R/ME5404) at National University of Singapore, Spring 2018
+  * Microprocessor System (NUS CG3207) at National University of Singapore, Fall 2018 & Spring 2019
+  * Digital Image Processing (PKU 04830320) at Peking University, Fall 2012
+
+
+
+
+
