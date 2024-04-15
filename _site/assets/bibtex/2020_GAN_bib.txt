@@ -1,0 +1,6 @@
+@inproceedings{wu2020GAN,
+  title={Improving GAN Training with Probability Ratio Clipping and Sample Reweighting},
+  author={Yue Wu and Pan Zhou and Andrew Gordon Wilson and Eric Xing and Zhiting Hu},
+  booktitle={Neural Information Processing Systems},
+  year={2020}
+}
