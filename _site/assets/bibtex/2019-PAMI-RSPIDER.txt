@@ -1,0 +1,6 @@
+@article{zhou2019RPIDER,
+  title={Faster First-Order Methods for Stochastic Non-Convex Optimization on Riemannian Manifolds},
+  author={Pan Zhou and Xiaotong Yuan and and Shuicheng Yan and Jiashi Feng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2019}
+}

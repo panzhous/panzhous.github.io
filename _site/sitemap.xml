@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/blog/2022/displaying-external-posts-on-your-al-folio-blog/</loc>
+<lastmod>2022-04-24T07:20:09+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/research/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/publication/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/recruitment/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/services/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Team/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2022/</loc>
+</url>
+</urlset>

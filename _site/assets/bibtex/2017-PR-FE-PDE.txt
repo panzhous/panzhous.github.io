@@ -1,0 +1,6 @@
+@article{zhou2017pde,
+  title={Feature Learning via Partial Differential Equation with Applications to Face Recognition},
+  author={Cong Fang and Zhenyu Zhao and Pan Zhou and Zhouchen Lin},
+  journal={Pattern Recognition},
+  year={2017}
+}

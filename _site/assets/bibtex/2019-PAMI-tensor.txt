@@ -1,0 +1,6 @@
+@article{zhou2019tensor,
+  title={Tensor Low-rank Representation for Data Recovery and Clustering},
+  author={Pan Zhou and Canyi Lu and Jiashi Feng and Zhouchen Lin and Shuicheng Yan},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2019}
+}
