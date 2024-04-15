@@ -1,0 +1,9 @@
+@article{zhou2017tctf,
+  title={Tensor Factorization for Low-Rank Tensor Completion},
+  author={P. Zhou and C. Lu and Z. Lin and C. Zhang},
+  journal={IEEE Transactions on Image Processing},
+  pages={},
+  year={2017},
+  volume={},
+  number={}
+}

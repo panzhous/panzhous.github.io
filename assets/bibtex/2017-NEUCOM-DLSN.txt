@@ -1,0 +1,9 @@
+@article{zhou2017DLSN,
+  title={Dictionary Learning with Structured Noise},
+  author={Pan Zhou and Cong Fang and Zhouchen Lin and Chao Zhang and Edward Y. Chang},
+  journal={Neurocomputing},
+  volume={273},
+  pages={414--423},
+  year={2017},
+  publisher={Elsevier}
+}

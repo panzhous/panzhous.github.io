@@ -1,0 +1,6 @@
+@inproceedings{zhou2020generalizationdeep,
+  title={Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning},
+  author={Pan Zhou and Jiashi Feng and Chao Ma and Caiming Xiong and Steven Hoi and Weinan E},
+  booktitle={Neural Information Processing Systems},
+  year={2020}
+}
