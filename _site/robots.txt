@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://panzhous.github.io/sitemap.xml
+Sitemap: https://panzhou916.github.io/sitemap.xml
