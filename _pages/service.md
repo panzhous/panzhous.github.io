@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /services/
+permalink: /service/
 title: Service
 description: 
 nav: true

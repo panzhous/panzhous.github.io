@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Team/
+permalink: /team/
 title: Team
 description: 
 nav: false
