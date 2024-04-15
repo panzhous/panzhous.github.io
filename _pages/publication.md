@@ -104,7 +104,7 @@ Xingyu Xie<span>&#42;</span>, <strong>Pan Zhou</strong><span>&#42;</span>, Huan 
 <b>Win: Weight-Decay-Integrated Nesterov Acceleration for  Faster Network Training</b><br>
 <strong>Pan Zhou</strong>, Xingyu Xie, Zhouchen Lin, Kim-Chuan Toh, Shuicheng Yan  <br /> 
 Journal of Machine Learning Research (<strong>JMLR</strong>), 2024<br />
-<a href="../assets/pdf/2024-JMLR-win.pdf">[PDF]</a>
+<!-- <a href="../assets/pdf/2024-JMLR-win.pdf">[PDF]</a> -->
 <a href="https://github.com/sail-sg/win">[Code]</a>
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
