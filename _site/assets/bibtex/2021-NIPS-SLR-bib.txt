@@ -1,0 +1,8 @@
+@inproceedings{zhou2021SLR,
+  title={A Theory-Driven Self-Labeling Refinement Method for Contrastive Representation Learning},
+  author={Pan Zhou and Caiming Xiong and Xiaotong Yuan and Steven Hoi},
+  booktitle={Neural Information Processing Systems},
+  year={2021}
+}
+
+

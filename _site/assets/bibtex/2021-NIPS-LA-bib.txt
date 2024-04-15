@@ -1,0 +1,7 @@
+@inproceedings{zhou2021LA,
+  title={Towards Understanding Why Lookahead Generalizes Better Than SGD and Beyond},
+  author={Pan Zhou and Hanshu Yan and Xiaotong Yuan and Jiashi Feng and Shuicheng Yan},
+  booktitle={Neural Information Processing Systems},
+  year={2021}
+}
+
