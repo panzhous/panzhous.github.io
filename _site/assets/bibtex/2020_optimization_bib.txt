@@ -1,0 +1,6 @@
+@inproceedings{zhou2020Hybridoptimization,
+  title={Hybrid Stochastic-Deterministic Minibatch Proximal Gradient: Less-Than-Single-Pass Optimization with Nearly Optimal Generalization},
+  author={Pan Zhou and Xiaotong Yuan},
+  booktitle={International Conference on Machine Learning},
+  year={2020}
+}
