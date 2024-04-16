@@ -144,7 +144,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <!-- Item: 1 -->
 <li ><p>
 <strong>Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Multimodal Humor Generation</strong><br />
-Shanshan Zhong, Zhongzhan Huang, Shanghua Gao, Wushao Wen, Liang Lin, Marinka Zitnik, <strong>Pan Zhou</strong><br /> 
+Shanshan Zhong, Zhongzhan Huang, Shanghua Gao, Wushao Wen, Liang Lin, Marinka Zitnik, <strong>Pan Zhou<sup>+</sup></strong><br /> 
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024<br />
 <a href="https://arxiv.org/abs/2312.02439">[Axriv]</a>
 <a href="https://zhongshsh.github.io/CLoT/">[Code]</a>
@@ -177,7 +177,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <!-- Item: 1 -->
 <li ><p>
 <strong>Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior</strong><br />
-Zike Wu, <strong>Pan Zhou</strong>, Xuanyu YI, Xiaoding Yuan, Hanwang Zhang <br /> 
+Zike Wu, <strong>Pan Zhou<sup>+</sup></strong>, Xuanyu YI, Xiaoding Yuan, Hanwang Zhang <br /> 
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024<br />
 <a href="https://arxiv.org/abs/2401.09050">[Axriv]</a>
 <a href="https://github.com/sail-sg/Consistent3D">[Code]</a>
@@ -193,7 +193,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <!-- Item: 1 -->
 <li ><p>
 <strong>Friendly Sharpness-Aware Minimization</strong><br />
-Tao Li, <strong>Pan Zhou</strong>, Zhengbao He, Xinwen Cheng, Xiaolin Huang<br /> 
+Tao Li, <strong>Pan Zhou<sup>+</sup></strong>, Zhengbao He, Xinwen Cheng, Xiaolin Huang<br /> 
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024<br />
 <a href="https://arxiv.org/abs/2403.12350">[Axriv]</a>
 <a href="https://github.com/nblt/F-SAM">[Code]</a>
@@ -210,7 +210,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <!-- Item: 1 -->
 <li ><p>
 <strong>Few-shot Learner Parameterization by Diffusion Time-steps</strong><br />
-Zhongqi Yue, <strong>Pan Zhou</strong>, Richang Hong, Hanwang Zhang, Qianru Sun <br /> 
+Zhongqi Yue, <strong>Pan Zhou<sup>+</sup></strong>, Richang Hong, Hanwang Zhang, Qianru Sun <br /> 
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024<br />
 <a href="https://arxiv.org/abs/2403.02649">[Axriv]</a>
 <a href="https://github.com/yue-zhongqi/tif">[Code]</a>
@@ -226,7 +226,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <!-- Item: 1 -->
 <li ><p>
 <strong>Diffusion Time-step Curriculum for One Image to 3D Generation</strong><br />
-Xuanyu Yi, Zike Wu, Qingshan Xu, <strong>Pan Zhou</strong>, Joo Hwee Lim, Hanwang Zhang  <br /> 
+Xuanyu Yi, Zike Wu, Qingshan Xu, <strong>Pan Zhou<sup>+</sup></strong>, Joo Hwee Lim, Hanwang Zhang  <br /> 
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024<br />
 <a href="https://github.com/yxymessi/DTC123/blob/main/DTC_CVPR.pdf">[Axriv]</a>
 <a href="https://github.com/yxymessi/DTC123">[Code]</a>
@@ -268,7 +268,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <!-- Item: 1 -->
 <li ><p>
 <strong>ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection</strong><br />
-Zhongzhan Huang, <strong>Pan Zhou</strong>, Shuicheng Yan, Liang Lin<br /> 
+Zhongzhan Huang, <strong>Pan Zhou<sup>+</sup></strong>, Shuicheng Yan, Liang Lin<br /> 
 Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br />
 <a href="https://arxiv.org/pdf/2310.13545.pdf">[Axriv]</a>
 <a href="https://github.com/sail-sg/ScaleLong">[Code]</a> 
@@ -284,7 +284,7 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br />
 <!-- Item: 1 -->
 <li ><p>
 <strong>Masked Diffusion Transformer is a Strong Image Synthesizer</strong><br />
-Shanghua Gao, <strong>Pan Zhou</strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
+Shanghua Gao, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
 International Conference on Computer Vision (<strong>ICCV</strong>), 2023<br />
 <a href="https://arxiv.org/abs/2303.14389">[PDF]</a>
 <a href="https://github.com/sail-sg/MDT">[Code]</a> 
@@ -310,7 +310,7 @@ International Conference on Computer Vision (<strong>ICCV</strong>), 2023<br />
 <!-- Item: 1 -->
 <li ><p>
 <strong>EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation</strong><br />
-Shanghua Gao, <strong>Pan Zhou</strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
+Shanghua Gao, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
 ACM International Conference on Multimedia (<strong>ACMMM</strong>), 2023<br />
 <a href="https://dl.acm.org/doi/10.1145/3581783.3612680">[PDF]</a>
 <a href="https://github.com/sail-sg/EditAnything">[Code]</a> 
@@ -358,7 +358,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <!-- Item: 1 -->
 <li ><p>
 <strong>Position-guided Text Prompt for Vision-Language Pre-training</strong><br />
-Alex Jinpeng Wang,  <strong>Pan Zhou</strong>, Mike Zheng Shou, Shuicheng Yan <br /> 
+Alex Jinpeng Wang,  <strong>Pan Zhou<sup>+</sup></strong>, Mike Zheng Shou, Shuicheng Yan <br /> 
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023<br />
 <a href="https://arxiv.org/pdf/2212.09737.pdf">[Axriv]</a>
 <a href="https://github.com/sail-sg/ptp">[Code]</a>
