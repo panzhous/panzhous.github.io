@@ -17,7 +17,7 @@
               {{- site.last_name -}}
             {% endif %}
           {% else %}
-            {{- site.title -}}
+            <b>{{- site.title -}}</b>
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
@@ -49,7 +49,7 @@
           <!-- About -->
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
-              {{- about_title }}
+              <b>{{- about_title }}</b>
               {% if page.permalink == '/' %}
                 <span class="sr-only">(current)</span>
               {% endif %}
@@ -98,7 +98,7 @@
                 <li class="nav-item {% if page.url contains p.permalink %}active{% endif %}">
                   {% if p.permalink contains '/blog/' %}{% assign url = '/blog/' %} {% else %}{% assign url = p.url %}{% endif %}
                   <a class="nav-link" href="{{ url | relative_url }}">
-                    {{- p.title }}
+                    <b>{{- p.title }}</b>
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
                     {% endif %}
