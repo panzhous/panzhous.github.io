@@ -126,9 +126,15 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="91px" height="20px"
     src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ptp&type=star&count=true" >
+</iframe>,
+<iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="400px" height="20px"
+    src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/position-guided-text-prompt-for-vision/zero-shot-cross-modal-retrieval-on-coco-2014" >
 </iframe>
 </p>
 </li>
+
 
 <!-- Item: 1 -->
 <li ><p>
@@ -256,7 +262,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
       src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=metaformer&type=star&count=true" >
-</iframe>,   <iframe
+</iframe>,  <iframe
         style="margin-left: 2px; margin-bottom:-5px;"
         frameborder="0" scrolling="0" width="700px" height="20px"
         src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/metaformer-baselines-for-vision/domain-generalization-on-imagenet-c" >
@@ -366,6 +372,11 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
       src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ptp&type=star&count=true" >
+</iframe>,
+<iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="400px" height="20px"
+    src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/position-guided-text-prompt-for-vision/zero-shot-cross-modal-retrieval-on-coco-2014" >
 </iframe>
 </p>
 </li>
@@ -408,6 +419,11 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
       src="https://ghbtns.com/github-btn.html?user=DongSky&repo=LPT&type=star&count=true" >
+</iframe>,
+<iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="400px" height="20px"
+    src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lpt-long-tailed-prompt-tuning-for-image/long-tail-learning-on-cifar-100-lt-r-100" >
 </iframe>
 </p>
 </li>
