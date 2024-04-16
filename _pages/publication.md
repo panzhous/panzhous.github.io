@@ -9,7 +9,7 @@ nav_order: 2
 
 
 
-You can also browse my <a href="https://scholar.google.com/citations?user=0b7ZqlcAAAAJ&hl=en" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>.  <sup>*</sup> denotes equal contribution; <sup>+</sup> denotes corresponding author.
+You can also browse my <a href="https://scholar.google.com/citations?user=0b7ZqlcAAAAJ&hl=en" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>.  <strong><sup>*</sup></strong> denotes equal contribution; <strong><sup>+</sup></strong> denotes corresponding author.
 
 <style>
 .biblist { }
@@ -64,7 +64,7 @@ function toggleBibtex(articleid) {
 <!-- Item: 1 -->
 <li ><p>
 <strong>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</strong><br />
-Xingyu Xie<span>&#42;</span>, <strong>Pan Zhou</strong><span>&#42;</span>, Huan Li, Zhouchen Lin, Shuicheng Yan <br />
+Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*</sup></strong>, Huan Li, Zhouchen Lin, Shuicheng Yan <br />
 <strong><font color="#FF0000">SoTA optimizer</font> on ResNet, ConvNext, ViT, Swin, MAE, LSTM, Transformer-XL, BERT, GPT2, Dreamffusion, PPO in RL  etc</strong> <br />
 <a href="https://arxiv.org/abs/2208.06677">[PDF]</a>
 <a href="https://github.com/sail-sg/Adan">[Code]</a>
@@ -390,7 +390,7 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 <!-- Item: 1 -->
 <li ><p>
 <strong>Towards Understanding Why Mask Reconstruction Pretraining Helps in Downstream Tasks</strong><br />
-Jiachun Pan<span>&#42;</span>, <strong>Pan Zhou</strong><span>&#42;</span>, Shuicheng Yan<br /> 
+Jiachun Pan<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*</sup></strong>, Shuicheng Yan<br /> 
 International Conference on Learning Representations (<strong>ICLR</strong>), 2023 <br />
   <a href="https://arxiv.org/pdf/2206.03826.pdf">[Axriv]</a> 
 </p>
@@ -434,7 +434,7 @@ IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 202
 <!-- Item: 1 -->
 <li ><p>
 <strong>Inception Transformer</strong><br />
-Chenyang Si<span>&#42;</span>, Weihao Yu<span>&#42;</span>, <strong>Pan Zhou</strong>, Yichen Zhou, Xinchao Wang, Shuicheng Yan<br /> 
+Chenyang Si<strong><sup>*</sup></strong>, Weihao Yu<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong>, Yichen Zhou, Xinchao Wang, Shuicheng Yan<br /> 
 Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022 (<font color="#FF0000"><strong>oral</strong></font>)<br />
 <a href="https://arxiv.org/abs/2205.12956">[Axriv]</a>
 <a href="https://github.com/sail-sg/iFormer">[Code]</a>
@@ -448,7 +448,7 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022 (<font co
  
 <li ><p>
 <strong>Mugs: A Multi-Granular Self-Supervised Learning Framework</strong><br />
-<strong>Pan Zhou</strong><span>&#42;</span>, Yichen Zhou<span>&#42;</span>, Chenyang Si<span>&#42;</span>,  Weihao Yu, Teck Khim Ng, Shuicheng Yan<br />
+<strong>Pan Zhou</strong><strong><sup>*</sup></strong>, Yichen Zhou<strong><sup>*</sup></strong>, Chenyang Si<strong><sup>*</sup></strong>,  Weihao Yu, Teck Khim Ng, Shuicheng Yan<br />
 <strong> Workshop of Neural Information Processing Systems, 2022. (<font color="#FF0000">SoTA SSL performance on ImageNet without extra data</font> under linear probing and KNN evaluation settings </strong>) <br />
 <a href="https://arxiv.org/abs/2203.14415">[PDF]</a>
 <a href="https://github.com/sail-sg/mugs">[Code]</a>
