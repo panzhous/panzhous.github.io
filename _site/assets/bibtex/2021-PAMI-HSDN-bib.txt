@@ -1,0 +1,6 @@
+@article{zhou2021,
+  title={A Hybrid Stochastic-Deterministic Minibatch Proximal Gradient Method for Efficient Optimization and Generalization},
+  author={Pan Zhou and XiaoTong Yuan and Zhouchen Lin and Steven Hoi},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2021}
+}
