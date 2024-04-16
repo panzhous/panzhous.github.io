@@ -29,7 +29,7 @@ Prior to this position, I held roles as a Senior Research Scientist at Sea AI La
 <h6>
   <a name="interests"></a> <strong>Research Interests</strong>
 </h6>
-My research target is to build <strong>“efficient and effective artificial intelligent systems”</strong> so that machines can cognize, understand and interact with the environment. Currently, I mainly focus on three research topics across machine learning, computer vision and optimization.  Please check <a href="https://panzhous.github.io/research/">here</a> for more information.
+My  target is to build <strong>“efficient and effective artificial intelligent systems”</strong> so that machines can cognize, understand and interact with the environment. Currently, I mainly focus on three research topics across machine learning, computer vision and optimization.  See more details <a href="https://panzhous.github.io/research/">here</a>.
 <div class="highlight"> 
   <ul>
       <li><strong>Learning framework</strong>: how to learn knowledge from (unlabeled) data effectively and efficiently? E.g. self-supervised  (multi-modal) learning and generative models like diffusion models for image/3D/video.</li>
