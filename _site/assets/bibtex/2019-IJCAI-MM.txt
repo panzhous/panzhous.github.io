@@ -1,0 +1,6 @@
+@inproceedings{zhou2019MM,
+  title={Generalized Majorization-Minimization for Non-Convex Optimization},
+  author={Hu Zhang and Pan Zhou and Yi Yang and Jiashi Feng},
+  booktitle={International Joint Conference on Artificial Intelligence},
+  year={2019}
+}
