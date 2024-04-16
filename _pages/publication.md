@@ -101,7 +101,7 @@ Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*
 
 <!-- Item: 1 -->
 <li ><p>
-<b>Win: Weight-Decay-Integrated Nesterov Acceleration for  Faster Network Training</b><br>
+<strong>Win: Weight-Decay-Integrated Nesterov Acceleration for  Faster Network Training</strong><br>
 <strong>Pan Zhou</strong>, Xingyu Xie, Zhouchen Lin, Kim-Chuan Toh, Shuicheng Yan  <br /> 
 Journal of Machine Learning Research (<strong>JMLR</strong>), 2024<br />
 <!-- <a href="../assets/pdf/2024-JMLR-win.pdf">[PDF]</a> -->
@@ -117,7 +117,7 @@ Journal of Machine Learning Research (<strong>JMLR</strong>), 2024<br />
 
 <!-- Item: 1 -->
 <li ><p>
-<b>Enhancing Visual Grounding in Vision-Language Pre-Training with Position-Guided Text Prompts</b><br>
+<strong>Enhancing Visual Grounding in Vision-Language Pre-Training with Position-Guided Text Prompts</strong><br>
 Alex Jinpeng Wang, <strong>Pan Zhou</strong>, Mike Zheng Shou, Shuicheng Yan  <br /> 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024<br />
 <a href="https://ieeexplore.ieee.org/document/10363674">[PDF]</a>
@@ -132,7 +132,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 
 <!-- Item: 1 -->
 <li ><p>
-<b>Towards Understanding Convergence and Generalization of AdamW</b><br>
+<strong>Towards Understanding Convergence and Generalization of AdamW</strong><br>
 <strong>Pan Zhou</strong>, Xingyu Xie, Zhoucheng Lin, Shuicheng Yan <br /> 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024<br />
 <a href="../assets/pdf/2024-TPAMI-AdamW.pdf">[PDF]</a>
