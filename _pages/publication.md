@@ -9,7 +9,7 @@ nav_order: 2
 
 
 
-You can also browse my <a href="https://scholar.google.com/citations?user=0b7ZqlcAAAAJ&hl=en" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>. In the following, <sup>*</sup> denotes equal contribution; <sup>+</sup> denotes corresponding author.
+You can also browse my <a href="https://scholar.google.com/citations?user=0b7ZqlcAAAAJ&hl=en" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>.  <sup>*</sup> denotes equal contribution; <sup>+</sup> denotes corresponding author.
 
 <style>
 .biblist { }
