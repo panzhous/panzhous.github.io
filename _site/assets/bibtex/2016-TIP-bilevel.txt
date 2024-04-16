@@ -1,0 +1,9 @@
+@article{zhou2016bilevel,
+  title={Bilevel Model Based Discriminative Dictionary Learning for Recognition},
+  author={P. Zhou and C. Zhang and Z. Lin},
+  journal={IEEE Transactions on Image Processing},
+  pages={1173-1187},
+  year={2017},
+  volume={26},
+  number={3}
+}

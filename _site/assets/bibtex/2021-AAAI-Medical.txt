@@ -1,0 +1,6 @@
+@inproceedings{lin2020graph,
+  title={Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation},
+  author={Shuai Lin and Pan Zhou and Xiaodan Liang and Jianheng Tang and Ruihui Zhao and Ziliang Chen and Liang Lin},
+  booktitle={Association for the Advancement of Artificial Intelligence},
+  year={2021}
+}

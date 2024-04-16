@@ -1,0 +1,9 @@
+@article{zhou2016integrated,
+  title={Integrated Low-Rank-Based Discriminative Feature Learning for Recognition},
+  author={P. Zhou and Z. Lin and C. Zhang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  volume={27},
+  number={5},
+  pages={1080-1093},
+  year={2016}
+}
