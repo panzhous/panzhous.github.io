@@ -1,6 +1,0 @@
-@inproceedings{zhou2020NAS,
-  title={Theory-Inspired Path-Regularized Differential Network Architecture Search},
-  author={Pan Zhou and Caiming Xiong and Richard Socher and Steven Hoi},
-  booktitle={Neural Information Processing Systems},
-  year={2020}
-}
