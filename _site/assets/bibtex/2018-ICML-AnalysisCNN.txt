@@ -1,0 +1,6 @@
+@inproceedings{zhou2018analysiscnns,
+  title={Understanding Generalization and Optimization Performance of Deep CNNs},
+  author={Pan Zhou and Jiashi Feng},
+  booktitle={International Conference on Machine Learning},
+  year={2018}
+}

@@ -1,0 +1,6 @@
+@inproceedings{zhou2018hardthresholding,
+  title={Efficient Stochastic Gradient Hard Thresholding},
+  author={Pan Zhou and Xiaotong Yuan and Jiashi Feng},
+  booktitle={Neural Information Processing Systems},
+  year={2018}
+}

@@ -1,0 +1,6 @@
+@inproceedings{zhou2017TRPCA,
+  title={Outlier-Robust Tensor PCA},
+  author={Pan Zhou and Jiashi Feng},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2017}
+}
