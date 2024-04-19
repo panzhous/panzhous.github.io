@@ -77,8 +77,8 @@ function toggleBibtex(articleid) {
 <li ><p>
 <strong>Masked Diffusion Transformer is a Strong Image Synthesizer</strong><br />
 Shanghua Gao, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
-ICCV, 2023, <a href="https://arxiv.org/abs/2303.14389">[PDF]</a>
-<a href="https://github.com/sail-sg/MDT">[Code]</a> 
+ICCV, 2023, <a href="https://arxiv.org/abs/2303.14389" style="color: black;">[PDF]</a>
+<a href="https://github.com/sail-sg/MDT" style="color: black;">[Code]</a> 
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
@@ -98,8 +98,8 @@ ICCV, 2023, <a href="https://arxiv.org/abs/2303.14389">[PDF]</a>
 <strong>EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation</strong><br />
 Shanghua Gao, Zhijie Lin, Xingyu Xie, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
 ACMMM, 2023, 
-<a href="https://dl.acm.org/doi/10.1145/3581783.3612680">[PDF]</a>
-<a href="https://github.com/sail-sg/EditAnything">[Code]</a> 
+<a href="https://dl.acm.org/doi/10.1145/3581783.3612680" style="color: black;">[PDF]</a>
+<a href="https://github.com/sail-sg/EditAnything" style="color: black;">[Code]</a> 
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
@@ -114,8 +114,8 @@ ACMMM, 2023,
 <strong>Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior</strong><br />
 Zike Wu, <strong>Pan Zhou<sup>+</sup></strong>, Xuanyu YI, Xiaoding Yuan, Hanwang Zhang <br /> 
 CVPR, 2024, 
-<a href="https://arxiv.org/abs/2401.09050">[Axriv]</a>
-<a href="https://github.com/sail-sg/Consistent3D">[Code]</a>
+<a href="https://arxiv.org/abs/2401.09050" style="color: black;">[Axriv]</a>
+<a href="https://github.com/sail-sg/Consistent3D" style="color: black;">[Code]</a>
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
@@ -133,10 +133,10 @@ CVPR, 2024,
 <strong>Prototypical Contrastive Learning of Unsupervised Representations</strong><br />
 Junnan Li, <strong>Pan Zhou</strong>, Caiming Xiong, Steven Hoi<br /> 
 ICLR, 2021, 
-<a href="https://openreview.net/pdf?id=KmykpuSrjcq">[Axriv]</a>
-<a href="../assets/bibtex/2021-ICLR-SSL.txt">[Bibtex]</a>
-<a href="https://blog.einstein.ai/prototypical-contrastive-learning-pushing-the-frontiers-of-unsupervised-learning/">[Blog]</a>
-<a href="https://github.com/salesforce/PCL">[Code]</a>, 900+ citations,
+<a href="https://openreview.net/pdf?id=KmykpuSrjcq" style="color: black;">[Axriv]</a>
+<a href="../assets/bibtex/2021-ICLR-SSL.txt" style="color: black;">[Bibtex]</a>
+<a href="https://blog.einstein.ai/prototypical-contrastive-learning-pushing-the-frontiers-of-unsupervised-learning/" style="color: black;">[Blog]</a>
+<a href="https://github.com/salesforce/PCL" style="color: black;">[Code]</a>, 900+ citations,
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
@@ -152,8 +152,8 @@ ICLR, 2021,
 Weihao Yu, Chenyang Si, <strong>Pan Zhou</strong>, Mi Luo, Yichen Zhou, Jiashi Feng,
 Shuicheng Yan,  Xinchao Wang<br /> 
 TPAMI & CVPR, 2023, 
-<a href="https://arxiv.org/abs/2111.11418#:~:text=Based%20on%20the%20extensive%20experiments,on%20the%20token%20mixer%20modules">[Axriv]</a>
-<a href="https://github.com/sail-sg/poolformer">[Code]</a>, 600+ citations, 
+<a href="https://arxiv.org/abs/2111.11418#:~:text=Based%20on%20the%20extensive%20experiments,on%20the%20token%20mixer%20modules" style="color: black;">[Axriv]</a>
+<a href="https://github.com/sail-sg/poolformer" style="color: black;">[Code]</a>, 600+ citations, 
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
@@ -176,8 +176,8 @@ TPAMI & CVPR, 2023,
 <li ><p>
 <strong>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</strong><br />
 Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*</sup></strong>, Huan Li, Zhouchen Lin, Shuicheng Yan <br />
-<a href="https://arxiv.org/abs/2208.06677">[PDF]</a>
-<a href="https://github.com/sail-sg/Adan">[Code]</a>
+<a href="https://arxiv.org/abs/2208.06677" style="color: black;">[PDF]</a>
+<a href="https://github.com/sail-sg/Adan" style="color: black;">[Code]</a>
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="91px" height="20px"
@@ -193,9 +193,9 @@ Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*
 <strong>Pan Zhou</strong>, Xingyu Xie, Zhouchen Lin, Kim-Chuan Toh, Shuicheng Yan  <br /> 
 JMLR & ICLR, 2024
 <!-- <a href="../assets/pdf/2024-JMLR-win.pdf">[PDF]</a> -->
-<a href="https://github.com/sail-sg/win">[Code]</a>
+<a href="https://github.com/sail-sg/win" style="color: black;">[Code]</a>
 <iframe
-    style="margin-left: 2px; margin-bottom:-5px;"
+    style="margin-left: 2px; margin-bottom:-5px; color: black;"
     frameborder="0" scrolling="0" width="91px" height="20px"
     src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=win&type=star&count=true" >
 </iframe><br />
@@ -208,13 +208,13 @@ JMLR & ICLR, 2024
 <strong>Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning</strong><br />
 <strong>Pan Zhou</strong>, Jiashi Feng, Chao Ma, Caiming Xiong, Steven Hoi, and Weinan E<br /> 
 NeurIPS, 2020, 
-<a href="../assets/pdf/2020_generalization.pdf">[PDF]</a>
-<a href="../assets/pdf/2020_generalization_supp.pdf">[SUPP]</a>
-<a href="https://arxiv.org/pdf/2010.05627.pdf">[Axriv]</a>
-<a href="../assets/bibtex/2020_generalization_bib.txt">[Bibtex]</a>
-<a href="https://github.com/salesforce/comparison_SGD_ADAM">[Code]</a>
-<a href="../assets/pdf/2020-NIPS-SGD-slides.pdf">[Slides]</a>
-<a href="../assets/pdf/2020-NIPS-SGD-poster.pdf">[Poster]</a>, 200+ citations
+<a href="../assets/pdf/2020_generalization.pdf" style="color: black;">[PDF]</a>
+<a href="../assets/pdf/2020_generalization_supp.pdf" style="color: black;">[SUPP]</a>
+<a href="https://arxiv.org/pdf/2010.05627.pdf" style="color: black;">[Axriv]</a>
+<a href="../assets/bibtex/2020_generalization_bib.txt" style="color: black;">[Bibtex]</a>
+<a href="https://github.com/salesforce/comparison_SGD_ADAM" style="color: black;">[Code]</a>
+<a href="../assets/pdf/2020-NIPS-SGD-slides.pdf" style="color: black;">[Slides]</a>
+<a href="../assets/pdf/2020-NIPS-SGD-poster.pdf" style="color: black;">[Poster]</a>, 200+ citations
 <!-- <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
