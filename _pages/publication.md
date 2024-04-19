@@ -89,7 +89,7 @@ ICCV, 2023, <a href="https://arxiv.org/abs/2303.14389" style="color: black;">[PD
     frameborder="0" scrolling="0" width="400px" height="20px"
     src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/masked-diffusion-transformer-is-a-strong/image-generation-on-imagenet-256x256" >
 </iframe><br /> 
-<font color="#2770AB"><b>SoTA image generative model</b> on ImageNet 256x256; <b>13x faster learning speed</b> than DiT (core of Sora) </font> <br />
+<font color="#2770AB"><b>SoTA image generative model</b> on ImageNet 256x256; <b>13x faster learning speed</b> than <a href="https://arxiv.org/abs/2212.09748">DiT</a> (core of <a href="https://openai.com/sora">SORA</a>) </font> <br />
 </p>
 </li>
 
