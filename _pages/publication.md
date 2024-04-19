@@ -11,6 +11,8 @@ nav_order: 2
 
 You can also browse my <a href="https://scholar.google.com/citations?user=0b7ZqlcAAAAJ&hl=en" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>.  <strong><sup>*</sup></strong> denotes equal contribution; <strong><sup>+</sup></strong> denotes corresponding author.
 
+  <br>
+
 <style>
 .biblist { }
 
@@ -49,7 +51,7 @@ function toggleBibtex(articleid) {
 </script>
 
 
-### Manuscripts
+##### **Featured Publications** 
 <!-- Generated from JabRef by PubList by Truong Nghiem at 09:00 on 2015.11.04. -->
 
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/masked-diffusion-transformer-is-a-strong/image-generation-on-imagenet-256x256)](https://paperswithcode.com/sota/image-generation-on-imagenet-256x256?p=masked-diffusion-transformer-is-a-strong)
@@ -60,20 +62,7 @@ function toggleBibtex(articleid) {
 
 [![HuggingFace space](https://img.shields.io/badge/🤗-HuggingFace%20Space-cyan.svg)](https://huggingface.co/spaces/shgao/MDT) -->
 
-<ol class="biblist">
-<!-- Item: 1 -->
-<li ><p>
-<strong>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</strong><br />
-Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*</sup></strong>, Huan Li, Zhouchen Lin, Shuicheng Yan <br />
-<strong><font color="#FF0000">SoTA optimizer</font> on ResNet, ConvNext, ViT, Swin, MAE, LSTM, Transformer-XL, BERT, GPT2, Dreamffusion, PPO in RL  etc</strong> <br />
-<a href="https://arxiv.org/abs/2208.06677">[PDF]</a>
-<a href="https://github.com/sail-sg/Adan">[Code]</a>
-<iframe
-    style="margin-left: 2px; margin-bottom:-5px;"
-    frameborder="0" scrolling="0" width="91px" height="20px"
-    src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Adan&type=star&count=true" >
-</iframe>
-</p>
+
 <!-- <div id="bib_lu2020tensor" class="bibtex noshow">
 <pre>
 @article{Adan,
@@ -83,15 +72,167 @@ Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*
   year = {2024}
 }
 </pre></div> -->
+
+<ol class="biblist">
+<li ><p>
+<strong>Masked Diffusion Transformer is a Strong Image Synthesizer</strong><br />
+Shanghua Gao, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
+ICCV, 2023, <a href="https://arxiv.org/abs/2303.14389">[PDF]</a>
+<a href="https://github.com/sail-sg/MDT">[Code]</a> 
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=MDT&type=star&count=true" >
+</iframe>
+<iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="400px" height="20px"
+    src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/masked-diffusion-transformer-is-a-strong/image-generation-on-imagenet-256x256" >
+</iframe><br /> 
+<font color="#2770AB"><b>SoTA image generative model</b> on ImageNet 256x256; <b>13x faster learning speed</b> than DiT (core of Sora) </font> <br />
+</p>
 </li>
- 
- 
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation</strong><br />
+Shanghua Gao, Zhijie Lin, Xingyu Xie, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
+ACMMM, 2023, 
+<a href="https://dl.acm.org/doi/10.1145/3581783.3612680">[PDF]</a>
+<a href="https://github.com/sail-sg/EditAnything">[Code]</a> 
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=EditAnything&type=star&count=true" >
+</iframe><br />
+<font color="#2770AB"><b>the first a few pioneers for highly-flexible image editing,</b> e.g., cross-image  dragging like try-on, region-interactive editing, controllable layout generation, and virtual character replacement.  </font> <br />
+</p>
+</li>
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior</strong><br />
+Zike Wu, <strong>Pan Zhou<sup>+</sup></strong>, Xuanyu YI, Xiaoding Yuan, Hanwang Zhang <br /> 
+CVPR, 2024, 
+<a href="https://arxiv.org/abs/2401.09050">[Axriv]</a>
+<a href="https://github.com/sail-sg/Consistent3D">[Code]</a>
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Consistent3D&type=star&count=true" >
+</iframe><br />
+<font color="#2770AB"><b>the first ODE-sampling guided Score Distillation Sampling</b> for 3D generation</font> <br />
+</p>
+</li>
+
+
+
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>Prototypical Contrastive Learning of Unsupervised Representations</strong><br />
+Junnan Li, <strong>Pan Zhou</strong>, Caiming Xiong, Steven Hoi<br /> 
+ICLR, 2021, 
+<a href="https://openreview.net/pdf?id=KmykpuSrjcq">[Axriv]</a>
+<a href="../assets/bibtex/2021-ICLR-SSL.txt">[Bibtex]</a>
+<a href="https://blog.einstein.ai/prototypical-contrastive-learning-pushing-the-frontiers-of-unsupervised-learning/">[Blog]</a>
+<a href="https://github.com/salesforce/PCL">[Code]</a>, 900+ citations,
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://ghbtns.com/github-btn.html?user=salesforce&repo=PCL&type=star&count=true" >
+</iframe><br />
+<font color="#2770AB"><b>the first clustering contrastive learning method to learn high-level semantics, i.e., data cluster structure</b></font> <br />
+</p>
+</li>
+
+
+<li ><p>
+<strong>MetaFormer Baselines for Vision</strong><br />
+Weihao Yu, Chenyang Si, <strong>Pan Zhou</strong>, Mi Luo, Yichen Zhou, Jiashi Feng,
+Shuicheng Yan,  Xinchao Wang<br /> 
+TPAMI & CVPR, 2023, 
+<a href="https://arxiv.org/abs/2111.11418#:~:text=Based%20on%20the%20extensive%20experiments,on%20the%20token%20mixer%20modules">[Axriv]</a>
+<a href="https://github.com/sail-sg/poolformer">[Code]</a>, 600+ citations, 
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=poolformer&type=star&count=true" >
+</iframe>
+<!-- <iframe
+        style="margin-left: 2px; margin-bottom:-5px;"
+        frameborder="0" scrolling="0" width="490px" height="20px"
+        src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/metaformer-baselines-for-vision/domain-generalization-on-imagenet-c" >
+</iframe> -->
+<br />
+<font color="#2770AB"><b>replacing attention with simple pooling still achieves high performance, breaking "attention is all you need" and revealing network design principle</b></font> <br />
+</p>
+</li>
+
+
+
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</strong><br />
+Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*</sup></strong>, Huan Li, Zhouchen Lin, Shuicheng Yan <br />
+<a href="https://arxiv.org/abs/2208.06677">[PDF]</a>
+<a href="https://github.com/sail-sg/Adan">[Code]</a>
+<iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Adan&type=star&count=true" >
+</iframe><br />
+<font color="#2770AB"><b> SoTA optimizer on ResNet, ConvNext, ViT, Swin, MAE, BERT, GPT2, Dreamffusion, PPO in RL,  etc.</b></font> <br />
+</p>
+</li>
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>Win: Weight-Decay-Integrated Nesterov Acceleration for  Faster Network Training</strong><br>
+<strong>Pan Zhou</strong>, Xingyu Xie, Zhouchen Lin, Kim-Chuan Toh, Shuicheng Yan  <br /> 
+JMLR & ICLR, 2024
+<!-- <a href="../assets/pdf/2024-JMLR-win.pdf">[PDF]</a> -->
+<a href="https://github.com/sail-sg/win">[Code]</a>
+<iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=win&type=star&count=true" >
+</iframe><br />
+<font color="#2770AB"><b>accelerate AdamW/Adam/LAMB/SGD by 1.5x on vision and language modeling tasks.</b></font> <br />
+</p>
+</li>
+
+<!-- Item: 1 -->
+ <li ><p>
+<strong>Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning</strong><br />
+<strong>Pan Zhou</strong>, Jiashi Feng, Chao Ma, Caiming Xiong, Steven Hoi, and Weinan E<br /> 
+NeurIPS, 2020, 
+<a href="../assets/pdf/2020_generalization.pdf">[PDF]</a>
+<a href="../assets/pdf/2020_generalization_supp.pdf">[SUPP]</a>
+<a href="https://arxiv.org/pdf/2010.05627.pdf">[Axriv]</a>
+<a href="../assets/bibtex/2020_generalization_bib.txt">[Bibtex]</a>
+<a href="https://github.com/salesforce/comparison_SGD_ADAM">[Code]</a>
+<a href="../assets/pdf/2020-NIPS-SGD-slides.pdf">[Slides]</a>
+<a href="../assets/pdf/2020-NIPS-SGD-poster.pdf">[Poster]</a>
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://ghbtns.com/github-btn.html?user=salesforce&repo=comparison_SGD_ADAM&type=star&count=true" >
+</iframe>
+<br />
+<font color="#2770AB"><b>the first theory to explain "why SGD generalizes better than ADAM in deep learning"</b></font> <br />
+</p>
+</li>
+
 </ol>
 
+  <br> 
 
 
+##### **Full Publications** 
 
-### Journal and Conference Publications
+<!-- ### Full Publications -->
 <ol class="biblist">
 
 
@@ -254,7 +395,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <li ><p>
 <strong>MetaFormer Baselines for Vision</strong><br />
 Weihao Yu, Chenyang Si, <strong>Pan Zhou</strong>, Mi Luo, Yichen Zhou, Jiashi Feng,
-Shuicheng Yan, and Xinchao Wang<br /> 
+Shuicheng Yan,  Xinchao Wang<br /> 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023<br />
 <a href="https://arxiv.org/abs/2210.13452">[Axriv]</a>
 <a href="https://github.com/sail-sg/metaformer">[Code]</a> 
@@ -316,7 +457,7 @@ International Conference on Computer Vision (<strong>ICCV</strong>), 2023<br />
 <!-- Item: 1 -->
 <li ><p>
 <strong>EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation</strong><br />
-Shanghua Gao, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
+Shanghua Gao, Zhijie Lin, Xingyu Xie, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
 ACM International Conference on Multimedia (<strong>ACMMM</strong>), 2023<br />
 <a href="https://dl.acm.org/doi/10.1145/3581783.3612680">[PDF]</a>
 <a href="https://github.com/sail-sg/EditAnything">[Code]</a> 
@@ -655,11 +796,10 @@ International Conference on Machine Learning (<strong>ICML</strong>), 2021 <br /
 </li>
  
 
- 
 <!-- Item: 1 -->
 <li ><p>
 <strong>Prototypical Contrastive Learning of Unsupervised Representations</strong><br />
-Junnan Li, <strong>Pan Zhou</strong>, Caiming Xiong, Richard Socher, and Steven Hoi<br /> 
+Junnan Li, <strong>Pan Zhou</strong>, Caiming Xiong, and Steven Hoi<br /> 
 International Conference on Learning Representations (<strong>ICLR</strong>), 2021 <br />
 <a href="https://openreview.net/pdf?id=KmykpuSrjcq">[Axriv]</a>
 <a href="../assets/bibtex/2021-ICLR-SSL.txt">[Bibtex]</a>
