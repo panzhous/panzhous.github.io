@@ -214,7 +214,7 @@ NeurIPS, 2020,
 <a href="../assets/bibtex/2020_generalization_bib.txt">[Bibtex]</a>
 <a href="https://github.com/salesforce/comparison_SGD_ADAM">[Code]</a>
 <a href="../assets/pdf/2020-NIPS-SGD-slides.pdf">[Slides]</a>
-<a href="../assets/pdf/2020-NIPS-SGD-poster.pdf">[Poster]</a>
+<a href="../assets/pdf/2020-NIPS-SGD-poster.pdf">[Poster]</a>, 200+ citations, 
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
