@@ -1,0 +1,6 @@
+@inproceedings{xiao2020adversarial,
+  title={Adversarial Meta Sampling for Multilingual Low-Resource Speech Recognition},
+  author={Yubei Xiao and Ke Gong and Pan Zhou and Guolin Zheng and Xiaodan Liang and Liang Lin},
+  booktitle={Association for the Advancement of Artificial Intelligence},
+  year={2021}
+}
