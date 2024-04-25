@@ -8,8 +8,8 @@ nav_order: 3
 ---
 
 #####  **Instructor for**
-  * Image Perception (CS424) at Singapore Management University, Fall 2024
-  * Project Experience (IS483) at Singapore Management University, Spring 2025
+  * Image Perception (CS424) at Singapore Management University, Spring 2025
+  * Project Experience (IS483) at Singapore Management University, Fall 2024
 
 #####  **Teaching Assistant for**
   * Neural Network (NUS EE5904R/ME5404) at National University of Singapore, Spring 2018

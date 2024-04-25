@@ -229,7 +229,6 @@ NeurIPS, 2020,
 
   <br> 
 
-
 ##### **Full Publications** 
 
 <!-- ### Full Publications -->
@@ -1168,5 +1167,48 @@ IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong
 </li>
 
 
+
+</ol>
+
+ <br>
+
+##### **Books and Patents**
+<ol class="biblist"> 
+<!-- Item: 1 -->
+<li ><p>
+<strong>Tensors for Data Processing</strong><br> 
+Chapter 6 is contributed by <strong>Pan Zhou</strong>, Canyi Lu, Zhouchen Lin  <br /> 
+Elsevier, 2022.   
+<a href="https://www.sciencedirect.com/science/article/abs/pii/B9780128244470000121">[PDF]</a>
+</p>
+</li>
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>Neural network based scene text recognition</strong><br> 
+<strong>Pan Zhou</strong>, Peng Tang, Ran Xu, Chu Hong Hoi<br /> 
+US Patent, 2022.   
+<a href="https://patentimages.storage.googleapis.com/2c/b3/d2/d0a3dcc343b870/US20220237403A1.pdf">[PDF]</a>
+</p>
+</li>
+
+ 
+<!-- Item: 1 -->
+<li ><p>
+<strong>Systems and methods for contrastive learning with self-labeling refinement</strong><br> 
+<strong>Pan Zhou</strong>, Caiming Xiong, Chu Hong Hoi<br /> 
+US Patent, 2022.   
+<a href="https://patentimages.storage.googleapis.com/26/48/86/29fb78a23ee73c/US20220269946A1.pdf">[PDF]</a>
+</p>
+</li>
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>System and method for differential architecture search for neural networks</strong><br> 
+<strong>Pan Zhou</strong>, Chu Hong Hoi<br /> 
+US Patent, 2021.   
+<a href="https://patentimages.storage.googleapis.com/ea/8a/b2/ed2e17a1d3937e/US20210383188A1.pdf">[PDF]</a>
+</p>
+</li>
 
 </ol>
