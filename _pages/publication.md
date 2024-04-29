@@ -605,7 +605,7 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022 (<font co
 <li ><p>
 <strong>Mugs: A Multi-Granular Self-Supervised Learning Framework</strong><br />
 <strong>Pan Zhou</strong><strong><sup>*</sup></strong>, Yichen Zhou<strong><sup>*</sup></strong>, Chenyang Si<strong><sup>*</sup></strong>,  Weihao Yu, Teck Khim Ng, Shuicheng Yan<br />
-<strong> Workshop of Neural Information Processing Systems, 2022. (<font color="#FF0000">SoTA SSL performance on ImageNet without extra data</font> under linear probing and KNN evaluation settings </strong>) <br />
+<strong> Workshop of Neural Information Processing Systems, 2022.  <br />
 <a href="https://arxiv.org/abs/2203.14415">[PDF]</a>
 <a href="https://github.com/sail-sg/mugs">[Code]</a>
 <iframe
@@ -617,7 +617,8 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022 (<font co
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="400px" height="20px"
     src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mugs-a-multi-granular-self-supervised/self-supervised-image-classification-on" >
-</iframe>
+</iframe><br />
+<font color="#2770AB"><b> SoTA SSL performance on ImageNet without extra data under linear probing and KNN evaluation settings.</b></font> <br />
 </p>
 </li>
 
