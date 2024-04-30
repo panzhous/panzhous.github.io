@@ -241,6 +241,22 @@ NeurIPS, 2020,
 
 <!-- Item: 1 -->
 <li ><p>
+<strong>Instant3D: Instant Text-to-3D Generation</strong><br>
+Ming Li, <strong>Pan Zhou</strong>, Jia-Wei Liu, Jussi Keppo, Min Lin, Shuicheng Yan, Xiangyu Xu  <br /> 
+International Journal of Computer Vision (<strong>IJCV</strong>), 2024<br />
+<a href="https://arxiv.org/abs/2311.08403">[Axriv]</a>
+<a href="https://ming1993li.github.io/Instant3DProj/">[Code]</a>
+<iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://ghbtns.com/github-btn.html?user=ming1993li&repo=Instant3DCodes&type=star&count=true" >
+</iframe>
+</p>
+</li>
+
+
+<!-- Item: 1 -->
+<li ><p>
 <strong>Win: Weight-Decay-Integrated Nesterov Acceleration for  Faster Network Training</strong><br>
 <strong>Pan Zhou</strong>, Xingyu Xie, Zhouchen Lin, Kim-Chuan Toh, Shuicheng Yan  <br /> 
 Journal of Machine Learning Research (<strong>JMLR</strong>), 2024<br />
@@ -602,25 +618,28 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022 (<font co
 </p>
 </li>
  
+
+<!-- Item: 1 -->
 <li ><p>
 <strong>Mugs: A Multi-Granular Self-Supervised Learning Framework</strong><br />
 <strong>Pan Zhou</strong><strong><sup>*</sup></strong>, Yichen Zhou<strong><sup>*</sup></strong>, Chenyang Si<strong><sup>*</sup></strong>,  Weihao Yu, Teck Khim Ng, Shuicheng Yan<br />
-<strong> Workshop of Neural Information Processing Systems, 2022.  <br />
-<a href="https://arxiv.org/abs/2203.14415">[PDF]</a>
+Workshop of Neural Information Processing Systems, 2022.<br />
+<a href="https://arxiv.org/abs/2203.14415">[Axriv]</a>
 <a href="https://github.com/sail-sg/mugs">[Code]</a>
 <iframe
-    style="margin-left: 2px; margin-bottom:-5px;"
-    frameborder="0" scrolling="0" width="91px" height="20px"
-    src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=mugs&type=star&count=true" >
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=mugs&type=star&count=true" >
 </iframe>
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="400px" height="20px"
     src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mugs-a-multi-granular-self-supervised/self-supervised-image-classification-on" >
 </iframe><br />
-<font color="#2770AB"><b> SoTA SSL performance on ImageNet without extra data under linear probing and KNN evaluation settings.</b></font> <br />
+<font color="#2770AB"><b>Top linear probing and KNN performance on ImageNet without extra data</b></font><br />
 </p>
 </li>
+
 
 
 <!-- Item: 1 -->
