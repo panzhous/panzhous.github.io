@@ -183,7 +183,7 @@ Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*
     frameborder="0" scrolling="0" width="91px" height="20px"
     src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Adan&type=star&count=true" >
 </iframe><br />
-<font color="#2770AB"><b> SoTA optimizer on ResNet, ConvNext, ViT, Swin, MAE, BERT, GPT2, Dreamffusion, PPO in RL,  etc.</b></font> <br />
+<font color="#2770AB"><b> 2X-faster and SoTA optimizer on ResNet, ConvNext, ViT, Swin, MAE, BERT, GPT2, Dreamffusion, PPO in RL,  etc.</b></font> <br />
 </p>
 </li>
 
