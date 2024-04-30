@@ -183,7 +183,9 @@ Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*
     frameborder="0" scrolling="0" width="91px" height="20px"
     src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Adan&type=star&count=true" >
 </iframe><br />
-<font color="#2770AB"><b> 2X-faster and SoTA optimizer on 15+ kinds of networks like ResNet, ConvNext, ViT, Swin, MAE, BERT, GPT2, LLAMA, Dreamfusion, DiT, PPO in RL,  etc.</b></font> <br />
+<font color="#2770AB"><b> 2X-faster and SoTA optimizer on 15+ networks</b> like ResNet, ConvNext, ViT, Swin, MAE, BERT, GPT2, LLAMA, Dreamfusion, DiT, PPO in RL,  etc. <b>Included by 
+ popular deep-learning codebases</b> like <a href="https://github.com/NVIDIA/NeMo/blob/main/nemo/core/optim/adan.py">NVIDIA NeMo</a> for LLM,  <a href="https://github.com/huggingface/pytorch-image-models/blob/main/timm/optim/adan.py">HuggingFace Timm</a> and <a href="https://github.com/open-mmlab/mmpretrain/blob/dev-1.x/mmcls/engine/optimizers/adan_t.py">OpenMMLab</a> for CV tasks, <a href="https://github.com/Jittor/jittor/blob/master/python/jittor/optim.py">Jittor of Tsinghua University</a> for 3D.
+</font> <br />
 </p>
 </li>
 
