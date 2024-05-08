@@ -711,7 +711,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2022 <br />
 <!-- Item: 1 -->
 <li ><p>
 <strong>Prototypical Graph Contrastive Learning</strong><br />
-Lin Shuai, Liu Chen, <strong>Pan Zhou</strong>, Hu Zi-yuan, Wang Shuojia, Zhao Ruihui, Zheng Yefeng, Lin Liang, Xing Eric, Liang Xiaodan<br /> 
+Shuai Lin,  Chen Liu, <strong>Pan Zhou</strong>,  Zi-yuan Hu,  Shuojia Wang,  Ruihui Zhao,  Yefeng Zheng,  Liang Lin,  Eric Xing,  Xiaodan Liang<br /> 
 IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2022 <br />
 <a href="https://arxiv.org/abs/2106.09645">[Axriv]</a>
 <a href="https://github.com/ha-lins/PGCL">[Code]</a>
@@ -781,7 +781,6 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 
 <!-- Item: 1 -->
 <li ><p>
-<strong>Prototypical Graph Contrastive Learning</strong><br />
 <strong>Task Similarity Aware Meta Learning: Theory-inspired Improvement on MAML</strong><br />
 <strong>Pan Zhou</strong>, Yingtian Zou, XiaoTong Yuan, Jiashi Feng, Caiming Xiong, and Steven Hoi<br /> 
 International Conference on Uncertainty in Artificial Intelligence  (<strong>UAI</strong>), 2021 (NeurIPS'20 Meta Learning Workshop Paper) <br />
