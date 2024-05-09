@@ -117,7 +117,7 @@ My research target is to build **”efficient and effective artificial intellige
             style="margin-left: 2px; margin-bottom:-5px;"
             frameborder="0" scrolling="0" width="91px" height="20px"
             src="https://ghbtns.com/github-btn.html?user=yxymessi&repo=DTC123&type=star&count=true" >
-        </iframe>) and <strong><a href="https://arxiv.org/abs/2403.18795">Gamba</a></strong>  for image-to-3D generation, <strong><a href="https://arxiv.org/abs/2311.08403">Instant3D</a></strong> (
+        </iframe>) and <strong><a href="https://arxiv.org/abs/2403.18795">Gamba</a></strong>  for image-to-3D generation, <strong><a href="https://arxiv.org/abs/2311.08403">Instant3D</a></strong> (IJCV, 
         <iframe
             style="margin-left: 2px; margin-bottom:-5px;"
             frameborder="0" scrolling="0" width="91px" height="20px"
@@ -239,7 +239,7 @@ My research target is to build **”efficient and effective artificial intellige
 
 
 * <details> 
-    <summary> <strong>Unified Plug-and-play Accelration Framework</strong> (click here for representative works)</summary>
+    <summary> <strong>Unified Plug-and-play Acceleration Framework</strong> (click here for representative works)</summary>
 
     <strong><a href="../assets/pdf/2024-JMLR-win.pdf">Win</a></strong> (JMLR & ICLR, 
     <iframe
