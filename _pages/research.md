@@ -239,7 +239,7 @@ My research target is to build **”efficient and effective artificial intellige
 
 
 * <details> 
-    <summary> <strong>Unified Plug-and-play Acceleration Framework</strong> (click here for representative works)</summary>
+    <summary> <strong>Plug-and-play Acceleration Framework</strong> (click here for representative works)</summary>
 
     <strong><a href="../assets/pdf/2024-JMLR-win.pdf">Win</a></strong> (JMLR & ICLR, 
     <iframe
