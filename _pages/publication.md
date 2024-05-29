@@ -52,7 +52,6 @@ function toggleBibtex(articleid) {
 
 
 ##### **Featured Publications** 
-<!-- Generated from JabRef by PubList by Truong Nghiem at 09:00 on 2015.11.04. -->
 
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/masked-diffusion-transformer-is-a-strong/image-generation-on-imagenet-256x256)](https://paperswithcode.com/sota/image-generation-on-imagenet-256x256?p=masked-diffusion-transformer-is-a-strong)
 
@@ -63,17 +62,30 @@ function toggleBibtex(articleid) {
 [![HuggingFace space](https://img.shields.io/badge/🤗-HuggingFace%20Space-cyan.svg)](https://huggingface.co/spaces/shgao/MDT) -->
 
 
-<!-- <div id="bib_lu2020tensor" class="bibtex noshow">
-<pre>
-@article{Adan,
-  author = {Xingyu Xie<span>&#42;</span>, <strong>Pan Zhou</strong><span>&#42;</span>, Huan Li, Zhouchen Lin, Shuicheng Yan},
-  title = {Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
-  year = {2024}
-}
-</pre></div> -->
+<!-- [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech)
+
+[EditAnything ![](https://img.shields.io/github/stars/sail-sg/EditAnything?style=social)](https://github.com/sail-sg/EditAnything) -->
+
 
 <ol class="biblist">
+<!-- Item: 1 -->
+<!-- <li ><p>
+<strong>EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation</strong><br />
+Shanghua Gao, Zhijie Lin, Xingyu Xie, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
+ACMMM, 2023, 
+<a href="https://dl.acm.org/doi/10.1145/3581783.3612680" style="color: black;">[PDF]</a>
+<a href="https://github.com/sail-sg/EditAnything" style="color: black;">[Code]</a> 
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/sail-sg/EditAnything?style=social" >
+</iframe><br />
+<font color="#2770AB"><b>the first a few pioneers for highly-flexible image editing,</b> e.g., cross-image  dragging like try-on, region-interactive editing, controllable layout generation, and virtual character replacement.  </font> <br />
+</p>
+</li> -->
+
+
+
 <li ><p>
 <strong>Masked Diffusion Transformer is a Strong Image Synthesizer</strong><br />
 Shanghua Gao, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
@@ -82,8 +94,9 @@ ICCV, 2023, <a href="https://arxiv.org/abs/2303.14389" style="color: black;">[PD
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=MDT&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/MDT?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=MDT&type=star&count=true" > -->
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="400px" height="20px"
@@ -103,8 +116,9 @@ ACMMM, 2023,
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=EditAnything&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/EditAnything?style=social" >
 </iframe><br />
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=EditAnything&type=star&count=true" > -->
 <font color="#2770AB"><b>the first a few pioneers for highly-flexible image editing,</b> e.g., cross-image  dragging like try-on, region-interactive editing, controllable layout generation, and virtual character replacement.  </font> <br />
 </p>
 </li>
@@ -119,8 +133,9 @@ CVPR, 2024,
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Consistent3D&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/Consistent3D?style=social" >
 </iframe><br />
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Consistent3D&type=star&count=true" > -->
 <font color="#2770AB"><b>the first ODE-sampling guided Score Distillation Sampling</b> for 3D generation</font> <br />
 </p>
 </li>
@@ -140,8 +155,9 @@ ICLR, 2021,
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=salesforce&repo=PCL&type=star&count=true" >
+      src="https://img.shields.io/github/stars/salesforce/PCL?style=social" >
 </iframe><br />
+<!-- src="https://ghbtns.com/github-btn.html?user=salesforce&repo=PCL&type=star&count=true" > -->
 <font color="#2770AB"><b>the first clustering contrastive learning method to learn high-level semantics, i.e., data cluster structure</b></font> <br />
 </p>
 </li>
@@ -157,8 +173,9 @@ TPAMI & CVPR, 2023,
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=poolformer&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/poolformer?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=poolformer&type=star&count=true" > -->
 <!-- <iframe
         style="margin-left: 2px; margin-bottom:-5px;"
         frameborder="0" scrolling="0" width="490px" height="20px"
@@ -181,8 +198,9 @@ Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="91px" height="20px"
-    src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Adan&type=star&count=true" >
+    src="https://img.shields.io/github/stars/sail-sg/Adan?style=social" >
 </iframe><br />
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Adan&type=star&count=true" > -->
 <font color="#2770AB"><b> 2X-faster and SoTA optimizer on 15+ networks</b> like ResNet, ConvNext, ViT, Swin, MAE, BERT, GPT2, LLAMA, Dreamfusion, DiT, PPO in RL,  etc. <b>Included by 
  popular deep-learning codebases</b> like <a href="https://github.com/NVIDIA/NeMo/blob/main/nemo/core/optim/adan.py">NVIDIA NeMo</a> for LLM,  <a href="https://github.com/huggingface/pytorch-image-models/blob/main/timm/optim/adan.py">HuggingFace Timm</a> and <a href="https://github.com/open-mmlab/mmpretrain/blob/dev-1.x/mmcls/engine/optimizers/adan_t.py">OpenMMLab</a> for CV tasks, <a href="https://github.com/Jittor/jittor/blob/master/python/jittor/optim.py">Jittor of Tsinghua University</a> for 3D.
 </font> <br />
@@ -199,8 +217,9 @@ JMLR & ICLR, 2024
 <iframe
     style="margin-left: 2px; margin-bottom:-5px; color: black;"
     frameborder="0" scrolling="0" width="91px" height="20px"
-    src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=win&type=star&count=true" >
+    src="https://img.shields.io/github/stars/sail-sg/win?style=social" >
 </iframe><br />
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=win&type=star&count=true" > -->
 <font color="#2770AB"><b>accelerate AdamW/Adam/LAMB/SGD by 1.5x on vision and language modeling tasks.</b></font> <br />
 </p>
 </li>
@@ -251,8 +270,9 @@ International Journal of Computer Vision (<strong>IJCV</strong>), 2024<br />
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="91px" height="20px"
-    src="https://ghbtns.com/github-btn.html?user=ming1993li&repo=Instant3DCodes&type=star&count=true" >
+    src="https://img.shields.io/github/stars/ming1993li/Instant3DCodes?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=ming1993li&repo=Instant3DCodes&type=star&count=true" > -->
 </p>
 </li>
 
@@ -267,8 +287,9 @@ Journal of Machine Learning Research (<strong>JMLR</strong>), 2024<br />
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="91px" height="20px"
-    src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=win&type=star&count=true" >
+    src="https://img.shields.io/github/stars/sail-sg/win?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=win&type=star&count=true" > -->
 </p>
 </li>
 
@@ -283,8 +304,9 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="91px" height="20px"
-    src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ptp&type=star&count=true" >
+    src="https://img.shields.io/github/stars/sail-sg/ptp?style=social" >
 </iframe>,
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ptp&type=star&count=true" > -->
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="400px" height="20px"
@@ -315,8 +337,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=CLoT&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/CLoT?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=CLoT&type=star&count=true" > -->
 </p>
 </li>
 
@@ -331,8 +354,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=inceptionnext&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/inceptionnext?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=inceptionnext&type=star&count=true" > -->
 </p>
 </li>
 
@@ -348,8 +372,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Consistent3D&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/Consistent3D?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Consistent3D&type=star&count=true" > -->
 </p>
 </li>
 
@@ -364,8 +389,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=nblt&repo=F-SAM&type=star&count=true" >
+      src="https://img.shields.io/github/stars/nblt/F-SAM?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=nblt&repo=F-SAM&type=star&count=true" > -->
 </p>
 </li>
 
@@ -381,8 +407,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=yue-zhongqi&repo=tif&type=star&count=true" >
+      src="https://img.shields.io/github/stars/yue-zhongqi/tif?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=yue-zhongqi&repo=tif&type=star&count=true" > -->
 </p>
 </li>
 
@@ -397,8 +424,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=yxymessi&repo=DTC123&type=star&count=true" >
+      src="https://img.shields.io/github/stars/yxymessi/DTC123?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=yxymessi&repo=DTC123&type=star&count=true" > -->
 </p>
 </li>
 
@@ -419,7 +447,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=metaformer&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/metaformer?style=social" >
 </iframe>,  <iframe
         style="margin-left: 2px; margin-bottom:-5px;"
         frameborder="0" scrolling="0" width="700px" height="20px"
@@ -427,7 +455,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
     </iframe>
 </p>
 </li>
- 
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=metaformer&type=star&count=true" > -->
 
 <!-- Item: 1 -->
 <li ><p>
@@ -439,8 +467,9 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br />
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ScaleLong&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/ScaleLong?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ScaleLong&type=star&count=true" > -->
 </p>
 </li>
  
@@ -455,8 +484,9 @@ International Conference on Computer Vision (<strong>ICCV</strong>), 2023<br />
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=MDT&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/MDT?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=MDT&type=star&count=true" > -->
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="400px" height="20px"
@@ -481,8 +511,10 @@ ACM International Conference on Multimedia (<strong>ACMMM</strong>), 2023<br />
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=EditAnything&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/EditAnything?style=social" >
+      
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=EditAnything&type=star&count=true" > -->
 <!-- <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="150px" height="20px"
@@ -513,8 +545,9 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=doc-doc&repo=CoVGT&type=star&count=true" >
+      src="https://img.shields.io/github/stars/doc-doc/CoVGT?style=social" >
 </iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=doc-doc&repo=CoVGT&type=star&count=true" > -->
 </p>
 </li>
  
@@ -529,7 +562,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ptp&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/ptp?style=social" >
 </iframe>,
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
@@ -538,6 +571,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ptp&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -550,10 +584,11 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=win&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/win?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=win&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -576,7 +611,7 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=DongSky&repo=LPT&type=star&count=true" >
+      src="https://img.shields.io/github/stars/DongSky/LPT?style=social" >
 </iframe>,
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
@@ -585,6 +620,7 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=DongSky&repo=LPT&type=star&count=true" > -->
 
 
 <!-- Item: 1 -->
@@ -615,10 +651,11 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022 (<font co
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=iFormer&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/iFormer?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=iFormer&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -631,7 +668,7 @@ Workshop of Neural Information Processing Systems, 2022.<br />
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=mugs&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/mugs?style=social" >
 </iframe>
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
@@ -641,7 +678,7 @@ Workshop of Neural Information Processing Systems, 2022.<br />
 <font color="#2770AB"><b>Top linear probing and KNN performance on ImageNet without extra data</b></font><br />
 </p>
 </li>
-
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=mugs&type=star&count=true" > -->
 
 
 <!-- Item: 1 -->
@@ -654,10 +691,11 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2022 <br />
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=dualformer&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/dualformer?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=dualformer&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -670,10 +708,11 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2022 <br />
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=VGT&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/VGT?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=VGT&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -686,10 +725,11 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2022 <br />
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=DongSky&repo=few-shot-vit&type=star&count=true" >
+      src="https://img.shields.io/github/stars/DongSky/few-shot-vit?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=DongSky&repo=few-shot-vit&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -702,10 +742,11 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2022 <br />
   <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=poolformer&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/poolformer?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=poolformer&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -718,10 +759,11 @@ IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=ha-lins&repo=PGCL&type=star&count=true" >
+      src="https://img.shields.io/github/stars/ha-lins/PGCL?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=ha-lins&repo=PGCL&type=star&count=true" > -->
  
 
  
@@ -761,10 +803,11 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2021 <br />
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=SLRLA-optimizer&type=star&count=true" >
+      src="https://img.shields.io/github/stars/sail-sg/SLRLA-optimizer?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=SLRLA-optimizer&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -790,10 +833,11 @@ International Conference on Uncertainty in Artificial Intelligence  (<strong>UAI
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=Carbonaraa&repo=TSA-MAML&type=star&count=true" >
+      src="https://img.shields.io/github/stars/Carbonaraa/TSA-MAML?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=Carbonaraa&repo=TSA-MAML&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -828,10 +872,11 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=salesforce&repo=PCL&type=star&count=true" >
+      src="https://img.shields.io/github/stars/salesforce/PCL?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=salesforce&repo=PCL&type=star&count=true" > -->
  
 <!-- Item: 1 -->
 <li ><p>
@@ -844,10 +889,11 @@ Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=ha-lins&repo=GEML-MDG&type=star&count=true" >
+      src="https://img.shields.io/github/stars/ha-lins/GEML-MDG?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=ha-lins&repo=GEML-MDG&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -857,14 +903,15 @@ Yubei Xiao, Ke Gong, <strong>Pan Zhou</strong>, Guolin Zheng, Xiaodan Liang and 
 Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>), 2021 <br />
 <a href="https://arxiv.org/pdf/2012.11896.pdf">[Axriv]</a>
 <a href="../assets/bibtex/2021-AAAI-ASR.txt">[Bibtex]</a>
-<a href="https://github.com/iamxiaoyubei/AMS">[Code]</a>
-<iframe
+<!-- <a href="https://github.com/iamxiaoyubei/AMS">[Code]</a> -->
+<!-- <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=iamxiaoyubei&repo=AMS&type=star&count=true" >
-</iframe>
+      src="https://img.shields.io/github/stars/iamxiaoyubei/AMS?style=social" >
+</iframe> -->
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=iamxiaoyubei&repo=AMS&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -899,10 +946,11 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2020 (<font co
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=salesforce&repo=PR-DARTS&type=star&count=true" >
+      src="https://img.shields.io/github/stars/salesforce/PR-DARTS?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=salesforce&repo=PR-DARTS&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -920,10 +968,11 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2020<br />
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=salesforce&repo=comparison_SGD_ADAM&type=star&count=true" >
+      src="https://img.shields.io/github/stars/salesforce/comparison_SGD_ADAM?style=social" >
 </iframe>
 </p>
 </li>
+<!-- %src="https://ghbtns.com/github-btn.html?user=salesforce&repo=comparison_SGD_ADAM&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -938,10 +987,11 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2020<br />
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://ghbtns.com/github-btn.html?user=Holmeswww&repo=PPOGAN&type=star&count=true" >
+      src="https://img.shields.io/github/stars/Holmeswww/PPOGAN?style=social" >
 </iframe>
 </p>
 </li>
+<!-- src="https://ghbtns.com/github-btn.html?user=Holmeswww&repo=PPOGAN&type=star&count=true" > -->
  
 
 <!-- Item: 1 -->
@@ -1099,6 +1149,7 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 <strong>Task Relation Networks</strong><br />
 Jianshu Li, <strong>Pan Zhou</strong>, Yunpeng Chen, Jian Zhao, Sujoy Roy, Yan Shuicheng, Jiashi Feng, and  Terence Sim<br />
 IEEE Winter Conference on Applications of Computer Vision (<strong>WACV</strong>), 2019 <br />
+<a href="https://ieeexplore.ieee.org/document/8658407">[PDF]</a>
 </p>
 </li>
 
