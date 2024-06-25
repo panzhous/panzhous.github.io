@@ -47,7 +47,7 @@ My research target is to build **”efficient and effective artificial intellige
             style="margin-left: 2px; margin-bottom:-5px;"
             frameborder="0" scrolling="0" width="91px" height="20px"
             src="https://img.shields.io/github/stars/sail-sg/ptp?style=social" >
-        </iframe>) is the pioneer to enhance grounding ability in multi-modal models, and LOVA<sup>3</sup> is to enpower models with humans' ability, including the answering, asking and accessing ability. See more works like <strong><a href="https://arxiv.org/abs/2312.02439">CLOT</a></strong>(CVPR, 
+        </iframe>) is the pioneer to enhance grounding ability in multi-modal models, and <strong><a href="https://arxiv.org/abs/2405.14974">LOVA<sup>3</sup></a></strong> is to empower models with humans' ability, including the answering, asking and accessing ability. See more works like <strong><a href="https://arxiv.org/abs/2312.02439">CLOT</a></strong>(CVPR, 
         <iframe
             style="margin-left: 2px; margin-bottom:-5px;"
             frameborder="0" scrolling="0" width="91px" height="20px"

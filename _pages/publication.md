@@ -67,6 +67,10 @@ function toggleBibtex(articleid) {
 [EditAnything ![](https://img.shields.io/github/stars/sail-sg/EditAnything?style=social)](https://github.com/sail-sg/EditAnything) -->
 
 
+
+
+
+
 <ol class="biblist">
 <!-- Item: 1 -->
 <!-- <li ><p>
@@ -193,6 +197,7 @@ TPAMI & CVPR, 2023,
 <li ><p>
 <strong>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</strong><br />
 Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*</sup></strong>, Huan Li, Zhouchen Lin, Shuicheng Yan <br />
+TPAMI, 2024 
 <a href="https://arxiv.org/abs/2208.06677" style="color: black;">[PDF]</a>
 <a href="https://github.com/sail-sg/Adan" style="color: black;">[Code]</a>
 <iframe
@@ -212,7 +217,7 @@ Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*
 <strong>Win: Weight-Decay-Integrated Nesterov Acceleration for  Faster Network Training</strong><br>
 <strong>Pan Zhou</strong>, Xingyu Xie, Zhouchen Lin, Kim-Chuan Toh, Shuicheng Yan  <br /> 
 JMLR & ICLR, 2024
-<!-- <a href="../assets/pdf/2024-JMLR-win.pdf">[PDF]</a> -->
+<a href="../assets/pdf/2024-JMLR-win.pdf" style="color: black;">[PDF]</a> 
 <a href="https://github.com/sail-sg/win" style="color: black;">[Code]</a>
 <iframe
     style="margin-left: 2px; margin-bottom:-5px; color: black;"
@@ -252,6 +257,17 @@ NeurIPS, 2020,
 
 ##### **Full Publications** 
 
+<!-- <div class="container">
+	
+	<button onclick="select()" class="bygroup">Selected Publications</button>	
+	
+    <button onclick="year()" class="bygroup">By Year</button>
+    
+    <button onclick="topic()" class="bygroup">By Topic</button>
+    
+    <button onclick="scholar()" class="bygroup">Google Scholar</button>
+</div> -->
+
 <!-- ### Full Publications -->
 <ol class="biblist">
 
@@ -260,12 +276,27 @@ NeurIPS, 2020,
 <a name='2024'></a> 2024
 </h4>
 
+
+<li ><p>
+<strong>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</strong><br />
+Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*</sup></strong>, Huan Li, Zhouchen Lin, Shuicheng Yan <br />
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024<br />
+<a href="https://arxiv.org/abs/2208.06677">[PDF]</a>
+<a href="https://github.com/sail-sg/Adan">[Code]</a>
+<iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/sail-sg/Adan?style=social" >
+</iframe><br />
+</p>
+</li>
+
 <!-- Item: 1 -->
 <li ><p>
 <strong>Instant3D: Instant Text-to-3D Generation</strong><br>
 Ming Li, <strong>Pan Zhou</strong>, Jia-Wei Liu, Jussi Keppo, Min Lin, Shuicheng Yan, Xiangyu Xu  <br /> 
 International Journal of Computer Vision (<strong>IJCV</strong>), 2024<br />
-<a href="https://arxiv.org/abs/2311.08403">[Axriv]</a>
+<a href="https://arxiv.org/abs/2311.08403">[PDF]</a>
 <a href="https://ming1993li.github.io/Instant3DProj/">[Code]</a>
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
@@ -282,7 +313,7 @@ International Journal of Computer Vision (<strong>IJCV</strong>), 2024<br />
 <strong>Win: Weight-Decay-Integrated Nesterov Acceleration for  Faster Network Training</strong><br>
 <strong>Pan Zhou</strong>, Xingyu Xie, Zhouchen Lin, Kim-Chuan Toh, Shuicheng Yan  <br /> 
 Journal of Machine Learning Research (<strong>JMLR</strong>), 2024<br />
-<!-- <a href="../assets/pdf/2024-JMLR-win.pdf">[PDF]</a> -->
+<a href="../assets/pdf/2024-JMLR-win.pdf">[PDF]</a>
 <a href="https://github.com/sail-sg/win">[Code]</a>
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
