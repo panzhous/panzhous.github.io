@@ -57,7 +57,7 @@ My research target is to build **”efficient and effective artificial intellige
             style="margin-left: 2px; margin-bottom:-5px;"
             frameborder="0" scrolling="0" width="91px" height="20px"
             src="https://img.shields.io/github/stars/doc-doc/CoVGT?style=social" >
-        </iframe>) for video question answering,         <strong><a href="https://arxiv.org/abs/2312.06731">Genixer</a></strong> to empower multi-modal models as a powerful data generator,  <strong><a href="https://arxiv.org/pdf/2109.09161.pdf">Wav-BERT</a></strong> (AAAI) for acoustic and linguistic representation learning.
+        </iframe>) for video question answering,         <strong><a href="https://arxiv.org/abs/2312.06731">Genixer</a></strong> (ECCV) to empower multi-modal models as a powerful data generator,  <strong><a href="https://arxiv.org/pdf/2109.09161.pdf">Wav-BERT</a></strong> (AAAI) for acoustic and linguistic representation learning.
 
         </details> 
 
