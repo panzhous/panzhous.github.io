@@ -276,6 +276,27 @@ NeurIPS, 2020,
 <a name='2024'></a> 2024
 </h4>
 
+<li ><p>
+<strong>Genixer: Empowering Multimodal Large Language Models as a Powerful Data Generator</strong><br />
+Henry Hengyuan Zhao, <strong>Pan Zhou</strong><strong><sup>+</sup></strong>, Mike Zheng Shou <br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
+<a href="https://arxiv.org/abs/2312.06731">[PDF]</a>
+<a href="https://github.com/zhaohengyuan1/Genixer">[Code]</a>
+<iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/zhaohengyuan1/Genixer?style=social" >
+</iframe><br />
+</p>
+</li>
+
+<li ><p>
+<strong>Efficient Cascaded Multiscale Adaptive Network for Image Restoration</strong><br />
+Yichen Zhou, <strong>Pan Zhou</strong><strong><sup>+</sup></strong>, Teck Khim Ng <br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
+</p>
+</li>
+
 
 <li ><p>
 <strong>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</strong><br />

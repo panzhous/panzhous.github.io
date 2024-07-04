@@ -190,7 +190,7 @@ My research target is to build **”efficient and effective artificial intellige
 * <details> 
     <summary> <strong>Faster Optimizer</strong> (click here for representative works)</summary>
 
-    <strong><a href="https://arxiv.org/abs/2208.06677">Adan</a></strong> (
+    <strong><a href="https://arxiv.org/abs/2208.06677">Adan</a></strong> (TPAMI, 
     <iframe
         style="margin-left: 2px; margin-bottom:-5px;"
         frameborder="0" scrolling="0" width="91px" height="20px"
