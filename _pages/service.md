@@ -8,8 +8,8 @@ nav_order: 5
 ---
 
 ##### **Area Chair for**
-  * Neural Information Processing Systems (NeurIPS, 2023, 2024)
-  * International Conference on Learning Representations (ICLR, 2024)
+  * Neural Information Processing Systems (NeurIPS 2023, 2024)
+  * International Conference on Learning Representations (ICLR 2024, 2025)
 
 ##### **Journal Reviewer for**
   * Journal of Machine Learning Research (JMLR)
