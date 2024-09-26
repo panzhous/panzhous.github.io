@@ -44,7 +44,7 @@ My  target is to build <strong>“efficient and effective artificial intelligent
 <div class="highlight"> 
   <ul>
   <li>I am seeking for (part-time) <strong>Ph.D. applicants</strong> with strong background in computer science and mathematics, fully-supported by <a href="https://computing.smu.edu.sg/phd/online-application">SMU</a>/<a href="https://aisingapore.org/research/phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a>/<a href="http://www1.kunlun.com/research/en/index.html#sec5">industry scholarship</a>.</li>
-  <li>I am recruiting <strong>visiting Ph.D. and Masters</strong> for <u>AIGC direction like 3D generation topic.</u></li>
+  <li>I am recruiting <strong>visiting Ph.D. and Masters</strong> for <u>AIGC direction like 3D generation topic, multimodal learning and LLM, and optimization.</u></li>
 <li>I am looking for self-fund or <a href="https://www.csc.edu.cn/chuguo/">CSC-fund</a> <strong>visiting scholars, Ph.D., and Masters</strong> with interests in my research topics or related ones.</li>  
 <li>I am  welcoming <strong>remote interns/scholars and collaborations</strong> without strong restrictions on topics.</li>  
   </ul>

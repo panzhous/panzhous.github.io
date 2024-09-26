@@ -66,7 +66,7 @@ For students, I am happy to be your co-supervisor for long-term collaboration if
   * You should have good English reading and writing skills, but are not required to have IELTS (TOEFL) and GRE (GMAT) test score. 
 
 For **SMU-fund visiting students/scholars**, please check the following requirements:
-  * You should have top tier research papers in <u>AIGC fields, e.g., image/3D/video generation.</u>  
+  * You should have top tier research papers in <u>AIGC fields like image/3D/video generation, multimodal learning and LLM, and optimization.</u>  
   * For visiting students/scholars, you must get the approval of your superviors/schools.  
   * The visiting duration should be at least 1 year in general, and can be six months for excellent applicants. 
 

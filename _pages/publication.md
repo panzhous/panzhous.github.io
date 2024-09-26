@@ -276,27 +276,23 @@ NeurIPS, 2020,
 <a name='2024'></a> 2024
 </h4>
 
+
+
+<!-- Item: 1 -->
 <li ><p>
-<strong>Genixer: Empowering Multimodal Large Language Models as a Powerful Data Generator</strong><br />
-Henry Hengyuan Zhao, <strong>Pan Zhou</strong><strong><sup>+</sup></strong>, Mike Zheng Shou <br />
-European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
-<a href="https://arxiv.org/abs/2312.06731">[PDF]</a>
-<a href="https://github.com/zhaohengyuan1/Genixer">[Code]</a>
+<strong>Win: Weight-Decay-Integrated Nesterov Acceleration for  Faster Network Training</strong><br>
+<strong>Pan Zhou</strong>, Xingyu Xie, Zhouchen Lin, Kim-Chuan Toh, Shuicheng Yan  <br /> 
+Journal of Machine Learning Research (<strong>JMLR</strong>), 2024<br />
+<a href="../assets/pdf/2024-JMLR-win.pdf">[PDF]</a>
+<a href="https://github.com/sail-sg/win">[Code]</a>
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="91px" height="20px"
-    src="https://img.shields.io/github/stars/zhaohengyuan1/Genixer?style=social" >
-</iframe><br />
+    src="https://img.shields.io/github/stars/sail-sg/win?style=social" >
+</iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=win&type=star&count=true" > -->
 </p>
 </li>
-
-<li ><p>
-<strong>Efficient Cascaded Multiscale Adaptive Network for Image Restoration</strong><br />
-Yichen Zhou, <strong>Pan Zhou</strong><strong><sup>+</sup></strong>, Teck Khim Ng <br />
-European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
-</p>
-</li>
-
 
 <li ><p>
 <strong>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</strong><br />
@@ -328,24 +324,6 @@ International Journal of Computer Vision (<strong>IJCV</strong>), 2024<br />
 </p>
 </li>
 
-
-<!-- Item: 1 -->
-<li ><p>
-<strong>Win: Weight-Decay-Integrated Nesterov Acceleration for  Faster Network Training</strong><br>
-<strong>Pan Zhou</strong>, Xingyu Xie, Zhouchen Lin, Kim-Chuan Toh, Shuicheng Yan  <br /> 
-Journal of Machine Learning Research (<strong>JMLR</strong>), 2024<br />
-<a href="../assets/pdf/2024-JMLR-win.pdf">[PDF]</a>
-<a href="https://github.com/sail-sg/win">[Code]</a>
-<iframe
-    style="margin-left: 2px; margin-bottom:-5px;"
-    frameborder="0" scrolling="0" width="91px" height="20px"
-    src="https://img.shields.io/github/stars/sail-sg/win?style=social" >
-</iframe>
-<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=win&type=star&count=true" > -->
-</p>
-</li>
-
-
 <!-- Item: 1 -->
 <li ><p>
 <strong>Enhancing Visual Grounding in Vision-Language Pre-Training with Position-Guided Text Prompts</strong><br>
@@ -368,6 +346,8 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </li>
 
 
+
+
 <!-- Item: 1 -->
 <li ><p>
 <strong>Towards Understanding Convergence and Generalization of AdamW</strong><br>
@@ -377,6 +357,73 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <a href="../assets/pdf/2024-TPAMI-AdamW-supp.pdf">[Supp]</a>
 </p>
 </li>
+
+
+<li ><p>
+<strong>Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation</strong><br />
+Ruihao Xia, Yu Liang, Peng-Tao Jiang, Hao Zhang, Bo Li, Yang Tang, <strong>Pan Zhou</strong> <br /> 
+Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024<br />
+<a href="https://arxiv.org/abs/2405.18144">[Axriv]</a>
+</p>
+</li>
+
+
+<li ><p>
+<strong>LOVA3: Learning to Visual Question Answering, Asking and Assessment</strong><br />
+Hengyuan Zhao, <strong>Pan Zhou</strong><strong><sup>+</sup></strong>, Difei Gao, Mike Zheng Shou<br /> 
+Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024<br />
+<a href="https://arxiv.org/abs/2405.14974">[Axriv]</a>
+<a href="https://github.com/showlab/LOVA3">[Code]</a> 
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/showlab/LOVA3?style=social" >
+</iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ScaleLong&type=star&count=true" > -->
+</p>
+</li>
+
+
+<li ><p>
+<strong>4-bit Shampoo for Memory-Efficient Network Training</strong><br />
+Sike Wang, <strong>Pan Zhou</strong>, Jia Li, Hua Huang<br /> 
+Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024<br />
+<a href="https://arxiv.org/abs/2405.18144">[Axriv]</a>
+<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ScaleLong&type=star&count=true" > -->
+</p>
+</li>
+
+
+<li ><p>
+<strong>MVGamba: Unify 3D Content Generation as State Space Sequence Modeling</strong><br />
+Xuanyu Yi, Zike Wu, Qiuhong Shen, Qingshan Xu, <strong>Pan Zhou</strong>, Joo Hwee Lim, Shuicheng YAN, Xinchao Wang, Hanwang Zhang<br /> 
+Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024<br />
+<a href="https://arxiv.org/abs/2406.06367">[Axriv]</a>
+</p>
+</li>
+
+
+<li ><p>
+<strong>Genixer: Empowering Multimodal Large Language Models as a Powerful Data Generator</strong><br />
+Henry Hengyuan Zhao, <strong>Pan Zhou</strong><strong><sup>+</sup></strong>, Mike Zheng Shou <br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
+<a href="https://arxiv.org/abs/2312.06731">[PDF]</a>
+<a href="https://github.com/zhaohengyuan1/Genixer">[Code]</a>
+<iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/zhaohengyuan1/Genixer?style=social" >
+</iframe><br />
+</p>
+</li>
+
+<li ><p>
+<strong>Efficient Cascaded Multiscale Adaptive Network for Image Restoration</strong><br />
+Yichen Zhou, <strong>Pan Zhou</strong><strong><sup>+</sup></strong>, Teck Khim Ng <br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
+</p>
+</li>
+
 
 
 <!-- Item: 1 -->
