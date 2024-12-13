@@ -364,6 +364,12 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 Ruihao Xia, Yu Liang, Peng-Tao Jiang, Hao Zhang, Bo Li, Yang Tang, <strong>Pan Zhou</strong> <br /> 
 Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024<br />
 <a href="https://arxiv.org/abs/2405.18144">[Axriv]</a>
+<a href="https://github.com/XiaRho/MADM">[Code]</a> 
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/XiaRho/MADM?style=social" >
+</iframe>
 </p>
 </li>
 
@@ -389,6 +395,12 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024<br />
 Sike Wang, <strong>Pan Zhou</strong>, Jia Li, Hua Huang<br /> 
 Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024<br />
 <a href="https://arxiv.org/abs/2405.18144">[Axriv]</a>
+<a href="https://github.com/Sike-Wang/low-bit-Shampoo">[Code]</a> 
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/Sike-Wang/low-bit-Shampoo?style=social" >
+</iframe>
 <!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ScaleLong&type=star&count=true" > -->
 </p>
 </li>
@@ -399,6 +411,12 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024<br />
 Xuanyu Yi, Zike Wu, Qiuhong Shen, Qingshan Xu, <strong>Pan Zhou</strong>, Joo Hwee Lim, Shuicheng YAN, Xinchao Wang, Hanwang Zhang<br /> 
 Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024<br />
 <a href="https://arxiv.org/abs/2406.06367">[Axriv]</a>
+<a href="https://github.com/SkyworkAI/Gamba">[Code]</a> 
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/SkyworkAI/Gamba?style=social" >
+</iframe>
 </p>
 </li>
 
