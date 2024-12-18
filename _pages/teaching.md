@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 #####  **Instructor for**
-  * Image Perception (CS424) at Singapore Management University, Spring 2025
+  * Generative AI for Vision (CS424) at Singapore Management University, Spring 2025
   * Project Experience (IS483) at Singapore Management University, Fall 2024
 
 #####  **Teaching Assistant for**
