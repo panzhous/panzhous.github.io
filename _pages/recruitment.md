@@ -38,7 +38,7 @@ I have several **full- and part-time Ph.D.** opening positions for 2025 admissio
 
 
 #####  **1) Ph.D. Application**
-For (part-time) Ph.D. applicants, please satisfy the following general requirements:
+For full- and part-time Ph.D. applicants, please satisfy the following general requirements:
 
   * You should have a bachelor's or master's degree in computer science or mathematics or a related field, with outstanding academic performance.
   * You should have strong programming skills, and are familiar with deep learning frameworks like PyTorch. Winners of ACM/ICPC or NOI/IOI are preferred.
@@ -48,12 +48,12 @@ For (part-time) Ph.D. applicants, please satisfy the following general requireme
 
  <!-- The English requirement for admission to SUTD's PhD program is approximately:TOEFL >=90, IELTS >=6.5. -->
 Please see more <a href="https://computing.smu.edu.sg/phd/online-application">SMU Ph.D. requirements and application schedule</a>.  **For Singapore citizens and PR, SMU provides  preferential admission policy, e.g., sufficient Ph.D. headcounts.** For all Ph.D. applicants, you have the following scholarship choices: 
-  * **SMU scholarship**. SMU provides fully-funded scholarships for (part-time)  Ph.D. students, covering tuition and living expenses (SGD 2200-3300/month). Application deadline for Spring/Fall admission is usually June/Jan per year. See more details at <a href="https://computing.smu.edu.sg/phd/admissions-fees-scholarships">the SMU Ph.D. Fellowship Programme</a>.  
+  * **SMU scholarship**. SMU provides fully-funded scholarships for full- and part-time  Ph.D. students, covering tuition and living expenses (SGD 2200-3300/month). Application deadline for Spring/Fall admission is usually June/Jan per year. See more details at <a href="https://computing.smu.edu.sg/phd/admissions-fees-scholarships">the SMU Ph.D. Fellowship Programme</a>.  
   * **SINGA scholarship**. Singapore International Graduate Award (SINGA) provides fully-funded scholarships for Ph.D., covering tuition and living expenses (SGD 2700-3200/month). The application deadline for Spring/Fall admission is often Aug/Feb per year. See details at <a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">the SINGA Ph.D. Fellowship Programme</a>. 
   * **AISG scholarship**. If you have published a top-tier conference paper as the first author, you can apply for the AISG scholarship (SGD 5000/month for international students). The application deadline for Spring/Fall admission is often Aug/Jan per year. See details at <a href="https://aisingapore.org/research/phd-fellowship-programme/">the AISG Ph.D. Fellowship Programme</a>.  
   <!-- * If you hold Singapore Citizen/PR status, there are more scholarship options available (please email for consultation). -->
 
-**Application**. For applicants, please send your English resume, transcripts, and a research proposal with your interested research topic inside  to  my email. The email title should be: [Target Position (Ph.D./Part-time Ph.D.) Application] + Your Name + Institution Name + Qualification (Bachelor/Master).
+**Application**. For applicants, please send your English resume, transcripts, and a research proposal with your interested research topic inside  to  my email. The email title should be: [Target Position (full-time Ph.D./Part-time Ph.D.) Application] + Your Name + Institution Name + Qualification (Bachelor/Master).
 
 
 #####  **2) Visiting and Remote-interning Students/Scholars**
