@@ -15,11 +15,11 @@ nav_order: 6
 </style>
 
 
-I have several **(part-time) Ph.D.** opening positions for 2025 admission, and are also constantly seeking **SMU-fund / self-fund / CSC-fund visiting students and scholars**, and **(remote) interns and scholars** to join my team. For SMU-fund students, the topic is restricted to AIGC. I am also open to any industrial and personal collaboration without restrictions on the research topic. Please feel free to drop me an email. 
+I have several **full- and part-time Ph.D.** opening positions for 2025 admission, and are also constantly seeking **SMU-fund / self-fund / CSC-fund visiting students and scholars**, and **(remote) interns and scholars** to join my team.  I am also open to any industrial and personal collaboration without restrictions on the research topic. Please feel free to drop me an email. 
 
 
 <!-- <details> 
-<summary> <big><strong>What Dr. ZHOU Offers for Ph.D.,  Visitings and (Remote) Interns</strong></big></summary>
+<summary> <big><strong>What Dr. ZHOU Offers for Ph.D.,  Visitings and (Remote) Interns</strong></big></summary> For SMU-fund students, the topic is restricted to AIGC.
 
   * Open Research Environment. You can do in cutting-edge AI research, and have publications on the top-tier conferences and journals.
   * Meticulous Research Guidance: You can receive meticulous guidance from Dr. Zhou on selecting research topics, giving and discussing ideas, and guiding experiments. All these are to foster your independent and innovative thinking.
