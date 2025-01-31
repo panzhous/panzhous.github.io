@@ -273,6 +273,43 @@ NeurIPS, 2020,
 
 
 <h4>
+<a name='2025'></a> 2025
+</h4>
+
+
+<li ><p>
+<strong>A Causality-aware Paradigm for Evaluating Creativity of Multimodal Large Language Models</strong><br>
+Zhongzhan Huang<sup>*</sup>, Shanshan Zhong<sup>*</sup>, <strong>Pan Zhou<sup>*</sup></strong>, Shanghua Gao, Marinka Zitnik, Liang Lin  <br /> 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2025<br />
+<a href="https://arxiv.org/abs/2501.15147">[PDF]</a>
+<a href="https://lotbench.github.io/">[Code]</a>
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=CLoT&type=star&count=true" >
+</iframe>
+</p>
+</li>
+
+
+<li ><p>
+<strong>Towards Understanding Why FixMatch Generalizes Better Than Supervised Learning</strong><br />
+Jingyang Li<strong><sup>*</sup></strong>, Jiachun Pan<strong><sup>*</sup></strong>, Vincent Y. F. Tan, Kim-chuan Toh, <strong>Pan Zhou<sup>+</sup></strong><br /> 
+International Conference on Learning Representations (<strong>ICLR</strong>), 2025 <br />
+  <a href="https://arxiv.org/abs/2410.11206">[Axriv]</a> 
+</p>
+</li>
+
+<li ><p>
+<strong>CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation</strong><br />
+Jie Liu, <strong>Pan Zhou<sup>+</sup></strong>, Yingjun Du, Ah-Hwee Tan, Cees G. M. Snoek, Jan-Jakob Sonke, Efstratios Gavves <br /> 
+International Conference on Learning Representations (<strong>ICLR</strong>), 2025 <br />
+  <a href="https://arxiv.org/abs/2411.04679">[Axriv]</a> 
+</p>
+</li>
+
+
+<h4>
 <a name='2024'></a> 2024
 </h4>
 
