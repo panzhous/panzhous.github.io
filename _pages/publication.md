@@ -276,6 +276,28 @@ NeurIPS, 2020,
 <a name='2025'></a> 2025
 </h4>
 
+<li ><p>
+<strong>LoCo: Low-Bit Communication Adaptor for Large-scale Model Training</strong><br>
+Xingyu Xie, Zhijie Lin, Kim-chuan Toh, <strong>Pan Zhou<sup>+</sup></strong><br />
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2025<br />
+<a href="https://arxiv.org/abs/2407.04480">[PDF]</a>
+<a href="https://github.com/deepspeedai/DeepSpeed/pull/6730">[Code]</a> <br />
+<!-- <iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://ghbtns.com/github-btn.html?user=deepspeedai&repo=DeepSpeed&type=star&count=true" >
+</iframe> -->
+<!-- <font color="#2770AB"> -->
+<b> On Megatron-LM and FSDP, LoCo significantly improves communication efficiency, e.g.,
++14% to +40% improvement on Adam's overall training speed  without performance degradation on LLAMAs and MoEs. LoCo has been included by 
+ popular <a href="https://github.com/deepspeedai/DeepSpeed/pull/6730">DeepSpeed</a> codebase like <a href="https://github.com/deepspeedai/DeepSpeed/pull/6730">Zero++</a>. </b>
+<!-- </font>  -->
+<br />
+</p>
+</li>
+
+
+
 
 <li ><p>
 <strong>A Causality-aware Paradigm for Evaluating Creativity of Multimodal Large Language Models</strong><br>
@@ -294,8 +316,8 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 
 <li ><p>
 <strong>Towards Understanding Why FixMatch Generalizes Better Than Supervised Learning</strong><br />
-Jingyang Li<strong><sup>*</sup></strong>, Jiachun Pan<strong><sup>*</sup></strong>, Vincent Y. F. Tan, Kim-chuan Toh, <strong>Pan Zhou<sup>+</sup></strong><br /> 
-International Conference on Learning Representations (<strong>ICLR</strong>), 2025 <br />
+Jingyang Li, Jiachun Pan, Vincent Y. F. Tan, Kim-chuan Toh, <strong>Pan Zhou<sup>+</sup></strong><br /> 
+International Conference on Learning Representations (<strong>ICLR</strong>), 2025 (<strong>oral, 1.8% acceptance rate</strong>) <br />
   <a href="https://arxiv.org/abs/2410.11206">[Axriv]</a> 
 </p>
 </li>
