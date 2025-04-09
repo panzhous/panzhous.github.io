@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: panzhou.jpg
+  image: panzhou4.jpg
   image_circular: false # crops the image to make it circular
   # more_info: 
   #   <p>#0429, SCIS building 1</p>

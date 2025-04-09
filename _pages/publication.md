@@ -313,6 +313,15 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </p>
 </li>
 
+<li ><p>
+<strong>Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration</strong><br />
+Lizheng Zu, Lin Lin, Song Fu, Na Zhao, <strong>Pan Zhou</strong> <br />  
+IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025<br />
+  <a href="https://cvpr.thecvf.com/virtual/2025/poster/32902">[PDF]</a> 
+</p>
+</li>
+
+
 
 <li ><p>
 <strong>Towards Understanding Why FixMatch Generalizes Better Than Supervised Learning</strong><br />
@@ -635,6 +644,33 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 
 <!-- Item: 1 -->
 <li ><p>
+<strong>Contrastive Video Question Answering via Video Graph Transformer</strong><br />
+Junbin Xiao, <strong>Pan Zhou</strong>, Angela Yao, Yicong Li, Richang Hong, Shuicheng Yan, Tat-Seng Chua<br /> 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023<br />
+<a href="https://arxiv.org/abs/2302.13668">[PDF]</a>
+<a href="https://github.com/doc-doc/CoVGT">[Code]</a> 
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/doc-doc/CoVGT?style=social" >
+</iframe>
+<!-- src="https://ghbtns.com/github-btn.html?user=doc-doc&repo=CoVGT&type=star&count=true" > -->
+</p>
+</li>
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>Iterative Graph Self-Distillation</strong><br />
+Hanlin Zhang, Shuai Lin, Weiyang Liu, <strong>Pan Zhou</strong>, Jian Tang, Xiaodan Liang, Eric P. Xing <br /> 
+IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2023 <br />
+<a href="https://arxiv.org/abs/2010.12609">[Axriv]</a>
+</p>
+</li>
+
+
+
+<!-- Item: 1 -->
+<li ><p>
 <strong>ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection</strong><br />
 Zhongzhan Huang, <strong>Pan Zhou<sup>+</sup></strong>, Shuicheng Yan, Liang Lin<br /> 
 Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br />
@@ -711,21 +747,7 @@ International Conference on Computer Vision (<strong>ICCV</strong>), 2023<br />
 </li>
  
 
-<!-- Item: 1 -->
-<li ><p>
-<strong>Contrastive Video Question Answering via Video Graph Transformer</strong><br />
-Junbin Xiao, <strong>Pan Zhou</strong>, Angela Yao, Yicong Li, Richang Hong, Shuicheng Yan, Tat-Seng Chua<br /> 
-IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023<br />
-<a href="https://arxiv.org/abs/2302.13668">[PDF]</a>
-<a href="https://github.com/doc-doc/CoVGT">[Code]</a> 
-<iframe
-      style="margin-left: 2px; margin-bottom:-5px;"
-      frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://img.shields.io/github/stars/doc-doc/CoVGT?style=social" >
-</iframe>
-<!-- src="https://ghbtns.com/github-btn.html?user=doc-doc&repo=CoVGT&type=star&count=true" > -->
-</p>
-</li>
+
  
 
 <!-- Item: 1 -->
@@ -799,14 +821,7 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 <!-- src="https://ghbtns.com/github-btn.html?user=DongSky&repo=LPT&type=star&count=true" > -->
 
 
-<!-- Item: 1 -->
-<li ><p>
-<strong>Iterative Graph Self-Distillation</strong><br />
-Hanlin Zhang, Shuai Lin, Weiyang Liu, <strong>Pan Zhou</strong>, Jian Tang, Xiaodan Liang, Eric P. Xing <br /> 
-IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2023 <br />
-<a href="https://arxiv.org/abs/2010.12609">[Axriv]</a>
-</p>
-</li>
+
 
 
 
@@ -815,6 +830,22 @@ IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 202
 	<a name='2022'></a> 2022
 </h4>
 
+<!-- Item: 1 -->
+<li ><p>
+<strong>Prototypical Graph Contrastive Learning</strong><br />
+Shuai Lin,  Chen Liu, <strong>Pan Zhou</strong>,  Zi-yuan Hu,  Shuojia Wang,  Ruihui Zhao,  Yefeng Zheng,  Liang Lin,  Eric Xing,  Xiaodan Liang<br /> 
+IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2022 <br />
+<a href="https://arxiv.org/abs/2106.09645">[Axriv]</a>
+<a href="https://github.com/ha-lins/PGCL">[Code]</a>
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/ha-lins/PGCL?style=social" >
+</iframe>
+</p>
+</li>
+<!-- src="https://ghbtns.com/github-btn.html?user=ha-lins&repo=PGCL&type=star&count=true" > -->
+ 
 
 
 <!-- Item: 1 -->
@@ -925,27 +956,33 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2022 <br />
 <!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=poolformer&type=star&count=true" > -->
  
 
-<!-- Item: 1 -->
-<li ><p>
-<strong>Prototypical Graph Contrastive Learning</strong><br />
-Shuai Lin,  Chen Liu, <strong>Pan Zhou</strong>,  Zi-yuan Hu,  Shuojia Wang,  Ruihui Zhao,  Yefeng Zheng,  Liang Lin,  Eric Xing,  Xiaodan Liang<br /> 
-IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2022 <br />
-<a href="https://arxiv.org/abs/2106.09645">[Axriv]</a>
-<a href="https://github.com/ha-lins/PGCL">[Code]</a>
-<iframe
-      style="margin-left: 2px; margin-bottom:-5px;"
-      frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://img.shields.io/github/stars/ha-lins/PGCL?style=social" >
-</iframe>
-</p>
-</li>
-<!-- src="https://ghbtns.com/github-btn.html?user=ha-lins&repo=PGCL&type=star&count=true" > -->
- 
 
  
 <h4>
 	<a name='2021'></a> 2021
 </h4>
+
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>A Hybrid Stochastic-Deterministic Minibatch Proximal Gradient Method for Efficient Optimization and  Generalization</strong><br />
+<strong>Pan Zhou</strong>, XiaoTong Yuan, Zhouchen Lin, and Steven Hoi<br /> 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2021<br />
+<a href="../assets/pdf/2021-TPAMI-HSDN.pdf">[PDF]</a>
+<a href="../assets/pdf/2021-TPAMI-HSDN-supp.pdf">[SUPP]</a>
+<a href="../assets/bibtex/2021-PAMI-HSDN-bib.txt">[Bibtex]</a>
+</p>
+</li>
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>Efficient Gradient Support Pursuit with Less Hard Thresholding for Cardinality-Constrained Learning</strong><br />
+Fanhua Shang, Bingkun Wei, Hongying Liu, Yuanyuan Liu, <strong>Pan Zhou</strong>, and Maoguo Gong <br /> 
+IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021 <br />
+<a href="https://ieeexplore.ieee.org/abstract/document/9463415">[PDF]</a> 
+</p>
+</li>
+ 
 
 
 <!-- Item: 1 -->
@@ -986,16 +1023,7 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2021 <br />
 <!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=SLRLA-optimizer&type=star&count=true" > -->
  
 
-<!-- Item: 1 -->
-<li ><p>
-<strong>A Hybrid Stochastic-Deterministic Minibatch Proximal Gradient Method for Efficient Optimization and  Generalization</strong><br />
-<strong>Pan Zhou</strong>, XiaoTong Yuan, Zhouchen Lin, and Steven Hoi<br /> 
-IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2021<br />
-<a href="../assets/pdf/2021-TPAMI-HSDN.pdf">[PDF]</a>
-<a href="../assets/pdf/2021-TPAMI-HSDN-supp.pdf">[SUPP]</a>
-<a href="../assets/bibtex/2021-PAMI-HSDN-bib.txt">[Bibtex]</a>
-</p>
-</li>
+
  
 
 <!-- Item: 1 -->
@@ -1090,15 +1118,6 @@ Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong
 <!-- src="https://ghbtns.com/github-btn.html?user=iamxiaoyubei&repo=AMS&type=star&count=true" > -->
  
 
-<!-- Item: 1 -->
-<li ><p>
-<strong>Efficient Gradient Support Pursuit with Less Hard Thresholding for Cardinality-Constrained Learning</strong><br />
-Fanhua Shang, Bingkun Wei, Hongying Liu, Yuanyuan Liu, <strong>Pan Zhou</strong>, and Maoguo Gong <br /> 
-IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021 <br />
-<a href="https://ieeexplore.ieee.org/abstract/document/9463415">[PDF]</a> 
-</p>
-</li>
- 
 
 
  
@@ -1187,21 +1206,6 @@ International Conference on Machine Learning (<strong>ICML</strong>), 2020 <br /
 	<a name='2019'></a> 2019
 </h4>
 
-<!-- Item: 1 -->
-<li ><p>
-<strong>Efficient Meta Learning via Minibatch Proximal Update</strong><br />
-<strong>Pan Zhou</strong>, Xiaotong Yuan, Huan Xu, Shuicheng Yan, Jiashi Feng<br /> 
-Neural Information Processing Systems (<strong>NeurIPS</strong>), 2019 (<font color="#FF0000"><strong>spotlight</strong></font>) <br />
-<a href="../assets/pdf/2019-NIPS-metaleanring.pdf">[PDF]</a>
-<a href="../assets/pdf/2019-NIPS-metaleanring-supplementary.pdf">[SUPP]</a>
-<a href="../assets/bibtex/2019-NIPS-meta.txt">[Bibtex]</a>
-<a href="../assets/code/MetaMinibatchProx.zip">[Codes]</a>
-<a href="../assets/pdf/2019neurips-slides.pdf">[Slides]</a>
-<a href="../assets/pdf/2019-NIPS-poster.pdf">[Poster]</a>
-</p>
-</li>
- 
-
 
 <!-- Item: 1 -->
 <li ><p>
@@ -1226,6 +1230,23 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </p>
 </li>
  
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>Efficient Meta Learning via Minibatch Proximal Update</strong><br />
+<strong>Pan Zhou</strong>, Xiaotong Yuan, Huan Xu, Shuicheng Yan, Jiashi Feng<br /> 
+Neural Information Processing Systems (<strong>NeurIPS</strong>), 2019 (<font color="#FF0000"><strong>spotlight</strong></font>) <br />
+<a href="../assets/pdf/2019-NIPS-metaleanring.pdf">[PDF]</a>
+<a href="../assets/pdf/2019-NIPS-metaleanring-supplementary.pdf">[SUPP]</a>
+<a href="../assets/bibtex/2019-NIPS-meta.txt">[Bibtex]</a>
+<a href="../assets/code/MetaMinibatchProx.zip">[Codes]</a>
+<a href="../assets/pdf/2019neurips-slides.pdf">[Slides]</a>
+<a href="../assets/pdf/2019-NIPS-poster.pdf">[Poster]</a>
+</p>
+</li>
+ 
+
+
 
 
 <!-- Item: 1 -->
@@ -1333,18 +1354,6 @@ IEEE Winter Conference on Applications of Computer Vision (<strong>WACV</strong>
 	<a name='2017'></a> 2017
 </h4>
 
-<!-- Item: 1 -->
-<li ><p>
-<strong>Outlier-Robust Tensor PCA</strong><br />
-<strong>Pan Zhou</strong>, Jiashi Feng<br />
-IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2017 <br />
-<a href="../assets/pdf/2017-CVPR-RTPCA.pdf">[PDF]</a>
-<a href="../assets/pdf/2017-CVPR-RTPCA-supp.pdf">[SUPP]</a>
-<a href="../assets/code/OR_TPCA_code.rar">[Codes]</a>
-<a href="../assets/bibtex/2017-CVPR-TRPCA.txt">[Bibtex]</a>
-</p>
-</li>
- 
 
 <!-- Item: 1 -->
 <li ><p>
@@ -1385,6 +1394,18 @@ Pattern Recognition
 </li>
 
 
+<!-- Item: 1 -->
+<li ><p>
+<strong>Outlier-Robust Tensor PCA</strong><br />
+<strong>Pan Zhou</strong>, Jiashi Feng<br />
+IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2017 <br />
+<a href="../assets/pdf/2017-CVPR-RTPCA.pdf">[PDF]</a>
+<a href="../assets/pdf/2017-CVPR-RTPCA-supp.pdf">[SUPP]</a>
+<a href="../assets/code/OR_TPCA_code.rar">[Codes]</a>
+<a href="../assets/bibtex/2017-CVPR-TRPCA.txt">[Bibtex]</a>
+</p>
+</li>
+ 
 
 <h4>
 	<a name='2016'></a> 2016

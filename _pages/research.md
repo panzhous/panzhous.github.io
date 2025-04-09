@@ -10,7 +10,7 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research7.jpg" title="research image" %}
+        {% include figure.liquid loading="eager" path="assets/img/research7.png" title="research image" %}
     </div>
 </div>
 

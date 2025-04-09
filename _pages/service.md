@@ -16,6 +16,7 @@ nav_order: 5
   * Journal of Machine Learning Research (JMLR)
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   * International Journal of Computer Vision (IJCV)
+  * IEEE Transactions on Information Theory (TIT)
   * Machine Learning
   * IEEE Transactions on Artificial Intelligence (AI)
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
