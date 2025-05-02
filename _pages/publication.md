@@ -314,6 +314,40 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </li>
 
 <li ><p>
+<strong>Gamba: Marry Gaussian Splatting with Mamba for Single-View 3D Reconstruction</strong><br>
+Qiuhong Shen, Zike Wu, Xuanyu Yi, <strong>Pan Zhou</strong>, Hanwang Zhang, Shuicheng Yan, Xinchao Wang  <br /> 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2025<br />
+<a href="https://arxiv.org/abs/2403.18795">[PDF]</a>
+<a href="https://florinshen.github.io/gamba-project/">[Code]</a>
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://ghbtns.com/github-btn.html?user=SkyworkAI&repo=Gamba&type=star&count=true" >
+</iframe>
+</p>
+</li>
+
+
+<li ><p>
+<strong>HPS: Hard Preference Sampling for Human Preference Alignment</strong><br />
+Xiandong Zou, Wanyu Lin, Yuchen Li, <strong>Pan Zhou<sup>+</sup></strong><br /> 
+International Conference on Machine Learning (<strong>ICML</strong>), 2025 <br />
+<a href="https://arxiv.org/abs/2502.14400">[Axriv]</a>
+</p>
+</li>
+ 
+
+<li ><p>
+<strong>Probabilistic Interactive 3D Segmentation with Hierarchical Neural Processes</strong><br />
+Jie Liu, <strong>Pan Zhou<sup>+</sup></strong>, Zehao Xiao, Jiayi Shen, Wenzhe Yin, Jan-Jakob Sonke, Efstratios Gavves<br /> 
+International Conference on Machine Learning (<strong>ICML</strong>), 2025 <br />
+<a href="https://jliu4ai.github.io/media/NPISeg3D.pdf">[Axriv]</a>
+<a href="https://github.com/jliu4ai/NPISeg3D">[Code]</a> <br />
+</p>
+</li>
+ 
+
+<li ><p>
 <strong>Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration</strong><br />
 Lizheng Zu, Lin Lin, Song Fu, Na Zhao, <strong>Pan Zhou</strong> <br />  
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025<br />
