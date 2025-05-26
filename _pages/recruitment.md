@@ -15,7 +15,7 @@ nav_order: 6
 </style>
 
 
-I have several **full- and part-time Ph.D.** opening positions for 2025 admission, and are also constantly seeking **SMU-fund / self-fund / CSC-fund visiting students and scholars**, and **(remote) interns and scholars** to join my team.  I am also open to any industrial and personal collaboration without restrictions on the research topic. Please feel free to drop me an email. 
+I have several **full- and part-time Ph.D.** opening positions for 2025 and 2026 admission, and are also constantly seeking **Postdoctoral Fellows**, **SMU-fund / self-fund / CSC-fund visiting students and scholars**, **research assistants**, and **(remote) interns and scholars** to join my team.  I am also open to any industrial and personal collaboration without restrictions on the research topic. Please feel free to drop me an email. 
 
 
 <!-- <details> 
@@ -37,6 +37,7 @@ I have several **full- and part-time Ph.D.** opening positions for 2025 admissio
 
 
 
+
 #####  **1) Ph.D. Application**
 For full- and part-time Ph.D. applicants, please satisfy the following general requirements:
 
@@ -53,7 +54,7 @@ Please see more <a href="https://computing.smu.edu.sg/phd/online-application">SM
   * **AISG scholarship**. If you have published a top-tier conference paper as the first author, you can apply for the AISG scholarship (SGD 5000/month for international students). The application deadline for Spring/Fall admission is often Aug/Jan per year. See details at <a href="https://aisingapore.org/research/phd-fellowship-programme/">the AISG Ph.D. Fellowship Programme</a>.  
   <!-- * If you hold Singapore Citizen/PR status, there are more scholarship options available (please email for consultation). -->
 
-**Application**. For applicants, please send your English resume, transcripts, and a research proposal with your interested research topic inside  to  my email. The email title should be: [Target Position (full-time Ph.D./Part-time Ph.D.) Application] + Your Name + Institution Name + Qualification (Bachelor/Master).
+**Application**. For applicants, please send your English/Chinese resume with your interested research topic inside to my email. The email title should be: [Target Position (Research Fellow or PhD or Visiting Student/Scholar or Remote Intern/Scholar or RA) Application] + Your Name + Institution Name + Qualification (Bachelor/Master/Ph.D.).
 
 
 #####  **2) Visiting and Remote-interning Students/Scholars**
@@ -66,7 +67,7 @@ For students, I am happy to be your co-supervisor for long-term collaboration if
   * You should have good English reading and writing skills, but are not required to have IELTS (TOEFL) and GRE (GMAT) test score. 
 
 For **SMU-fund visiting students/scholars**, please check the following requirements:
-  * You should have top tier research papers in <u>AIGC fields like image/3D/video generation, multimodal learning and LLM, and optimization.</u>  
+  * You should have top tier research papers in <u>AIGC fields like image/3D/video generation, or multimodal learning, or LLM, or optimization.</u>  
   * For visiting students/scholars, you must get the approval of your superviors/schools.  
   * The visiting duration should be at least 1 year in general, and can be six months for excellent applicants. 
 
@@ -86,4 +87,30 @@ For **(remote) interns/scholars**, please check the following requirements:
   * You must get the approval of your superviors. 
   * The internship duration should be at least six months. Longer internship duration is a plus. 
   * You should pass the interview of the company.  -->
-**Application**. For applicants, please send your English/Chinese resume  with your interested research topic inside to my email. The email title should be: [Target Position (Visiting Student/Scholar or Remote Intern/Scholar) Application] + Your Name + Institution Name + Qualification (Bachelor/Master/Ph.D.).
+**Application**. For applicants, please send your English/Chinese resume with your interested research topic inside to my email. The email title should be: [Target Position (Research Fellow or PhD or Visiting Student/Scholar or Remote Intern/Scholar or RA) Application] + Your Name + Institution Name + Qualification (Bachelor/Master/Ph.D.).
+
+#####  **3) Research Fellow (Postdoctoral Fellow)**
+To apply for research fellow (postdoctoral fellow) postion, please check the following general requirements:
+
+  * You should have a Ph.D. degree in computer science or mathematics or a related field.
+  * You should have top tier research papers in <u>AIGC fields like image/3D/video generation, or multimodal learning, or LLM, or optimization.</u>  
+  * You should have strong programming skills, and are familiar with deep learning frameworks like PyTorch.  Strong coding / mathematical skills is a plus, e.g., winners of ACM/ICPC or NOI/IOI. 
+  * You should be self-motivated and passionate about research, and have positive and optimistic mindset, a continuous learning attitude, and honesty.
+  * You should have good English reading and writing skills, but are not required to have IELTS (TOEFL) and GRE (GMAT) test score. 
+  * The  duration should be at least 1 year in general, and can be six months for excellent applicants.  
+  
+
+**Application**. For applicants, please send your English/Chinese resume with your interested research topic inside to my email. The email title should be: [Target Position (Research Fellow or PhD or Visiting Student/Scholar or Remote Intern/Scholar or RA) Application] + Your Name + Institution Name + Qualification (Bachelor/Master/Ph.D.).
+
+#####  **4) Research Assistant**
+To apply for research asssitant postion, please check the following general requirements:
+
+  * You should be a master or graduate in computer science or mathematics or a related field.
+  * You should have top tier research papers in <u>AIGC fields like image/3D/video generation, or multimodal learning, or LLM, or optimization.</u>  
+  * You should have strong programming skills, and are familiar with deep learning frameworks like PyTorch.  Strong coding / mathematical skills is a plus, e.g., winners of ACM/ICPC or NOI/IOI. 
+  * You should be self-motivated and passionate about research, and have positive and optimistic mindset, a continuous learning attitude, and honesty.
+  * You should have good English reading and writing skills, but are not required to have IELTS (TOEFL) and GRE (GMAT) test score. 
+  * The  duration should be at least 1 year in general, and can be six months for excellent applicants.  
+  
+
+**Application**. For applicants, please send your English/Chinese resume with your interested research topic inside to my email. The email title should be: [Target Position (Research Fellow or PhD or Visiting Student/Scholar or Remote Intern/Scholar or RA) Application] + Your Name + Institution Name + Qualification (Bachelor/Master/Ph.D.).

@@ -351,10 +351,9 @@ International Conference on Machine Learning (<strong>ICML</strong>), 2025 <br /
 <strong>Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration</strong><br />
 Lizheng Zu, Lin Lin, Song Fu, Na Zhao, <strong>Pan Zhou</strong> <br />  
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025<br />
-  <a href="../assets/pdf/2025-CVPR-CoTS">[PDF]</a> 
+  <a href="../assets/pdf/2025-CVPR-CoTS.pdf">[PDF]</a> 
 </p>
 </li>
-
 
 
 <li ><p>
