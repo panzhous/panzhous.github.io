@@ -3,7 +3,7 @@ layout: page
 permalink: /team/
 title: LV-SMU Team
 description: 
-nav: true
+nav: false
 nav_order: 7
 ---
 <!--- assets/img/panzhou4.jpg --->
