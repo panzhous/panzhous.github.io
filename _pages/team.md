@@ -1,21 +1,28 @@
 ---
 layout: page
 permalink: /team/
-title: Team
+title: LV-SMU Team
 description: 
-nav: false
-nav_order: 3
+nav: true
+nav_order: 7
 ---
 <!--- assets/img/panzhou4.jpg --->
 
+You can also browse <a href="www.lv-nus.org" target="_blank" style="text-decoration:underline;">LV-SMU team</a>.   
+
+<br>
+
 
 #####  **Faculty**
-<table style="width:75%">
+<table style="width:25%">
   <tr>
-    <td style="text-align:left"><img src="../assets/img/panzhou.jpg" height="200"></td>
+    <td style="text-align:left;padding-right: 15px;"><img src="../assets/img/panzhou3.jpg" height="200"></td>
   </tr>
   <tr>
-    <td style="text-align:left"><a href="https://panzhous.github.io/">ZHOU Pan</a> <br> Assistant Professor</td>
+    <td style="text-align:center;padding-right: 15px;"><a href="https://panzhous.github.io/">ZHOU Pan</a> <br> Assistant Professor</td>
+    <!-- <td style="text-align:center"><a href=""> </a> <br>  </td>
+    <td style="text-align:center"><a href=""> </a> <br>  </td>
+    <td style="text-align:center"><a href=""> </a> <br>  </td> -->
   </tr>
 </table>
 
@@ -33,65 +40,45 @@ nav_order: 3
   </tr>
 </table> -->
 
-
+<br>
+<br>
 
 #####  **Ph.D.** 
 
-<table style="width:75%">
+<table style="width:50%">
   <tr>
-    <td style="text-align:center"><img src="https://yqcca.github.io/images/profile.png" height="200"></td>
-    <td style="text-align:center"><img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2024-08/jinyang-wu-2024.jpg" height="200"></td>
-    <!-- <td style="text-align:left"><img src="https://www.cmu.edu/tepper/facultyphotos/large/zlipton-min.jpg" height="200"></td>
-    <td style="text-align:left"><img src="../assets/img/panzhou.jpg" height="200"></td> -->
+    <td style="text-align:center; padding-right: 15px;"><img src="../assets/img/Xiandong Zou.jpeg" height="200"></td>
+      <!-- <td style="text-align:center"><img src="../assets/img/empty.jpg" height="20"></td> -->
+    <td style="text-align:center; padding-right: 15px;"><img src="../assets/img/Jinyang Wu.jpeg" height="200"></td>
+      <!-- <td style="text-align:center"><img src="../assets/img/empty.jpg" height="20"></td> -->
+    <!-- <td style="text-align:center; padding-right: 15px;"><img src="../assets/img/jingyang Li.jpeg" height="200"></td> -->
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://yqcca.github.io/">ZOU Xiandong</a> <br> (B.S. & M.S. at ICL)</td>
-    <td style="text-align:center"><a href="https://melaniemitchell.me/">WU Jinyang</a> <br> (B.S.  at NTU)</td>
-    <!-- <td style="text-align:center"><a href="http://zacklipton.com/">Zach Lipton</a> <br> CMU</td>
-    <td style="text-align:center"><a href="https://cs.nyu.edu/~denton/">Emily Denton</a> <br> Google</td> -->
+    <td style="text-align:center; padding-right: 15px;"><a href="https://yqcca.github.io/">ZOU Xiandong</a> <br> Ph.D. (B.S. & M.S. at ICL) <br> 2025/01 - present</td>
+      <!-- <td style="text-align:center"><a href=""> </a> <br>  </td> -->
+    <td style="text-align:center; padding-right: 15px;"><a href="">WU Jinyang</a> <br> Master (B.S.  at NTU) <br> 2024/08 - present</td>
+      <!-- <td style="text-align:center"><a href=""> </a> <br>  </td> -->
+    <!-- <td style="text-align:center; padding-right: 15px;"><a href="">LI Jingyang</a> <br> Ph.D. at NUS, Co-supervised with Prof. Kim-chuan Toh <br> 2021/08 - present</td> -->
   </tr>
-  <!-- <tr>
-    <td style="text-align:center"><img src="https://i0.wp.com/veronikach.com/wp-content/uploads/2019/01/Cheplygina_Veronika.jpg?resize=768%2C960&ssl=1" height="200"></td>
-    <td style="text-align:center"><img src="https://cs.stanford.edu/~pliang/resources/percy2.jpeg" height="200"></td>
-    <td style="text-align:center"><img src="http://www.cs.toronto.edu/~duvenaud/pictures/me/david-duvenaud-headshot.jpg" height="200"></td>
-    <td style="text-align:center"><img src="../assets/img/panzhou.jpg" height="200"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://veronikach.com/">Veronika Cheplygina</a> <br> Eindhoven University of Technology</td>
-    <td style="text-align:center"><a href="https://cs.stanford.edu/~pliang/">Percy Liang</a> <br> Stanford University</td>
-    <td style="text-align:center"><a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a> <br> University of Toronto</td>
-    <td style="text-align:center"><a href="http://cs.brown.edu/~mlittman/">Michael Littman</a><br> Brown University</td>
-  </tr> -->
 </table>
 
-
+<br>
+<br>
 #####  **Visiting Students** 
 
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="https://jliu4ai.github.io/authors/admin/Jie.jpeg" height="200"></td>
-    <td style="text-align:center"><img src="" height="200"></td>
-    <td style="text-align:center"><img src="" height="200"></td>
-    <td style="text-align:center"><img src="https://xiarho.github.io/images/xrh_photo.jpg" height="200"></td>
+    <td style="text-align:center; padding-right: 15px;"><img src="../assets/img/Jie Liu.jpeg" height="200"></td> 
+    <td style="text-align:center; padding-right: 15px;"><img src="../assets/img/Xiao Dong.jpeg" height="200"></td> 
+    <td style="text-align:center; padding-right: 15px;"><img src="../assets/img/Qi Zhao.jpeg" height="200"></td> 
+    <td style="text-align:center"><img src="../assets/img/Ruihao Xia.jpeg" height="200"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://jliu4ai.github.io/">LIU Jie</a> <br>University of Amsterdam</td>
-    <td style="text-align:center"><a href="https://scholar.google.com.sg/citations?user=jXLkbw8AAAAJ"> DONG Xiao</a> <br>Sun Yat-sen University</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=GIBwOR8AAAAJ">ZHAO Qi</a> <br>Nanjing University</td>
-    <td style="text-align:center"><a href="https://xiarho.github.io/">XIAO Ruihao</a> <br> East China University of Science and Technology</td>
+    <td style="text-align:center; padding-right: 15px;"><a href="https://jliu4ai.github.io/">LIU Jie</a> <br>Ph.D. at University of Amsterdam <br> 2024/01 - present</td> 
+    <td style="text-align:center; padding-right: 15px;"><a href="https://scholar.google.com.sg/citations?user=jXLkbw8AAAAJ"> DONG Xiao</a> <br>Ph.D. at Sun Yat-sen University <br> 2024/10 - present</td> 
+    <td style="text-align:center; padding-right: 15px;"><a href="https://scholar.google.com/citations?user=GIBwOR8AAAAJ">ZHAO Qi</a> <br>Ph.D. at Nanjing University <br> 2024/09 - present</td> 
+    <td style="text-align:center"><a href="https://xiarho.github.io/">XIAO Ruihao</a> <br>Ph.D. at  East China University of Science and Technology <br> 2025/01 - present</td>
   </tr>
-  <!-- <tr>
-    <td style="text-align:center"><img src="https://i0.wp.com/veronikach.com/wp-content/uploads/2019/01/Cheplygina_Veronika.jpg?resize=768%2C960&ssl=1" height="200"></td>
-    <td style="text-align:center"><img src="https://cs.stanford.edu/~pliang/resources/percy2.jpeg" height="200"></td>
-    <td style="text-align:center"><img src="http://www.cs.toronto.edu/~duvenaud/pictures/me/david-duvenaud-headshot.jpg" height="200"></td>
-    <td style="text-align:center"><img src="../assets/img/panzhou.jpg" height="200"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://veronikach.com/">Veronika Cheplygina</a> <br> Eindhoven University of Technology</td>
-    <td style="text-align:center"><a href="https://cs.stanford.edu/~pliang/">Percy Liang</a> <br> Stanford University</td>
-    <td style="text-align:center"><a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a> <br> University of Toronto</td>
-    <td style="text-align:center"><a href="http://cs.brown.edu/~mlittman/">Michael Littman</a><br> Brown University</td>
-  </tr> -->
 </table>
 

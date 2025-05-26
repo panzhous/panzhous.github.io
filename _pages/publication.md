@@ -11,7 +11,7 @@ nav_order: 2
 
 You can also browse my <a href="https://scholar.google.com/citations?user=0b7ZqlcAAAAJ&hl=en" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>.  <strong><sup>*</sup></strong> denotes equal contribution; <strong><sup>+</sup></strong> denotes corresponding author.
 
-  <br>
+<br>
 
 <style>
 .biblist { }
@@ -351,7 +351,7 @@ International Conference on Machine Learning (<strong>ICML</strong>), 2025 <br /
 <strong>Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration</strong><br />
 Lizheng Zu, Lin Lin, Song Fu, Na Zhao, <strong>Pan Zhou</strong> <br />  
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025<br />
-  <a href="https://cvpr.thecvf.com/virtual/2025/poster/32902">[PDF]</a> 
+  <a href="../assets/pdf/2025-CVPR-CoTS">[PDF]</a> 
 </p>
 </li>
 
