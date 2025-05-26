@@ -369,6 +369,7 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 Jie Liu, <strong>Pan Zhou<sup>+</sup></strong>, Yingjun Du, Ah-Hwee Tan, Cees G. M. Snoek, Jan-Jakob Sonke, Efstratios Gavves <br /> 
 International Conference on Learning Representations (<strong>ICLR</strong>), 2025 <br />
   <a href="https://arxiv.org/abs/2411.04679">[Axriv]</a> 
+  <a href="https://github.com/jliu4ai/CaPo">[Code]</a> <br />
 </p>
 </li>
 
