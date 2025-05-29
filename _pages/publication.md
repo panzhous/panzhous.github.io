@@ -342,7 +342,12 @@ International Conference on Machine Learning (<strong>ICML</strong>), 2025 <br /
 Jie Liu, <strong>Pan Zhou<sup>+</sup></strong>, Zehao Xiao, Jiayi Shen, Wenzhe Yin, Jan-Jakob Sonke, Efstratios Gavves<br /> 
 International Conference on Machine Learning (<strong>ICML</strong>), 2025 <br />
 <a href="https://jliu4ai.github.io/media/NPISeg3D.pdf">[Axriv]</a>
-<a href="https://github.com/jliu4ai/NPISeg3D">[Code]</a> <br />
+<a href="https://github.com/jliu4ai/NPISeg3D">[Code]</a> 
+<iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/jliu4ai/NPISeg3D?style=social" >
+</iframe><br />
 </p>
 </li>
  
@@ -352,6 +357,12 @@ International Conference on Machine Learning (<strong>ICML</strong>), 2025 <br /
 Lizheng Zu, Lin Lin, Song Fu, Na Zhao, <strong>Pan Zhou</strong> <br />  
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025<br />
   <a href="../assets/pdf/2025-CVPR-CoTS.pdf">[PDF]</a> 
+  <a href="https://github.com/zulihit/CoTS">[Code]</a>
+  <iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/zulihit/CoTS?style=social" >
+</iframe><br />
 </p>
 </li>
 
@@ -369,7 +380,12 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 Jie Liu, <strong>Pan Zhou<sup>+</sup></strong>, Yingjun Du, Ah-Hwee Tan, Cees G. M. Snoek, Jan-Jakob Sonke, Efstratios Gavves <br /> 
 International Conference on Learning Representations (<strong>ICLR</strong>), 2025 <br />
   <a href="https://arxiv.org/abs/2411.04679">[Axriv]</a> 
-  <a href="https://github.com/jliu4ai/CaPo">[Code]</a> <br />
+  <a href="https://github.com/jliu4ai/CaPo">[Code]</a>
+  <iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/jliu4ai/CaPo?style=social" >
+</iframe><br />
 </p>
 </li>
 
