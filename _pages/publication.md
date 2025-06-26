@@ -328,6 +328,34 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </li>
 
 
+<!-- Item: 1 -->
+<li ><p>
+<strong>Memory-Efficient 4-bit Preconditioned Stochastic Optimization</strong><br />
+Jingyang Li, Kuangyu Ding, Kim-chuan Toh, <strong>Pan Zhou<sup>+</sup></strong><br /> 
+International Conference on Computer Vision (<strong>ICCV</strong>), 2025<br />
+<a href="https://arxiv.org/abs/2412.10663">[PDF]</a>
+</p>
+</li>
+ 
+ 
+<!-- Item: 1 -->
+<li ><p>
+<strong>Zeroth-Order Fine-Tuning of LLMs in Random Subspaces</strong><br />
+Ziming Yu, <strong>Pan Zhou</strong>, Sike Wang, Jia Li, Mi Tian, Hua Huang<br /> 
+International Conference on Computer Vision (<strong>ICCV</strong>), 2025<br />
+<a href="https://arxiv.org/abs/2410.08989">[PDF]</a>
+</p>
+</li>
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>Probabilistic Prototype Calibration of Vision-language Models for Generalized Few-shot Semantic Segmentation</strong><br />
+Jie Liu, Jiayi Shen, <strong>Pan Zhou<sup>+</sup></strong>, Jan-Jakob Sonke, Stratis Gavves<br /> 
+International Conference on Computer Vision (<strong>ICCV</strong>), 2025<br />
+</p>
+</li>
+
+ 
 <li ><p>
 <strong>HPS: Hard Preference Sampling for Human Preference Alignment</strong><br />
 Xiandong Zou, Wanyu Lin, Yuchen Li, <strong>Pan Zhou<sup>+</sup></strong><br /> 
