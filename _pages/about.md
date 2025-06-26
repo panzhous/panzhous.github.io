@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am  a <a href="https://faculty.smu.edu.sg/profile/zhou-pan-7776">tenure-track  Assistant Professor</a> at the School of Computing and Information Systems, Singapore Management University (SMU).  
+I am  a <a href="https://faculty.smu.edu.sg/profile/zhou-pan-7776">tenure-track Assistant Professor</a>, Lee Kong Chian Fellow, and a director of <a href="https://www.lv-lab.org/SMU/index.html">Language & Vision Lab (LV-Lab)</a> at the School of Computing and Information Systems, Singapore Management University (SMU).  
 
 Prior to this position, I held roles as a Senior Research Scientist at Sea AI Lab and as a Research Scientist at Salesforce. I completed my Ph.D. degree at the National University of Singapore (NUS), fortunately advised by <a href="https://scholar.google.com.sg/citations?user=Q8iay0gAAAAJ&hl=en">Prof. Jiashi Feng</a> and <a href="https://yanshuicheng.info/"> Prof. Shuicheng Yan</a>. Before studying in NUS, I graduated from Peking University (PKU) where I had the honor to work with <a href="https://zhouchenlin.github.io/"> Prof. Zhouchen Lin</a> 	and <a href="https://scholar.google.com/citations?user=NeCCx-kAAAAJ&hl=en"> Prof. Chao Zhang</a>.  I also collaborated closely with    <a href="https://sites.google.com/site/xtyuan1980/"> Prof. Xiaotong Yuan</a>. 	I also spent several wonderful months at Georgia Tech in 2018  and Princeton University in 2019  as a visiting student. 
 
