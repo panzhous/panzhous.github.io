@@ -328,6 +328,29 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </li>
 
 
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>GRIFFIN: Effective Token Alignment for Faster Speculative Decoding</strong><br />
+Shijing Hu, Jingyang Li, Xingyu Xie, Zhihui Lu, Kim-Chuan Toh, <strong>Pan Zhou</strong><br /> 
+Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025<br />
+<a href="https://arxiv.org/abs/2502.11018">[PDF]</a>
+<a href="https://github.com/hsj576/GRIFFIN">[Code]</a> 
+</p>
+</li>
+
+
+<!-- Item: 1 -->
+<li ><p>
+<strong>SoPo: Text-to-motion generation using semi-online preference optimization</strong><br />
+Xiaofeng Tan, Hongsong Wang, Xin Geng, <strong>Pan Zhou</strong><br /> 
+Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025<br />
+<a href="https://arxiv.org/abs/2412.05095">[PDF]</a>
+<a href="https://xiaofeng-tan.github.io/projects/SoPo/">[Code]</a> 
+</p>
+</li>
+
+
 <!-- Item: 1 -->
 <li ><p>
 <strong>Memory-Efficient 4-bit Preconditioned Stochastic Optimization</strong><br />
@@ -344,6 +367,7 @@ International Conference on Computer Vision (<strong>ICCV</strong>), 2025<br />
 Ziming Yu, <strong>Pan Zhou</strong>, Sike Wang, Jia Li, Mi Tian, Hua Huang<br /> 
 International Conference on Computer Vision (<strong>ICCV</strong>), 2025<br />
 <a href="https://arxiv.org/abs/2410.08989">[PDF]</a>
+<a href="https://github.com/zimingyy/SubZero">[Code]</a> 
 </p>
 </li>
 
@@ -352,6 +376,8 @@ International Conference on Computer Vision (<strong>ICCV</strong>), 2025<br />
 <strong>Probabilistic Prototype Calibration of Vision-language Models for Generalized Few-shot Semantic Segmentation</strong><br />
 Jie Liu, Jiayi Shen, <strong>Pan Zhou<sup>+</sup></strong>, Jan-Jakob Sonke, Stratis Gavves<br /> 
 International Conference on Computer Vision (<strong>ICCV</strong>), 2025<br />
+<a href="https://arxiv.org/abs/2506.22979">[PDF]</a>
+<a href="https://github.com/jliu4ai/FewCLIP">[Code]</a> 
 </p>
 </li>
 
@@ -361,6 +387,7 @@ International Conference on Computer Vision (<strong>ICCV</strong>), 2025<br />
 Xiandong Zou, Wanyu Lin, Yuchen Li, <strong>Pan Zhou<sup>+</sup></strong><br /> 
 International Conference on Machine Learning (<strong>ICML</strong>), 2025 <br />
 <a href="https://arxiv.org/abs/2502.14400">[Axriv]</a>
+<a href="https://github.com/LVLab-SMU/HPS">[Code]</a> 
 </p>
 </li>
  
