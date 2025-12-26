@@ -108,7 +108,7 @@ My research target is to build **”efficient and effective artificial intellige
 
   * **b) Inference Acceleration of AI Models like LLMs**: design faster inference techniques for AI models like LLMs and multimodal models.
     * <details> 
-        <summary> <strong>Inference Acceleration of LLMs</strong> (click here for representative works)</summary>
+        <summary> <strong>Inference Acceleration of (multimodal) LLMs</strong> (click here for representative works)</summary>
 
         <strong><a href="https://arxiv.org/pdf/2509.22134">GTO</a></strong> is the first one that aligns the training and inference decoding objectives in speculative decoding, and can accelerate the vanilla auto-regressive decoding by around 4 times. See more works like <strong><a href="https://arxiv.org/abs/2502.11018">GRIFFIN</a></strong> (NeurIPS).
         
