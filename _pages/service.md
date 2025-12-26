@@ -8,9 +8,11 @@ nav_order: 5
 ---
 
 ##### **Area Chair for**
-  * International Conference on Machine Learning (ICML 2025)
-  * Neural Information Processing Systems (NeurIPS 2023, 2024)
-  * International Conference on Learning Representations (ICLR 2024, 2025)
+  * International Conference on Machine Learning (ICML 2025, 2026)
+  * Neural Information Processing Systems (NeurIPS 2023, 2024, 2025)
+  * International Conference on Learning Representations (ICLR 2024, 2025, 2026)
+  * Association for the Advancement of Artificial Intelligence (Senior Program Committee, AAAI 2026)
+
 
 ##### **Journal Reviewer for**
   * Journal of Machine Learning Research (JMLR)

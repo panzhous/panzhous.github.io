@@ -273,6 +273,58 @@ NeurIPS, 2020,
 
 
 <h4>
+<a name='2026'></a> 2026
+</h4>
+
+
+<li ><p>
+<strong>SEMat: Semantic Enhanced Natural Image Interactive Matting</strong><br />
+Ruihao Xia, Yu Liang, Peng-Tao Jiang, Hao Zhang, Qianru Sun, Yang Tang,  Bo Li, and <strong>Pan Zhou</strong> <br /> 
+IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026 (<strong>oral</strong>)<br />
+<a href="https://arxiv.org/html/2410.06593v1">[Axriv]</a>
+<!-- <a href="../assets/bibtex/2021-AAAI-Medical.txt">[Bibtex]</a> -->
+<a href="https://github.com/XiaRho/SEMat">[Code]</a>
+<!-- <iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/ha-lins/GEML-MDG?style=social" >
+</iframe> -->
+</p>
+</li>
+
+<li ><p>
+<strong>Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property Prediction</strong><br />
+Haowei Hua, Jingwen Yang, Wanyu Lin, <strong>Pan Zhou</strong> <br /> 
+Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>), 2026 (<strong>oral</strong>)<br />
+<a href="https://arxiv.org/pdf/2410.02372">[Axriv]</a>
+<!-- <a href="../assets/bibtex/2021-AAAI-Medical.txt">[Bibtex]</a>
+<a href="https://github.com/ha-lins/GEML-MDG">[Code]</a>
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/ha-lins/GEML-MDG?style=social" >
+</iframe> -->
+</p>
+</li>
+
+
+<li ><p>
+<strong>ReAlign: Text-to-Motion Generation via Step-Aware Reward-Guided Alignment</strong><br />
+Wanjiang Weng, Xiaofeng Tan, Junbo Wang, Guo-Sen Xie, <strong>Pan Zhou</strong>, Hongsong Wang<br /> 
+Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>), 2026 <br />
+<a href="https://arxiv.org/abs/2505.04974">[Axriv]</a>
+<a href="https://wengwanjiang.github.io/ReAlign-page/">[Code]</a>
+<!--<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/ha-lins/GEML-MDG?style=social" >
+</iframe> -->
+</p>
+</li>
+
+
+
+<h4>
 <a name='2025'></a> 2025
 </h4>
 

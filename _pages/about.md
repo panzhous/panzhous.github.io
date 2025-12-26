@@ -32,9 +32,9 @@ Prior to this position, I held roles as a Senior Research Scientist at Sea AI La
 My  target is to build <strong>“efficient and effective artificial intelligent systems”</strong> so that machines can cognize, understand and interact with the environment. Currently, I mainly focus on three research topics across machine learning, computer vision and optimization.  See more details <a href="https://panzhous.github.io/research/">here</a>.
 <div class="highlight"> 
   <ul>
-      <li><strong>Learning framework</strong>: how to learn knowledge from (unlabeled) data effectively and efficiently? E.g. self-supervised  (multi-modal) learning and generative models like diffusion models for image/3D/video.</li>
+      <li><strong>Efficiency optimization</strong>: how to improve the efficiency of training (including fine-tuning) and inference efficiency of AI models like LLMs?</li>
+      <li><strong>Learning framework</strong>: how to learn knowledge from (unlabeled) data effectively and efficiently? E.g. multi-modal learning, agentic reasoning, and generative models like diffusion models for image/3D/video.</li>
       <li><strong>Network architecture design</strong>: how to design more advanced neural network architectures?</li>
-      <li><strong>Parameter optimizer</strong>: how to design training algorithms like Adam to efficiently train AI models? </li>
   </ul>
 </div>  
  

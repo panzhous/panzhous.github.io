@@ -10,7 +10,7 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research7.png" title="research image" %}
+        {% include figure.liquid loading="eager" path="assets/img/framework.png" title="research image" %}
     </div>
 </div>
 
@@ -18,7 +18,105 @@ nav_order: 1
 
 My research target is to build **”efficient and effective artificial intelligent systems”** so that machines can cognize, understand and interact with the environment. Currently, I mainly focus on three research topics across machine learning, computer vision and optimization.   
 
-**1)	Learning Framework**: design effective learning framework / training task / loss to formulate a problem so that the AI models can learn desired knowledge to handle general / specific tasks. 
+
+**1) Efficiency	Optimization**: improve the efficiency of training (including fine-tuning) and inference efficiency for AI models like LLMs.
+
+  * **a) Faster Training Algorithms/Optimizers**: design more effective and efficient optimizers to faster train AI models especially for LLMs. 
+    * <details> 
+        <summary> <strong>Faster Optimizer</strong> (click here for representative works)</summary>
+
+        <strong><a href="https://arxiv.org/abs/2208.06677">Adan</a></strong> (TPAMI, 
+        <iframe
+            style="margin-left: 2px; margin-bottom:-5px;"
+            frameborder="0" scrolling="0" width="91px" height="20px"
+            src="https://img.shields.io/github/stars/sail-sg/Adan?style=social" >
+        </iframe>) is about 2x faster than the SoTA optimizers, e.g. Adam, while achieving higher or comparable performance on many networks, e.g., CNNs, ViTs and MAE in the CV field, UNet and ViTs in AIGC field, GPT2 and billion-scale LLaMA in the NLP field, networks in RL tasks. It has been included in popular deep-learning codebases, e.g.,  <a href="https://github.com/NVIDIA/NeMo/blob/main/nemo/core/optim/adan.py">NVIDIA NeMo</a> (
+        <iframe
+            style="margin-left: 2px; margin-bottom:-5px;"
+            frameborder="0" scrolling="0" width="91px" height="20px"
+            src="https://img.shields.io/github/stars/NVIDIA/NeMo?style=social" >
+        </iframe>) for training large language models and multi-modal models,  <a href="https://github.com/huggingface/pytorch-image-models/blob/main/timm/optim/adan.py">HuggingFace Timm</a> (
+        <iframe
+            style="margin-left: 2px; margin-bottom:-5px;"
+            frameborder="0" scrolling="0" width="91px" height="20px"
+            src="https://img.shields.io/github/stars/huggingface/pytorch-image-models?style=social" >
+        </iframe>) and <a href="https://github.com/open-mmlab/mmpretrain/blob/dev-1.x/mmcls/engine/optimizers/adan_t.py">OpenMMLab</a> (
+        <iframe
+            style="margin-left: 2px; margin-bottom:-5px;"
+            frameborder="0" scrolling="0" width="91px" height="20px"
+            src="https://img.shields.io/github/stars/open-mmlab/mmpretrain?style=social" >
+        </iframe>) which both train AI models for CV tasks like classification, detection and segmentation, <a href="https://github.com/Jittor/jittor/blob/master/python/jittor/optim.py">Jittor of Tsinghua University</a> (
+        <iframe
+            style="margin-left: 2px; margin-bottom:-5px;"
+            frameborder="0" scrolling="0" width="91px" height="20px"
+            src="https://img.shields.io/github/stars/Jittor/jittor?style=social" >
+        </iframe>) for 3D generation, and is the default optimizer in <a href="https://github.com/ashawkey/stable-dreamfusion/blob/main/optimizer.py">DreamFusion</a> (
+        <iframe
+            style="margin-left: 2px; margin-bottom:-5px;"
+            frameborder="0" scrolling="0" width="91px" height="20px"
+            src="https://img.shields.io/github/stars/ashawkey/stable-dreamfusion?style=social" >
+        </iframe>) and <a href="https://arxiv.org/abs/2303.14389">MDT</a>  (
+        <iframe
+            style="margin-left: 2px; margin-bottom:-5px;"
+            frameborder="0" scrolling="0" width="91px" height="20px"
+            src="https://img.shields.io/github/stars/sail-sg/MDT?style=social" >
+        </iframe>) for SoTA 3D and image generation tasks respectively.
+        
+        
+        <p>See more works, e.g., <strong><a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/e53a0a2978c28872a4505bdb51db06dc-Paper.pdf">SLRLA</a></strong> (NeurIPS, 
+        <iframe
+            style="margin-left: 2px; margin-bottom:-5px;"
+            frameborder="0" scrolling="0" width="91px" height="20px"
+            src="https://img.shields.io/github/stars/sail-sg/SLRLA-optimizer?style=social" >
+        </iframe>) which improves lookahead,  <strong><a href="https://ieeexplore.ieee.org/document/8792163">R-SPIDER</a></strong> (TPAMI & AISTATS), and  <strong><a href="https://arxiv.org/pdf/2009.09835.pdf">HSDMPG</a></strong> (ICML & TPAMI). </p>
+        
+        </details> 
+
+
+    * <details> 
+        <summary> <strong>Plug-and-play Acceleration Framework</strong> (click here for representative works)</summary>
+
+        <strong><a href="../assets/pdf/2024-JMLR-win.pdf">Win</a></strong> (JMLR & ICLR, 
+        <iframe
+            style="margin-left: 2px; margin-bottom:-5px;"
+            frameborder="0" scrolling="0" width="91px" height="20px"
+            src="https://img.shields.io/github/stars/sail-sg/win?style=social" >
+        </iframe>)  can accelerate AdamW, Adam, LAMB and SGD by 1.5X on vision classification tasks and language modeling tasks with both CNN and Transformer backbones.   
+        
+        </details> 
+        
+
+
+    * <details> 
+        <summary> <strong>Network Optimization Theory</strong> (click here for representative works)</summary>
+
+        <strong><a href="https://arxiv.org/pdf/2010.05627.pdf">This work</a></strong> (NeurIPS, 200+ citations
+        <iframe
+            style="margin-left: 2px; margin-bottom:-5px;"
+            frameborder="0" scrolling="0" width="91px" height="20px"
+            src="https://img.shields.io/github/stars/salesforce/comparison_SGD_ADAM?style=social" >
+        </iframe>) provides the first theory to explain  "why SGD generalizes better than ADAM in deep learning".  See more works like <strong><a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/e53a0a2978c28872a4505bdb51db06dc-Paper.pdf">SLRLA</a></strong> (NeurIPS, 
+        <iframe
+            style="margin-left: 2px; margin-bottom:-5px;"
+            frameborder="0" scrolling="0" width="91px" height="20px"
+            src="https://img.shields.io/github/stars/sail-sg/SLRLA-optimizer?style=social" >
+        </iframe>) to analyzes  "why Lookahead generalizes better than SGD". 
+        
+        </details> 
+
+
+
+  * **b) Inference Acceleration of AI Models like LLMs**: design faster inference techniques for AI models like LLMs and multimodal models.
+    * <details> 
+        <summary> <strong>Inference Acceleration of LLMs</strong> (click here for representative works)</summary>
+
+        <strong><a href="https://arxiv.org/pdf/2509.22134">GTO</a></strong> is the first one that aligns the training and inference decoding objectives in speculative decoding, and can accelerate the vanilla auto-regressive decoding by around 4 times. See more works like <strong><a href="https://arxiv.org/abs/2502.11018">GRIFFIN</a></strong> (NeurIPS).
+        
+
+        </details> 
+
+
+**2)	Learning Framework**: design effective learning framework / training task / loss to formulate a problem so that the AI models can learn desired knowledge to handle general / specific tasks. 
 
 
   * **a) Self-Supervised (multi-modal) Learning**: design effective and efficient self-supervised (multi-modal) learning frameworks that enable AI models to learn desired  knowledge and achieve human's data understanding and reasoning ability. 
@@ -61,6 +159,14 @@ My research target is to build **”efficient and effective artificial intellige
 
         </details> 
 
+
+    * <details> 
+        <summary> <strong>Agentic Learning</strong> (click here for representative works)</summary>
+
+        <strong><a href="https://arxiv.org/abs/2411.04679">CaPo</a></strong> (ICLR) introduces a two-phase cooperation framework—meta-plan generation followed by progress-adaptive execution—enabling LLM-based agents to form coherent long-term plans and refine them dynamically via multi-turn discussions, eliminating redundant actions and improving efficiency. Then  <strong><a href="https://panzhous.github.io/assets/pdf/2025-CVPR-CoTS.pdf">CoTS</a></strong> (CVPR) incorporates an LLM-driven Monte Carlo tree search and a plan-evaluation module that stabilizes updates and ensures timely plan revisions, further enhancing the scalability and reliability of multi-agent collaboration.
+        
+
+        </details> 
 
   * **b) Generative Models**: design  generative models like diffusion models that generate image/3D/video data and empower AI models with imagination and creativity akin to that of humans. 
       * <details> 
@@ -130,7 +236,7 @@ My research target is to build **”efficient and effective artificial intellige
 
   <!-- * **c) Meta In-Context Learning**: design new meta-learning and prompt learning methods to aid a (pretrained) model in quickly learning from a few data, improving few-shot learning ability of AGI.  -->
 
-**2)	Network Architecture Design**: develop innovative network topology that posses high capacity and efficiency for acquiring knowledge, thereby improving the overall model capacity of AI.
+**3)	Network Architecture Design**: develop innovative network topology that posses high capacity and efficiency for acquiring knowledge, thereby improving the overall model capacity of AI.
 * <details> 
     <summary> <strong>Manually-Designed Network</strong> (click here for representative works)</summary>
 
@@ -186,86 +292,3 @@ My research target is to build **”efficient and effective artificial intellige
 
 
 
-**3)	Parameter Optimizer**: design efficient optimizers to train AI models efficiently.
-* <details> 
-    <summary> <strong>Faster Optimizer</strong> (click here for representative works)</summary>
-
-    <strong><a href="https://arxiv.org/abs/2208.06677">Adan</a></strong> (TPAMI, 
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="91px" height="20px"
-        src="https://img.shields.io/github/stars/sail-sg/Adan?style=social" >
-    </iframe>) is about 2x faster than the SoTA optimizers, e.g. Adam, while achieving higher or comparable performance on many networks, e.g., CNNs, ViTs and MAE in the CV field, UNet and ViTs in AIGC field, GPT2 and billion-scale LLaMA in the NLP field, networks in RL tasks. It has been included in popular deep-learning codebases, e.g.,  <a href="https://github.com/NVIDIA/NeMo/blob/main/nemo/core/optim/adan.py">NVIDIA NeMo</a> (
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="91px" height="20px"
-        src="https://img.shields.io/github/stars/NVIDIA/NeMo?style=social" >
-    </iframe>) for training large language models and multi-modal models,  <a href="https://github.com/huggingface/pytorch-image-models/blob/main/timm/optim/adan.py">HuggingFace Timm</a> (
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="91px" height="20px"
-        src="https://img.shields.io/github/stars/huggingface/pytorch-image-models?style=social" >
-    </iframe>) and <a href="https://github.com/open-mmlab/mmpretrain/blob/dev-1.x/mmcls/engine/optimizers/adan_t.py">OpenMMLab</a> (
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="91px" height="20px"
-        src="https://img.shields.io/github/stars/open-mmlab/mmpretrain?style=social" >
-    </iframe>) which both train AI models for CV tasks like classification, detection and segmentation, <a href="https://github.com/Jittor/jittor/blob/master/python/jittor/optim.py">Jittor of Tsinghua University</a> (
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="91px" height="20px"
-        src="https://img.shields.io/github/stars/Jittor/jittor?style=social" >
-    </iframe>) for 3D generation, and is the default optimizer in <a href="https://github.com/ashawkey/stable-dreamfusion/blob/main/optimizer.py">DreamFusion</a> (
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="91px" height="20px"
-        src="https://img.shields.io/github/stars/ashawkey/stable-dreamfusion?style=social" >
-    </iframe>) and <a href="https://arxiv.org/abs/2303.14389">MDT</a>  (
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="91px" height="20px"
-        src="https://img.shields.io/github/stars/sail-sg/MDT?style=social" >
-    </iframe>) for SoTA 3D and image generation tasks respectively.
-    
-    
-    <p>See more works, e.g., <strong><a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/e53a0a2978c28872a4505bdb51db06dc-Paper.pdf">SLRLA</a></strong> (NeurIPS, 
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="91px" height="20px"
-        src="https://img.shields.io/github/stars/sail-sg/SLRLA-optimizer?style=social" >
-    </iframe>) which improves lookahead,  <strong><a href="https://ieeexplore.ieee.org/document/8792163">R-SPIDER</a></strong> (TPAMI & AISTATS), and  <strong><a href="https://arxiv.org/pdf/2009.09835.pdf">HSDMPG</a></strong> (ICML & TPAMI). </p>
-    
-    </details> 
-
-
-* <details> 
-    <summary> <strong>Plug-and-play Acceleration Framework</strong> (click here for representative works)</summary>
-
-    <strong><a href="../assets/pdf/2024-JMLR-win.pdf">Win</a></strong> (JMLR & ICLR, 
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="91px" height="20px"
-        src="https://img.shields.io/github/stars/sail-sg/win?style=social" >
-    </iframe>)  can accelerate AdamW, Adam, LAMB and SGD by 1.5X on vision classification tasks and language modeling tasks with both CNN and Transformer backbones.   
-    
-    </details> 
-    
-
-
-* <details> 
-    <summary> <strong>Network Optimization Theory</strong> (click here for representative works)</summary>
-
-    <strong><a href="https://arxiv.org/pdf/2010.05627.pdf">This work</a></strong> (NeurIPS, 200+ citations
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="91px" height="20px"
-        src="https://img.shields.io/github/stars/salesforce/comparison_SGD_ADAM?style=social" >
-    </iframe>) provides the first theory to explain  "why SGD generalizes better than ADAM in deep learning".  See more works like <strong><a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/e53a0a2978c28872a4505bdb51db06dc-Paper.pdf">SLRLA</a></strong> (NeurIPS, 
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="91px" height="20px"
-        src="https://img.shields.io/github/stars/sail-sg/SLRLA-optimizer?style=social" >
-    </iframe>) to analyzes  "why Lookahead generalizes better than SGD". 
-    
-    </details> 
- 
