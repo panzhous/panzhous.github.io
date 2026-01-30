@@ -278,6 +278,113 @@ NeurIPS, 2020,
 
 
 <li ><p>
+<strong>From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors</strong><br />
+Zhengshen Zhang, Hao Li, Yalun Dai, Zhengbang Zhu, Lei Zhou, Chenchen Liu, Dong Wang, Francis E. H. Tay, Sijin Chen, Ziwei Liu, Yuxiao Liu<sup>+</sup>, Xinghang Li<sup>+</sup>, <strong>Pan Zhou<sup>+</sup></strong><br /> 
+International Conference on Learning Representations (<strong>ICLR</strong>), 2026 <br />
+  <a href="https://arxiv.org/abs/2510.17439">[Axriv]</a> 
+  <a href="https://falcon-vla.github.io/">[Code]</a>
+  <!-- <iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/jliu4ai/CaPo?style=social" >
+</iframe><br /> -->
+</p>
+</li>
+
+
+
+<li ><p>
+<strong>DreamCS: Geometry-Aware Text-to-3D Generation with Unpaired 3D Reward Supervision</strong><br />
+Xiandong Zou, Ruihao Xia, Hongsong Wang, <strong>Pan Zhou<sup>+</sup></strong> <br /> 
+International Conference on Learning Representations (<strong>ICLR</strong>), 2026 <br />
+  <a href="https://arxiv.org/abs/2506.09814">[Axriv]</a> 
+  <a href="">[Code Coming Soon]</a>
+  <!-- <iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/jliu4ai/CaPo?style=social" >
+</iframe><br /> -->
+</p>
+</li>
+ 
+<li ><p>
+<strong>Bridging Draft Policy Misalignment: Group Tree Optimization for Speculative Decoding</strong><br />
+Shijing Hu, Jingyang Li, Zhihui Lu, <strong>Pan Zhou</strong><br /> 
+International Conference on Learning Representations (<strong>ICLR</strong>), 2026 <br />
+  <a href="https://arxiv.org/abs/2509.22134">[Axriv]</a> 
+  <a href="">[Code Coming Soon]</a>
+  <!-- <iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/jliu4ai/CaPo?style=social" >
+</iframe><br /> -->
+</p>
+</li>
+
+
+<li ><p>
+<strong>Dragging with Geometry: From Pixels to Geometry-Guided Image Editing</strong><br />
+Xinyu Pu, Hongsong Wang, Jie Gui, <strong>Pan Zhou</strong> <br /> 
+International Conference on Learning Representations (<strong>ICLR</strong>), 2026 <br />
+  <a href="https://arxiv.org/abs/2509.25740">[Axriv]</a> 
+  <a href="">[Code Coming Soon]</a>
+  <!-- <iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/jliu4ai/CaPo?style=social" >
+</iframe><br /> -->
+</p>
+</li>
+
+<li ><p>
+<strong>Stacked from One: Multi-Scale Self-Injection for Context Window Extension</strong><br />
+Wei Han, <strong>Pan Zhou<sup>+</sup></strong>, Shuicheng YAN <br /> 
+International Conference on Learning Representations (<strong>ICLR</strong>), 2026 <br />
+  <a href="https://openreview.net/forum?id=lh3Aa1u7kU&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)">[Axriv]</a> 
+  <a href="">[Code Coming Soon]</a>
+  <!-- <iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/jliu4ai/CaPo?style=social" >
+</iframe><br /> -->
+</p>
+</li>
+
+
+
+
+<li ><p>
+<strong>Distributional Vision-Language Alignment by Cauchy-Schwarz Divergence</strong><br />
+Wenzhe Yin, Zehao Xiao, <strong>Pan Zhou<sup>+</sup></strong>, Shujian Yu, Jiayi Shen, Jan-Jakob Sonke, Stratis Gavves <br /> 
+International Conference on Learning Representations (<strong>ICLR</strong>), 2026 <br />
+  <a href="https://arxiv.org/abs/2502.17028">[Axriv]</a> 
+  <a href="">[Code Coming Soon]</a>
+  <!-- <iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/jliu4ai/CaPo?style=social" >
+</iframe><br /> -->
+</p>
+</li>
+
+
+<li ><p>
+<strong>Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment</strong><br />
+MA Xiao, Young D. Kwon, <strong>Pan Zhou<sup>+</sup></strong>, Dong Ma<sup>+</sup> <br /> 
+International Conference on Learning Representations (<strong>ICLR</strong>), 2026 <br />
+  <a href="https://openreview.net/forum?id=7kLNGaAHaw">[Axriv]</a> 
+  <a href="">[Code Coming Soon]</a>
+  <!-- <iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/jliu4ai/CaPo?style=social" >
+</iframe><br /> -->
+</p>
+</li>
+
+
+
+<li ><p>
 <strong>SEMat: Semantic Enhanced Natural Image Interactive Matting</strong><br />
 Ruihao Xia, Yu Liang, Peng-Tao Jiang, Hao Zhang, Qianru Sun, Yang Tang,  Bo Li, and <strong>Pan Zhou</strong> <br /> 
 IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026 (<strong>oral</strong>)<br />
