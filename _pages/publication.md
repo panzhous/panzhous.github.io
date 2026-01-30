@@ -429,6 +429,18 @@ Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong
 </p>
 </li>
 
+<li ><p>
+<strong>Benchmarking Gaslighting Attacks Against Speech Large Language Models</strong><br />
+Jinyang Wu, Bin Zhu<sup>+</sup>, Xiandong Zou, Qiquan Zhang, Xu Fang, <strong>Pan Zhou<sup>+</sup></strong><br /> 
+IEEE International Conference on Acoustics, Speech, and Signal Processing  (<strong>ICASSP</strong>), 2026 <br />
+<a href="https://arxiv.org/abs/2509.19858">[Axriv]</a>
+<!--<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/ha-lins/GEML-MDG?style=social" >
+</iframe> -->
+</p>
+</li>
 
 
 <h4>
