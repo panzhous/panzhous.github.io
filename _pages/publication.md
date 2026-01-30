@@ -370,7 +370,7 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 
 <li ><p>
 <strong>Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment</strong><br />
-MA Xiao, Young D. Kwon, <strong>Pan Zhou<sup>+</sup></strong>, Dong Ma<sup>+</sup> <br /> 
+MA Xiao, Young D. Kwon, <strong>Pan Zhou</strong>, Dong Ma<br /> 
 International Conference on Learning Representations (<strong>ICLR</strong>), 2026 <br />
   <a href="https://openreview.net/forum?id=7kLNGaAHaw">[Axriv]</a> 
   <a href="">[Code Coming Soon]</a>
