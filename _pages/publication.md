@@ -387,7 +387,7 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 <li ><p>
 <strong>SEMat: Semantic Enhanced Natural Image Interactive Matting</strong><br />
 Ruihao Xia, Yu Liang, Peng-Tao Jiang, Hao Zhang, Qianru Sun, Yang Tang,  Bo Li, and <strong>Pan Zhou</strong> <br /> 
-IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026 (<strong>oral</strong>)<br />
+IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026<br />
 <a href="https://arxiv.org/html/2410.06593v1">[Axriv]</a>
 <!-- <a href="../assets/bibtex/2021-AAAI-Medical.txt">[Bibtex]</a> -->
 <a href="https://github.com/XiaRho/SEMat">[Code]</a>
