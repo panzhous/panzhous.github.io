@@ -278,6 +278,20 @@ NeurIPS, 2020,
 
 
 <li ><p>
+<strong>Anatomical Domain Shifts: Test-time Heterogeneous Adaptation for 3D Human Pose Prediction</strong><br />
+Qiongjie Cui, <strong>Pan Zhou</strong>, Jingjing Chen, Na Zhao<br /> 
+IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026<br />
+  <!-- <a href="https://arxiv.org/abs/2510.17439">[Axriv]</a> 
+  <a href="https://falcon-vla.github.io/">[Code]</a> -->
+  <!-- <iframe
+    style="margin-left: 2px; margin-bottom:-5px;"
+    frameborder="0" scrolling="0" width="91px" height="20px"
+    src="https://img.shields.io/github/stars/jliu4ai/CaPo?style=social" >
+</iframe><br /> -->
+</p>
+</li>
+
+<li ><p>
 <strong>From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors</strong><br />
 Zhengshen Zhang, Hao Li, Yalun Dai, Zhengbang Zhu, Lei Zhou, Chenchen Liu, Dong Wang, Francis E. H. Tay, Sijin Chen, Ziwei Liu, Yuxiao Liu<sup>+</sup>, Xinghang Li<sup>+</sup>, <strong>Pan Zhou<sup>+</sup></strong><br /> 
 International Conference on Learning Representations (<strong>ICLR</strong>), 2026 <br />
