@@ -307,7 +307,7 @@ International Conference on Machine Learning (<strong>ICML</strong>), 2026 <br /
 
 <li ><p>
 <strong>TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection</strong><br />
-Wenbin Wang, Yuge Huang, Jianqing Xu, Yue Yu, Jiangtao Yan, Shouhong Ding, <strong>Pan Zhou</strong>, Yong Luo <br /> 
+Wenbin Wang, Yuge Huang, Jianqing Xu, Yue Yu, Jiangtao Yan, Shouhong Ding, <strong>Pan Zhou<sup>+</sup></strong>, Yong Luo <br /> 
 International Conference on Machine Learning (<strong>ICML</strong>), 2026 <br />
 <a href="https://arxiv.org/abs/2602.21716">[Axriv]</a>
 <a href="">[Code Coming Soon]</a>
