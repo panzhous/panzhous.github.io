@@ -276,6 +276,45 @@ NeurIPS, 2020,
 <a name='2026'></a> 2026
 </h4>
 
+ 
+<li ><p>
+<strong>Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance</strong><br />
+Xiandong Zou, Jianshu Li, Jing Huang, <strong>Pan Zhou<sup>+</sup></strong><br /> 
+International Conference on Machine Learning (<strong>ICML</strong>), 2026 <br />
+<a href="https://arxiv.org/html/2602.05774v1">[Axriv]</a>
+<a href="">[Code Coming Soon]</a>
+</p>
+</li>
+
+ 
+<li ><p>
+<strong>Towards Scalable and Consistent 3D Editing</strong><br />
+Ruihao Xia, Yang Tang<sup>+</sup>, <strong>Pan Zhou<sup>+</sup></strong><br /> 
+International Conference on Machine Learning (<strong>ICML</strong>), 2026 <br />
+<a href="https://arxiv.org/abs/2510.02994">[Axriv]</a>
+<a href="https://www.lv-lab.org/3DEditFormer/">[Code]</a>
+</p>
+</li>
+
+<li ><p>
+<strong>Towards Uniformity and Alignment for Multimodal Representation Learning</strong><br />
+ Wenzhe Yin, <strong>Pan Zhou<sup>+</sup></strong>, Zehao Xiao, Jie Liu, Shujian Yu, Jan-Jakob Sonke, Stratis Gavves  <br /> 
+International Conference on Machine Learning (<strong>ICML</strong>), 2026 <br />
+<a href="https://arxiv.org/abs/2602.09507">[Axriv]</a>
+<a href="">[Code Coming Soon]</a>
+</p>
+</li>
+
+<li ><p>
+<strong>TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection</strong><br />
+Wenbin Wang, Yuge Huang, Jianqing Xu, Yue Yu, Jiangtao Yan, Shouhong Ding, <strong>Pan Zhou<sup>+</sup></strong>, Yong Luo <br /> 
+International Conference on Machine Learning (<strong>ICML</strong>), 2026 <br />
+<a href="https://arxiv.org/abs/2602.21716">[Axriv]</a>
+<a href="">[Code Coming Soon]</a>
+</p>
+</li>
+
+
 
 <li ><p>
 <strong>Anatomical Domain Shifts: Test-time Heterogeneous Adaptation for 3D Human Pose Prediction</strong><br />
