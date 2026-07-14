@@ -276,6 +276,14 @@ NeurIPS, 2020,
 <a name='2026'></a> 2026
 </h4>
 
+<li ><p>
+<strong>SMART: When is it Actually Worth Expanding a Speculative Tree?</strong><br />
+Lifu Wang, <strong>Pan Zhou<sup>+</sup></strong><br /> 
+European Conference on Computer Vision (<strong>ECCV</strong>), 2026 <br />
+<a href="https://arxiv.org/pdf/2604.09731">[Axriv]</a>
+<a href="">[Code Coming Soon]</a>
+</p>
+</li>
  
 <li ><p>
 <strong>Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance</strong><br />
@@ -307,7 +315,7 @@ International Conference on Machine Learning (<strong>ICML</strong>), 2026 <br /
 
 <li ><p>
 <strong>TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection</strong><br />
-Wenbin Wang, Yuge Huang, Jianqing Xu, Yue Yu, Jiangtao Yan, Shouhong Ding, <strong>Pan Zhou<sup>+</sup></strong>, Yong Luo <br /> 
+Wenbin Wang, Yuge Huang, Jianqing Xu, Yue Yu, Jiangtao Yan, Shouhong Ding, <strong>Pan Zhou<sup>+</sup></strong>, Yong Luo<sup>+</sup> <br /> 
 International Conference on Machine Learning (<strong>ICML</strong>), 2026 <br />
 <a href="https://arxiv.org/abs/2602.21716">[Axriv]</a>
 <a href="">[Code Coming Soon]</a>
