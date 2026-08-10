@@ -7,12 +7,15 @@ nav: true
 nav_order: 5
 ---
 
+##### **Action Editor for**
+  * Transactions on Machine Learning Research (TMLR 2026)
+
 ##### **Area Chair for**
   * International Conference on Machine Learning (ICML 2025, 2026)
-  * Neural Information Processing Systems (NeurIPS 2023, 2024, 2025)
+  * Neural Information Processing Systems (NeurIPS 2023, 2024, 2025, 2026)
   * International Conference on Learning Representations (ICLR 2024, 2025, 2026)
   * Association for Computational Linguistics (ACL 2026)
-  * Association for the Advancement of Artificial Intelligence (Senior Program Committee, AAAI 2026)
+  * Association for the Advancement of Artificial Intelligence (Senior Program Committee, AAAI 2026, 2027)
 
 
 ##### **Journal Reviewer for**

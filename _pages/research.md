@@ -246,11 +246,14 @@ My research target is to build **”efficient and effective artificial intellige
         frameborder="0" scrolling="0" width="91px" height="20px"
         src="https://img.shields.io/github/stars/sail-sg/poolformer?style=social" >
     </iframe>) replaces self-attention in ViT with pooling and convolutions independently,  and achieves impressive performance, breaking the slogan “self-attention is all you need”. It reveals network design princeples that if a network contains two kinds of operations, including  spatial information exchanging operations (e.g., attention, pooling and convolution) and  channel information exchanging operations  (e.g., MLP), then the network can perfor well.  Its improved version CAFormer network sets a new recording accuracy of 85.5% on ImageNet under supervised settings without extra training data, and achives top-2 performance on ImageNet-C( 
-    <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="400px" height="20px"
-        src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/metaformer-baselines-for-vision/domain-generalization-on-imagenet-c" >
-    </iframe>). See more works like <strong><a href="https://arxiv.org/abs/2205.12956">IFormer</a></strong>  (
+    <a href="https://paperswithcode2.com/benchmark/78397"
+        target="_blank"
+        rel="noopener noreferrer">
+        <img
+            style="margin-left: 2px; margin-bottom: -5px;"
+            src="https://img.shields.io/badge/ImageNet--C-SOTA%20mCE%2030.8%20%28Oct%202022%29-blue.svg"
+            alt="CAFormer-B36 SOTA mCE 30.8 on ImageNet-C in October 2022"
+    /></a>). See more works like <strong><a href="https://arxiv.org/abs/2205.12956">IFormer</a></strong>  (
     <iframe
         style="margin-left: 2px; margin-bottom:-5px;"
         frameborder="0" scrolling="0" width="91px" height="20px"

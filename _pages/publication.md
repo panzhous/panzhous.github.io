@@ -35,6 +35,12 @@ div.bibtex {
   background: #eeeeee;
 }
 div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
+
+.scholar-citation-badge img {
+  height: 20px;
+  margin-left: 2px;
+  margin-bottom: -5px;
+}
 </style>
 
 <script>
@@ -72,125 +78,107 @@ function toggleBibtex(articleid) {
 
 
 <ol class="biblist">
-<!-- Item: 1 -->
-<!-- <li ><p>
-<strong>EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation</strong><br />
-Shanghua Gao, Zhijie Lin, Xingyu Xie, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
-ACMMM, 2023, 
-<a href="https://dl.acm.org/doi/10.1145/3581783.3612680" style="color: black;">[PDF]</a>
-<a href="https://github.com/sail-sg/EditAnything" style="color: black;">[Code]</a> 
-<iframe
-      style="margin-left: 2px; margin-bottom:-5px;"
-      frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://img.shields.io/github/stars/sail-sg/EditAnything?style=social" >
-</iframe><br />
-<font color="#2770AB"><b>the first a few pioneers for highly-flexible image editing,</b> e.g., cross-image  dragging like try-on, region-interactive editing, controllable layout generation, and virtual character replacement.  </font> <br />
-</p>
-</li> -->
-
-
-
 <li ><p>
-<strong>Masked Diffusion Transformer is a Strong Image Synthesizer</strong><br />
-Shanghua Gao, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
-ICCV, 2023, <a href="https://arxiv.org/abs/2303.14389" style="color: black;">[PDF]</a>
-<a href="https://github.com/sail-sg/MDT" style="color: black;">[Code]</a> 
-<iframe
-      style="margin-left: 2px; margin-bottom:-5px;"
-      frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://img.shields.io/github/stars/sail-sg/MDT?style=social" >
-</iframe>
-<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=MDT&type=star&count=true" > -->
-<iframe
-    style="margin-left: 2px; margin-bottom:-5px;"
-    frameborder="0" scrolling="0" width="400px" height="20px"
-    src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/masked-diffusion-transformer-is-a-strong/image-generation-on-imagenet-256x256" >
-</iframe><br /> 
-<font color="#2770AB"><b>SoTA image generative model</b> on ImageNet 256x256; <b>13x faster learning speed</b> than <a href="https://arxiv.org/abs/2212.09748">DiT</a> (core of <a href="https://openai.com/sora">SORA</a>) </font> <br />
-</p>
-</li>
-
-<!-- Item: 1 -->
-<li ><p>
-<strong>EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation</strong><br />
-Shanghua Gao, Zhijie Lin, Xingyu Xie, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br /> 
-ACMMM, 2023, 
-<a href="https://dl.acm.org/doi/10.1145/3581783.3612680" style="color: black;">[PDF]</a>
-<a href="https://github.com/sail-sg/EditAnything" style="color: black;">[Code]</a> 
-<iframe
-      style="margin-left: 2px; margin-bottom:-5px;"
-      frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://img.shields.io/github/stars/sail-sg/EditAnything?style=social" >
-</iframe><br />
-<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=EditAnything&type=star&count=true" > -->
-<font color="#2770AB"><b>the first a few pioneers for highly-flexible image editing,</b> e.g., cross-image  dragging like try-on, region-interactive editing, controllable layout generation, and virtual character replacement.  </font> <br />
-</p>
-</li>
-
-<!-- Item: 1 -->
-<li ><p>
-<strong>Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior</strong><br />
-Zike Wu, <strong>Pan Zhou<sup>+</sup></strong>, Xuanyu YI, Xiaoding Yuan, Hanwang Zhang <br /> 
-CVPR, 2024, 
-<a href="https://arxiv.org/abs/2401.09050" style="color: black;">[Axriv]</a>
-<a href="https://github.com/sail-sg/Consistent3D" style="color: black;">[Code]</a>
-<iframe
-      style="margin-left: 2px; margin-bottom:-5px;"
-      frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://img.shields.io/github/stars/sail-sg/Consistent3D?style=social" >
-</iframe><br />
-<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=Consistent3D&type=star&count=true" > -->
-<font color="#2770AB"><b>the first ODE-sampling guided Score Distillation Sampling</b> for 3D generation</font> <br />
-</p>
-</li>
-
-
-
-
-<!-- Item: 1 -->
-<li ><p>
-<strong>Prototypical Contrastive Learning of Unsupervised Representations</strong><br />
-Junnan Li, <strong>Pan Zhou</strong>, Caiming Xiong, Steven Hoi<br /> 
-ICLR, 2021, 
-<a href="https://openreview.net/pdf?id=KmykpuSrjcq" style="color: black;">[Axriv]</a>
-<a href="../assets/bibtex/2021-ICLR-SSL.txt" style="color: black;">[Bibtex]</a>
-<a href="https://blog.einstein.ai/prototypical-contrastive-learning-pushing-the-frontiers-of-unsupervised-learning/" style="color: black;">[Blog]</a>
-<a href="https://github.com/salesforce/PCL" style="color: black;">[Code]</a>, 900+ citations,
-<iframe
-      style="margin-left: 2px; margin-bottom:-5px;"
-      frameborder="0" scrolling="0" width="91px" height="20px"
-      src="https://img.shields.io/github/stars/salesforce/PCL?style=social" >
-</iframe><br />
-<!-- src="https://ghbtns.com/github-btn.html?user=salesforce&repo=PCL&type=star&count=true" > -->
-<font color="#2770AB"><b>the first clustering contrastive learning method to learn high-level semantics, i.e., data cluster structure</b></font> <br />
-</p>
-</li>
-
-
-<li ><p>
-<strong>MetaFormer Baselines for Vision</strong><br />
-Weihao Yu, Chenyang Si, <strong>Pan Zhou</strong>, Mi Luo, Yichen Zhou, Jiashi Feng,
-Shuicheng Yan,  Xinchao Wang<br /> 
-TPAMI & CVPR, 2023, 
-<a href="https://arxiv.org/abs/2111.11418#:~:text=Based%20on%20the%20extensive%20experiments,on%20the%20token%20mixer%20modules" style="color: black;">[Axriv]</a>
-<a href="https://github.com/sail-sg/poolformer" style="color: black;">[Code]</a>, 600+ citations, 
+<strong>MetaFormer Is Actually What You Need for Vision</strong><br />
+Weihao Yu, Mi Luo, <strong>Pan Zhou</strong>, Chenyang Si, Yichen Zhou, Xinchao Wang, Jiashi Feng, Shuicheng Yan<br />
+CVPR, 2022 (<font color="#FF0000"><strong>oral</strong></font>),
+<a href="https://arxiv.org/abs/2111.11418">[Arxiv]</a>
+<a href="https://github.com/sail-sg/poolformer">[Code]</a>
+<a class="scholar-citation-badge"
+   href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=0b7ZqlcAAAAJ&amp;citation_for_view=0b7ZqlcAAAAJ:mB3voiENLucC"
+   target="_blank" rel="noopener noreferrer"
+   aria-label="View Google Scholar citations for MetaFormer">
+  <img src="{{ '/assets/img/scholar-citations/metaformer-original.svg' | relative_url }}"
+       alt="Google Scholar citations for MetaFormer" />
+</a>
 <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
       src="https://img.shields.io/github/stars/sail-sg/poolformer?style=social" >
 </iframe>
-<!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=poolformer&type=star&count=true" > -->
-<!-- <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="490px" height="20px"
-        src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/metaformer-baselines-for-vision/domain-generalization-on-imagenet-c" >
-</iframe> -->
 <br />
 <font color="#2770AB"><b>replacing attention with simple pooling still achieves high performance, breaking "attention is all you need" and revealing network design principle</b></font> <br />
 </p>
 </li>
 
+<li ><p>
+<strong>Prototypical Contrastive Learning of Unsupervised Representations</strong><br />
+Junnan Li, <strong>Pan Zhou</strong>, Caiming Xiong, Steven Hoi<br />
+ICLR, 2021,
+<a href="https://openreview.net/pdf?id=KmykpuSrjcq">[Arxiv]</a>
+<a href="../assets/bibtex/2021-ICLR-SSL.txt">[Bibtex]</a>
+<a href="https://blog.einstein.ai/prototypical-contrastive-learning-pushing-the-frontiers-of-unsupervised-learning/">[Blog]</a>
+<a href="https://github.com/salesforce/PCL">[Code]</a>
+<a class="scholar-citation-badge"
+   href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=0b7ZqlcAAAAJ&amp;citation_for_view=0b7ZqlcAAAAJ:Zph67rFs4hoC"
+   target="_blank" rel="noopener noreferrer"
+   aria-label="View Google Scholar citations for Prototypical Contrastive Learning">
+  <img src="{{ '/assets/img/scholar-citations/pcl.svg' | relative_url }}"
+       alt="Google Scholar citations for Prototypical Contrastive Learning" />
+</a>
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/salesforce/PCL?style=social" >
+</iframe><br />
+<font color="#2770AB"><b>the first clustering contrastive learning method to learn high-level semantics, i.e., data cluster structure</b></font> <br />
+</p>
+</li>
 
+<li ><p>
+<strong>Masked Diffusion Transformer is a Strong Image Synthesizer</strong><br />
+Shanghua Gao, <strong>Pan Zhou<sup>+</sup></strong>, Ming-Ming Cheng, Shuicheng Yan<br />
+ICCV, 2023, <a href="https://arxiv.org/abs/2303.14389">[PDF]</a>
+<a href="https://github.com/sail-sg/MDT">[Code]</a>
+<a class="scholar-citation-badge"
+   href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=0b7ZqlcAAAAJ&amp;citation_for_view=0b7ZqlcAAAAJ:lSLTfruPkqcC"
+   target="_blank" rel="noopener noreferrer"
+   aria-label="View Google Scholar citations for Masked Diffusion Transformer">
+  <img src="{{ '/assets/img/scholar-citations/mdt.svg' | relative_url }}"
+       alt="Google Scholar citations for Masked Diffusion Transformer" />
+</a>
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/sail-sg/MDT?style=social" >
+</iframe>
+<a href="https://arxiv.org/abs/2303.14389"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    style="margin-left: 2px; margin-bottom: -5px;"
+    src="https://img.shields.io/badge/ImageNet%20256x256-SOTA%20FID%201.58%20%28Feb%202024%29-blue.svg"
+    alt="SOTA FID 1.58 on ImageNet 256x256 as of February 2024"
+  />
+</a><br />
+<font color="#2770AB"><b>SoTA image generative model</b> on ImageNet 256x256; <b>13x faster learning speed</b> than <a href="https://arxiv.org/abs/2212.09748">DiT</a> (core of <a href="https://openai.com/sora">SORA</a>) </font> <br />
+</p>
+</li>
+
+
+
+
+<li ><p>
+<strong>Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior</strong><br />
+Zike Wu, <strong>Pan Zhou<sup>+</sup></strong>, Xuanyu YI, Xiaoding Yuan, Hanwang Zhang<br />
+CVPR, 2024,
+<a href="https://arxiv.org/abs/2401.09050">[Arxiv]</a>
+<a href="https://github.com/sail-sg/Consistent3D">[Code]</a>
+<a class="scholar-citation-badge"
+   href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=0b7ZqlcAAAAJ&amp;citation_for_view=0b7ZqlcAAAAJ:fPk4N6BV_jEC"
+   target="_blank" rel="noopener noreferrer"
+   aria-label="View Google Scholar citations for Consistent3D">
+  <img src="{{ '/assets/img/scholar-citations/consistent3d.svg' | relative_url }}"
+       alt="Google Scholar citations for Consistent3D" />
+</a>
+<iframe
+      style="margin-left: 2px; margin-bottom:-5px;"
+      frameborder="0" scrolling="0" width="91px" height="20px"
+      src="https://img.shields.io/github/stars/sail-sg/Consistent3D?style=social" >
+</iframe><br />
+<font color="#2770AB"><b>the first ODE-sampling guided Score Distillation Sampling</b> for 3D generation</font> <br />
+</p>
+</li>
 
 
 <!-- Item: 1 -->
@@ -198,8 +186,15 @@ TPAMI & CVPR, 2023,
 <strong>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</strong><br />
 Xingyu Xie<strong><sup>*</sup></strong>, <strong>Pan Zhou</strong><strong><sup>*</sup></strong>, Huan Li, Zhouchen Lin, Shuicheng Yan <br />
 TPAMI, 2024 
-<a href="https://arxiv.org/abs/2208.06677" style="color: black;">[PDF]</a>
-<a href="https://github.com/sail-sg/Adan" style="color: black;">[Code]</a>
+<a href="https://arxiv.org/abs/2208.06677">[PDF]</a>
+<a href="https://github.com/sail-sg/Adan">[Code]</a>
+<a class="scholar-citation-badge"
+   href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=0b7ZqlcAAAAJ&amp;citation_for_view=0b7ZqlcAAAAJ:TFP_iSt0sucC"
+   target="_blank" rel="noopener noreferrer"
+   aria-label="View Google Scholar citations for Adan">
+  <img src="{{ '/assets/img/scholar-citations/adan.svg' | relative_url }}"
+       alt="Google Scholar citations for Adan" />
+</a>
 <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="91px" height="20px"
@@ -214,11 +209,18 @@ TPAMI, 2024
 
 <!-- Item: 1 -->
 <li ><p>
-<strong>Win: Weight-Decay-Integrated Nesterov Acceleration for  Faster Network Training</strong><br>
-<strong>Pan Zhou</strong>, Xingyu Xie, Zhouchen Lin, Kim-Chuan Toh, Shuicheng Yan  <br /> 
-JMLR & ICLR, 2024
-<a href="../assets/pdf/2024-JMLR-win.pdf" style="color: black;">[PDF]</a> 
-<a href="https://github.com/sail-sg/win" style="color: black;">[Code]</a>
+<strong>Win: Weight-Decay-Integrated Nesterov Acceleration for Faster Network Training</strong><br>
+<strong>Pan Zhou</strong>, Xingyu Xie, Zhouchen Lin, Kim-Chuan Toh, Shuicheng Yan<br />
+JMLR, 2024,
+<a href="../assets/pdf/2024-JMLR-win.pdf">[PDF]</a>
+<a href="https://github.com/sail-sg/win">[Code]</a>
+<a class="scholar-citation-badge"
+   href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=0b7ZqlcAAAAJ&amp;citation_for_view=0b7ZqlcAAAAJ:bFI3QPDXJZMC"
+   target="_blank" rel="noopener noreferrer"
+   aria-label="View Google Scholar citations for Win">
+  <img src="{{ '/assets/img/scholar-citations/win.svg' | relative_url }}"
+       alt="Google Scholar citations for Win" />
+</a>
 <iframe
     style="margin-left: 2px; margin-bottom:-5px; color: black;"
     frameborder="0" scrolling="0" width="91px" height="20px"
@@ -229,18 +231,63 @@ JMLR & ICLR, 2024
 </p>
 </li>
 
+<li ><p>
+<strong>LoCo: Low-Bit Communication Adaptor for Large-scale Model Training</strong><br />
+Xingyu Xie, Zhijie Lin, Kim-chuan Toh, <strong>Pan Zhou<sup>+</sup></strong><br />
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2025<br />
+<a href="https://arxiv.org/abs/2407.04480">[PDF]</a>
+<a href="https://github.com/deepspeedai/DeepSpeed/pull/6730">[Code]</a>
+<a class="scholar-citation-badge"
+   href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=0b7ZqlcAAAAJ&amp;citation_for_view=0b7ZqlcAAAAJ:Mojj43d5GZwC"
+   target="_blank" rel="noopener noreferrer"
+   aria-label="View Google Scholar citations for LoCo">
+  <img src="{{ '/assets/img/scholar-citations/loco.svg' | relative_url }}"
+       alt="Google Scholar citations for LoCo" />
+</a>
+<br />
+<font color="#2770AB"><b>On Megatron-LM and FSDP, LoCo significantly improves communication efficiency, e.g., +14% to +40% improvement on Adam's overall training speed without performance degradation on LLaMAs and MoEs. LoCo has been included by the popular <a href="https://github.com/deepspeedai/DeepSpeed/pull/6730">DeepSpeed</a> codebase.</b></font> <br />
+</p>
+</li>
+
+
+<li ><p>
+<strong>Towards Understanding Convergence and Generalization of AdamW</strong><br>
+<strong>Pan Zhou</strong>, Xingyu Xie, Zhoucheng Lin, Shuicheng Yan<br />
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024<br />
+<a href="../assets/pdf/2024-TPAMI-AdamW.pdf">[PDF]</a>
+<a href="../assets/pdf/2024-TPAMI-AdamW-supp.pdf">[Supp]</a>
+<a class="scholar-citation-badge"
+   href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=0b7ZqlcAAAAJ&amp;citation_for_view=0b7ZqlcAAAAJ:ns9cj8rnVeAC"
+   target="_blank" rel="noopener noreferrer"
+   aria-label="View Google Scholar citations for AdamW convergence and generalization">
+  <img src="{{ '/assets/img/scholar-citations/adamw.svg' | relative_url }}"
+       alt="Google Scholar citations for AdamW convergence and generalization" />
+</a>
+<br />
+<font color="#2770AB"><b>the first theory to establish the convergence rate and generalization bound of AdamW </b></font> <br />
+</p>
+</li>
+
+
 <!-- Item: 1 -->
  <li ><p>
 <strong>Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning</strong><br />
 <strong>Pan Zhou</strong>, Jiashi Feng, Chao Ma, Caiming Xiong, Steven Hoi, and Weinan E<br /> 
 NeurIPS, 2020, 
-<a href="../assets/pdf/2020_generalization.pdf" style="color: black;">[PDF]</a>
-<a href="../assets/pdf/2020_generalization_supp.pdf" style="color: black;">[SUPP]</a>
-<a href="https://arxiv.org/pdf/2010.05627.pdf" style="color: black;">[Axriv]</a>
-<a href="../assets/bibtex/2020_generalization_bib.txt" style="color: black;">[Bibtex]</a>
-<a href="https://github.com/salesforce/comparison_SGD_ADAM" style="color: black;">[Code]</a>
-<a href="../assets/pdf/2020-NIPS-SGD-slides.pdf" style="color: black;">[Slides]</a>
-<a href="../assets/pdf/2020-NIPS-SGD-poster.pdf" style="color: black;">[Poster]</a>, 200+ citations
+<a href="../assets/pdf/2020_generalization.pdf">[PDF]</a>
+<a href="../assets/pdf/2020_generalization_supp.pdf">[SUPP]</a>
+<a href="https://arxiv.org/pdf/2010.05627.pdf">[Axriv]</a>
+<a href="../assets/bibtex/2020_generalization_bib.txt">[Bibtex]</a>
+<a href="https://github.com/salesforce/comparison_SGD_ADAM">[Code]</a>
+<a href="../assets/pdf/2020-NIPS-SGD-slides.pdf">[Slides]</a>
+<a href="../assets/pdf/2020-NIPS-SGD-poster.pdf">[Poster]</a>
+<a class="scholar-citation-badge"
+   href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=0b7ZqlcAAAAJ&amp;citation_for_view=0b7ZqlcAAAAJ:4TOpqqG69KYC"
+   target="_blank" rel="noopener noreferrer"
+   aria-label="View Google Scholar citations for the SGD generalization paper">
+  <img src="{{ '/assets/img/scholar-citations/sgd-generalization.svg' | relative_url }}"
+       alt="Google Scholar citations for the SGD generalization paper" />
+</a>
 <!-- <iframe
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
@@ -742,11 +789,15 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
     src="https://img.shields.io/github/stars/sail-sg/ptp?style=social" >
 </iframe>,
 <!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ptp&type=star&count=true" > -->
-<iframe
-    style="margin-left: 2px; margin-bottom:-5px;"
-    frameborder="0" scrolling="0" width="400px" height="20px"
-    src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/position-guided-text-prompt-for-vision/zero-shot-cross-modal-retrieval-on-coco-2014" >
-</iframe>
+<a href="https://paperswithcode2.com/benchmark/78504"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    style="margin-left: 2px; margin-bottom: -5px;"
+    src="https://img.shields.io/badge/COCO%20Retrieval-I2T%20R%401%2081.5%20%28Dec%202022%29-blue.svg"
+    alt="PTP-BLIP image-to-text R@1 81.5 on COCO Retrieval in December 2022"
+  />
+</a>
 </p>
 </li>
 
@@ -970,11 +1021,16 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
       style="margin-left: 2px; margin-bottom:-5px;"
       frameborder="0" scrolling="0" width="91px" height="20px"
       src="https://img.shields.io/github/stars/sail-sg/metaformer?style=social" >
-</iframe>,  <iframe
-        style="margin-left: 2px; margin-bottom:-5px;"
-        frameborder="0" scrolling="0" width="700px" height="20px"
-        src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/metaformer-baselines-for-vision/domain-generalization-on-imagenet-c" >
-    </iframe>
+</iframe>,
+<a href="https://paperswithcode2.com/benchmark/78397"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    style="margin-left: 2px; margin-bottom: -5px;"
+    src="https://img.shields.io/badge/ImageNet--C-SOTA%20mCE%2030.8%20%28Oct%202022%29-blue.svg"
+    alt="CAFormer-B36 SOTA mCE 30.8 on ImageNet-C in October 2022"
+  />
+</a>
 </p>
 </li>
 <!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=metaformer&type=star&count=true" > -->
@@ -1036,11 +1092,15 @@ International Conference on Computer Vision (<strong>ICCV</strong>), 2023<br />
       src="https://img.shields.io/github/stars/sail-sg/MDT?style=social" >
 </iframe>
 <!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=MDT&type=star&count=true" > -->
-<iframe
-    style="margin-left: 2px; margin-bottom:-5px;"
-    frameborder="0" scrolling="0" width="400px" height="20px"
-    src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/masked-diffusion-transformer-is-a-strong/image-generation-on-imagenet-256x256" >
-</iframe>
+<a href="https://arxiv.org/abs/2303.14389"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    style="margin-left: 2px; margin-bottom: -5px;"
+    src="https://img.shields.io/badge/ImageNet%20256x256-SOTA%20FID%201.58%20%28Feb%202024%29-blue.svg"
+    alt="SOTA FID 1.58 on ImageNet 256x256 as of February 2024"
+  />
+</a>
 <!-- <iframe
     style="margin-left: 2px; margin-bottom:-5px;"
     frameborder="0" scrolling="0" width="150px" height="20px"
@@ -1099,11 +1159,15 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
       frameborder="0" scrolling="0" width="91px" height="20px"
       src="https://img.shields.io/github/stars/sail-sg/ptp?style=social" >
 </iframe>,
-<iframe
-    style="margin-left: 2px; margin-bottom:-5px;"
-    frameborder="0" scrolling="0" width="400px" height="20px"
-    src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/position-guided-text-prompt-for-vision/zero-shot-cross-modal-retrieval-on-coco-2014" >
-</iframe>
+<a href="https://paperswithcode2.com/benchmark/78504"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    style="margin-left: 2px; margin-bottom: -5px;"
+    src="https://img.shields.io/badge/COCO%20Retrieval-I2T%20R%401%2081.5%20%28Dec%202022%29-blue.svg"
+    alt="PTP-BLIP image-to-text R@1 81.5 on COCO Retrieval in December 2022"
+  />
+</a>
 </p>
 </li>
 <!-- src="https://ghbtns.com/github-btn.html?user=sail-sg&repo=ptp&type=star&count=true" > -->
@@ -1148,11 +1212,15 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
       frameborder="0" scrolling="0" width="91px" height="20px"
       src="https://img.shields.io/github/stars/DongSky/LPT?style=social" >
 </iframe>,
-<iframe
-    style="margin-left: 2px; margin-bottom:-5px;"
-    frameborder="0" scrolling="0" width="400px" height="20px"
-    src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lpt-long-tailed-prompt-tuning-for-image/long-tail-learning-on-cifar-100-lt-r-100" >
-</iframe>
+<a href="https://paperswithcode2.com/benchmark/61182"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    style="margin-left: 2px; margin-bottom: -5px;"
+    src="https://img.shields.io/badge/CIFAR--100--LT%20rho%3D100-%231%20Error%2010.9%20%28Oct%202022%29-blue.svg"
+    alt="LPT ranked first with error rate 10.9 on CIFAR-100-LT rho 100 in October 2022"
+  />
+</a>
 </p>
 </li>
 <!-- src="https://ghbtns.com/github-btn.html?user=DongSky&repo=LPT&type=star&count=true" > -->
@@ -1214,11 +1282,15 @@ Workshop of Neural Information Processing Systems, 2022.<br />
       frameborder="0" scrolling="0" width="91px" height="20px"
       src="https://img.shields.io/github/stars/sail-sg/mugs?style=social" >
 </iframe>
-<iframe
-    style="margin-left: 2px; margin-bottom:-5px;"
-    frameborder="0" scrolling="0" width="400px" height="20px"
-    src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mugs-a-multi-granular-self-supervised/self-supervised-image-classification-on" >
-</iframe><br />
+<a href="https://arxiv.org/abs/2203.14415"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    style="margin-left: 2px; margin-bottom: -5px;"
+    src="https://img.shields.io/badge/ImageNet--1K%20Linear-SOTA%2082.1%25%20%28Mar%202022%29-blue.svg"
+    alt="Mugs SOTA linear probing accuracy 82.1 percent on ImageNet-1K in March 2022"
+  />
+</a><br />
 <font color="#2770AB"><b>Top linear probing and KNN performance on ImageNet without extra data</b></font><br />
 </p>
 </li>
