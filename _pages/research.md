@@ -165,5 +165,3 @@ My research aims to develop **efficient and capable AI systems** that can percei
     <img class="research-badge" style="margin-left: 2px; margin-bottom:-5px;" width="91" height="20" loading="lazy" src="https://img.shields.io/github/stars/salesforce/PR-DARTS?style=social" alt="GitHub stars for salesforce/PR-DARTS">)  automatically designs effective network architectures, reducing the reliance on expert trial and error. It provides the first theory to show why previous network search methods (a.k.a. AutoML) often collapse due to selecting too many skip-connections, and then proposes a new method that can avoid previous collapse and thus automatically selects and combines various network operations, e.g. pooling and convolution, to search more effective network.
 
     </details>
-
-

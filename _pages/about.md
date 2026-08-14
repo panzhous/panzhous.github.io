@@ -45,7 +45,7 @@ My research aims to develop <strong>efficient and capable AI systems</strong> th
 <div class="highlight">
   <ul>
     <li>I am seeking for full- and part-time <strong>Ph.D. applicants</strong> with strong background in computer science and mathematics, fully-supported by <a href="https://computing.smu.edu.sg/phd/online-application">SMU</a>/<a href="https://aisingapore.org/research/phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship">AICS</a>.</li>
-    <li>I am recruiting <strong>visiting Ph.D. and Masters</strong> for <u>(multimodal) agent and LLM, optimization, and generative AI.</u></li>
+    <li>I am recruiting <strong>visiting Ph.D. and Masters</strong> for <u>agent/LLM/MLLM, optimization, and generative AI.</u></li>
     <li>I am looking for self-fund (e.g., <a href="https://www.csc.edu.cn/chuguo/">CSC-fund</a>) <strong>visiting scholars, Ph.D., and Masters</strong> with interests in my research topics or related ones.</li>
     <li>I am  welcoming <strong>remote interns/scholars and collaborations</strong> without strong restrictions on topics.</li>  
   </ul>

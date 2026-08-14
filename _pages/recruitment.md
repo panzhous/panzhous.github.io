@@ -31,7 +31,9 @@ For full- and part-time Ph.D. applicants, please satisfy the following general r
 - You should have strong programming skills, and are familiar with deep learning frameworks like PyTorch. Winners of ACM/ICPC or NOI/IOI are preferred.
 - You should have some research experience and strong interests in machine learning OR computer vision OR optimization OR other AI fields. Having relevant research papers is a plus.
 - You should have good English reading, writing, and oral communication skills. Full-time applicants must satisfy the current language and standardized-test requirements published by SMU: TOEFL or IELTS is required when the medium of instruction for the applicant's bachelor's degree was not English, and GRE or GMAT scores are required unless waived for candidates with at least one first-authored top-tier publication.
+
 <!-- SMU lists standard waivers for graduates with a bachelor's or master's degree from SMU, NUS, NTU, or SUTD; other waivers require special approval from SMU. -->
+
 - You should be self-motivated and passionate about research, and have positive and optimistic mindset, a continuous learning attitude, and honesty.
 
 Please see the official [SMU Ph.D. requirements and application schedule](https://computing.smu.edu.sg/phd/online-application). The funding options below apply to eligible full-time applicants. [Part-time study](https://computing.smu.edu.sg/phd/part-time-study) is currently limited to Singapore citizens and permanent residents; competitive partial scholarships waive subsidized tuition fees, and SMU does not state a monthly living stipend for this route.
@@ -58,7 +60,7 @@ For students, I am happy to be your co-supervisor for long-term collaboration if
 
 For **SMU-fund visiting students/scholars**, please check the following requirements:
 
-- You should have top tier research papers in <u>(multimodal) agent and LLM, optimization, or generative AI.</u>
+- You should have top tier research papers in <u>agent/LLM/MLLM, optimization, or generative AI.</u>
 - For visiting students/scholars, you must get the approval of your superviors/schools.
 - The visiting duration should be at least 1 year in general, and can be six months for excellent applicants.
 
@@ -80,7 +82,7 @@ For **(remote) interns/scholars**, please check the following requirements:
 To apply for research fellow (postdoctoral fellow) postion, please check the following general requirements:
 
 - You should have a Ph.D. degree in computer science or mathematics or a related field.
-- You should have top tier research papers in <u>(multimodal) agent and LLM, optimization, or generative AI.</u>
+- You should have top tier research papers in <u>agent/LLM/MLLM, optimization, or generative AI.</u>
 - You should have strong programming skills, and are familiar with deep learning frameworks like PyTorch. Strong coding / mathematical skills is a plus, e.g., winners of ACM/ICPC or NOI/IOI.
 - You should be self-motivated and passionate about research, and have positive and optimistic mindset, a continuous learning attitude, and honesty.
 - You should have good English reading and writing skills, but are not required to have IELTS (TOEFL) and GRE (GMAT) test score.
@@ -93,7 +95,7 @@ To apply for research fellow (postdoctoral fellow) postion, please check the fol
 To apply for research asssitant postion, please check the following general requirements:
 
 - You should be a master or graduate in computer science or mathematics or a related field.
-- You should have top tier research papers in <u>agent, or multimodal learning, or LLM, or optimization.</u>
+- You should have top tier research papers in <u>agent/LLM/MLLM, optimization, or generative AI.</u>
 - You should have strong programming skills, and are familiar with deep learning frameworks like PyTorch. Strong coding / mathematical skills is a plus, e.g., winners of ACM/ICPC or NOI/IOI.
 - You should be self-motivated and passionate about research, and have positive and optimistic mindset, a continuous learning attitude, and honesty.
 - You should have good English reading and writing skills, but are not required to have IELTS (TOEFL) and GRE (GMAT) test score.
