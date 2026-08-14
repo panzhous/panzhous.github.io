@@ -55,6 +55,7 @@
   {% else %}
     <iframe
       src="{{ include.path }}"
+      title="{{ include.title | default: 'Embedded media' }}"
       {% if include.class %}
         class="{{ include.class }}"
       {% endif %}

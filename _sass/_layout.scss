@@ -23,8 +23,19 @@ body.fixed-top-nav {
 }
 
 body.sticky-bottom-footer {
-  // Remove padding below footer.
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   padding-bottom: 0;
+
+  > .container[role="main"],
+  > .post.distill {
+    flex: 1 0 auto;
+  }
+
+  > footer {
+    flex-shrink: 0;
+  }
 }
 
 .container {

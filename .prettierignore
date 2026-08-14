@@ -6,3 +6,12 @@ assets/js/distillpub/template.v2.js
 assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
+
+# Legacy academic content mixes Markdown, Liquid, and hand-authored HTML.
+# Jekyll validates these pages; formatting them with Prettier creates noisy,
+# high-risk rewrites without improving their rendered output.
+_pages/about.md
+_pages/publication.md
+_pages/research.md
+.codex-backups/**
+.pnpm-store/**

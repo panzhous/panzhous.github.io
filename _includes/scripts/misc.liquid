@@ -37,6 +37,10 @@
 <script defer src="{{ '/assets/js/common.js' | relative_url | bust_file_cache }}"></script>
 <script defer src="{{ '/assets/js/copy_code.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
 
+{% if page.publication_explorer %}
+  <script defer src="{{ '/assets/js/publication-filter.js' | relative_url | bust_file_cache }}"></script>
+{% endif %}
+
 <!-- Jupyter Open External Links New Tab -->
 <script defer src="{{ '/assets/js/jupyter_new_tab.js' | relative_url | bust_file_cache }}"></script>
 

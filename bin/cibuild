@@ -1,1 +1,2 @@
+bundle exec ruby scripts/validate_publications.rb
 bundle exec jekyll build --lsi

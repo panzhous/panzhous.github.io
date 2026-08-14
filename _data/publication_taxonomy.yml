@@ -1,0 +1,25 @@
+# This file controls the filter labels and their display order.
+# Keep these IDs stable because publication.md stores them as metadata.
+- id: efficiency-optimization
+  label: Efficiency Optimization
+  subtopics:
+    - id: efficient-training
+      label: Efficient Training
+    - id: efficient-inference
+      label: Efficient Inference
+    - id: optimization-theory
+      label: Optimization & Theory
+
+- id: learning-frameworks
+  label: Learning Frameworks
+  subtopics:
+    - id: multimodal-learning-agent
+      label: Multimodal Learning & Agent
+    - id: generative-learning
+      label: Generative Learning
+    - id: representation-generalization
+      label: Representation & Generalization
+
+- id: architecture-design
+  label: Architecture Design
+  subtopics: []

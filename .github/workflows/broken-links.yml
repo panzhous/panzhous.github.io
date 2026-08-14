@@ -38,15 +38,33 @@ on:
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
 
+permissions:
+  contents: read
+
 jobs:
   link-checker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Link Checker 🔗
-        uses: lycheeverse/lychee-action@v1.9.0
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
           fail: true
           # removed md files that include liquid tags
-          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
+          # These sites reject automated link checkers despite serving the
+          # linked pages in browsers, so exclude only those known domains.
+          args: >-
+            --root-dir .
+            --accept '200..=399'
+            --exclude-path README.md
+            --exclude-path _pages/404.md
+            --exclude-path _pages/blog.md
+            --exclude-path _posts/2018-12-22-distill.md
+            --exclude-path _site
+            --exclude-path node_modules
+            --exclude '^https://www\.csc\.edu\.cn/'
+            --exclude '^https://dl\.acm\.org/'
+            --exclude '^https://openreview\.net/'
+            --verbose --no-progress
+            './**/*.md' './**/*.html'

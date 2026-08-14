@@ -16,7 +16,7 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      <div class="profile home-profile float-sm-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -26,9 +26,10 @@ layout: default
       rounded' %}
           {% endif %}
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
+      30vw, 70vw{% endcapture %}
+          {% assign profile_image_alt = page.profile.image_alt | default: site.title %}
           {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile_image_alt
             cache_bust=true
           %}
         {% endif %}
@@ -40,14 +41,13 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- News  -->
+    <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
-   
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
@@ -56,7 +56,6 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
-    
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
@@ -65,7 +64,7 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-    
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
@@ -73,6 +72,5 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
-
   </article>
 </div>

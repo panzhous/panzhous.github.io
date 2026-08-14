@@ -7,6 +7,10 @@ on:
       - main
     paths:
       - "assets/**"
+      - "_plugins/**"
+      - "_sass/**"
+      - "scripts/**"
+      - "bin/cibuild"
       - "**.html"
       - "**.js"
       - "**.liquid"
@@ -31,6 +35,10 @@ on:
       - main
     paths:
       - "assets/**"
+      - "_plugins/**"
+      - "_sass/**"
+      - "scripts/**"
+      - "bin/cibuild"
       - "**.html"
       - "**.js"
       - "**.liquid"
@@ -52,10 +60,10 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  deploy:
+  build:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
@@ -66,24 +74,38 @@ jobs:
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
-      - name: Update _config.yml ⚙️
-        uses: fjogeleit/yaml-update-action@main
-        with:
-          commitChange: false
-          valueFile: "_config.yml"
-          propertyPath: "giscus.repo"
-          value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
+          bundle exec ruby scripts/validate_publications.rb
           bundle exec jekyll build --lsi
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Upload site artifact ⬆️
+        uses: actions/upload-artifact@v6
+        with:
+          name: site
+          path: _site
+          retention-days: 1
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v6
+      - name: Download site artifact ⬇️
+        uses: actions/download-artifact@v7
+        with:
+          name: site
+          path: _site
       - name: Deploy 🚀
-        if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site

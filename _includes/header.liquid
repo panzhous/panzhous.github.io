@@ -110,10 +110,10 @@
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">
-              <button id="light-toggle" title="Change theme">
-                <i class="ti ti-sun-moon" id="light-toggle-system"></i>
-                <i class="ti ti-moon-filled" id="light-toggle-dark"></i>
-                <i class="ti ti-sun-filled" id="light-toggle-light"></i>
+              <button id="light-toggle" type="button" title="Change color theme" aria-label="Change color theme">
+                <span id="light-toggle-system" aria-hidden="true">◐</span>
+                <span id="light-toggle-dark" aria-hidden="true">☾</span>
+                <span id="light-toggle-light" aria-hidden="true">☀</span>
               </button>
             </li>
           {% endif %}
@@ -123,7 +123,7 @@
   </nav>
   {% if site.enable_progressbar %}
     <!-- Scrolling Progress Bar -->
-    <progress id="progress" value="0">
+    <progress id="progress" value="0" max="100" aria-label="Reading progress">
       <div class="progress-container">
         <span class="progress-bar"></span>
       </div>

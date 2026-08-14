@@ -6,7 +6,7 @@
 # License: MIT
 # Copyright (c) 2021 Sitdisch
 
-name: "Lighthouse Badger"
+name: "Lighthouse Badger (site)"
 
 ########################################################################
 # DEFINE YOUR INPUTS AND TRIGGERS IN THE FOLLOWING
@@ -14,7 +14,7 @@ name: "Lighthouse Badger"
 
 # INPUTS as environmental variables (env) for not manually triggered workflows
 env:
-  URLS: https://alshedivat.github.io/al-folio/
+  URLS: https://panzhous.github.io/
   TOKEN_NAME: LIGHTHOUSE_BADGER_TOKEN
   # If any of the following env is blank, a default value is used instead
   REPO_BRANCH: "${{ github.repository }} master" # target repository & branch e.g. 'dummy/mytargetrepo main'
@@ -36,6 +36,8 @@ on:
 
 jobs:
   lighthouse-badger-easy:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 8
     steps:

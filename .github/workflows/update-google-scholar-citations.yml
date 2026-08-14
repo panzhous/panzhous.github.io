@@ -1,0 +1,42 @@
+name: Update Google Scholar citation badges
+
+on:
+  schedule:
+    # A weekly refresh is enough for a personal publication page.
+    - cron: "17 3 * * 0"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: write
+
+concurrency:
+  group: google-scholar-citation-badges
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate citation badges
+        run: python3 scripts/update_google_scholar_badges.py
+
+      - name: Commit changed citation counts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- assets/img/scholar-citations; then
+            echo "Citation counts have not changed."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/img/scholar-citations
+          git commit -m "chore: update Google Scholar citation badges"
+          git push
+          gh workflow run deploy.yml --ref "${GITHUB_REF_NAME}"
