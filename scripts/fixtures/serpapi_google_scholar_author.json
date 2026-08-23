@@ -1,0 +1,52 @@
+{
+  "search_metadata": {
+    "status": "Success"
+  },
+  "articles": [
+    {
+      "title": "MetaFormer Is Actually What You Need for Vision",
+      "citation_id": "0b7ZqlcAAAAJ:mB3voiENLucC",
+      "cited_by": { "value": 2017 }
+    },
+    {
+      "title": "Prototypical Contrastive Learning of Unsupervised Representations",
+      "citation_id": "0b7ZqlcAAAAJ:Zph67rFs4hoC",
+      "cited_by": { "value": 1632 }
+    },
+    {
+      "title": "Masked Diffusion Transformer Is a Strong Image Synthesizer",
+      "citation_id": "0b7ZqlcAAAAJ:lSLTfruPkqcC",
+      "cited_by": { "value": 268 }
+    },
+    {
+      "title": "Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior",
+      "citation_id": "0b7ZqlcAAAAJ:fPk4N6BV_jEC",
+      "cited_by": { "value": 78 }
+    },
+    {
+      "title": "Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models",
+      "citation_id": "0b7ZqlcAAAAJ:TFP_iSt0sucC",
+      "cited_by": { "value": 408 }
+    },
+    {
+      "title": "Win: Weight-Decay-Integrated Nesterov Acceleration for Faster Network Training",
+      "citation_id": "0b7ZqlcAAAAJ:bFI3QPDXJZMC",
+      "cited_by": { "value": 11 }
+    },
+    {
+      "title": "LoCo: Low-Bit Communication Adaptor for Large-Scale Model Training",
+      "citation_id": "0b7ZqlcAAAAJ:Mojj43d5GZwC",
+      "cited_by": { "value": 17 }
+    },
+    {
+      "title": "Towards Understanding Convergence and Generalization of AdamW",
+      "citation_id": "0b7ZqlcAAAAJ:ns9cj8rnVeAC",
+      "cited_by": { "value": 393 }
+    },
+    {
+      "title": "Towards Theoretically Understanding Why SGD Generalizes Better Than Adam in Deep Learning",
+      "citation_id": "0b7ZqlcAAAAJ:4TOpqqG69KYC",
+      "cited_by": { "value": 450 }
+    }
+  ]
+}
