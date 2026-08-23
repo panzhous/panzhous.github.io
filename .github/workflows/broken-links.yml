@@ -66,5 +66,7 @@ jobs:
             --exclude '^https://www\.csc\.edu\.cn/'
             --exclude '^https://dl\.acm\.org/'
             --exclude '^https://openreview\.net/'
+            --exclude '^https://scholar\.google\.(com|com\.sg)/'
+            --exclude '^https://openai\.com/sora/?$'
             --verbose --no-progress
             './**/*.md' './**/*.html'

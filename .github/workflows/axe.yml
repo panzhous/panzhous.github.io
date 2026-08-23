@@ -22,6 +22,10 @@ jobs:
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
+      - name: Configure npm tools directory
+        run: |
+          echo "NPM_CONFIG_PREFIX=$RUNNER_TEMP/npm-global" >> "$GITHUB_ENV"
+          echo "$RUNNER_TEMP/npm-global/bin" >> "$GITHUB_PATH"
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
@@ -48,9 +52,11 @@ jobs:
       - name: Run axe 🪓
         # https://github.com/dequelabs/axe-core-npm/tree/develop/packages/cli
         run: |
-          npm install -g @axe-core/cli
-          npm install -g http-server
-          http-server _site/ &
+          npm install -g @axe-core/cli http-server
+          http-server _site/ --silent &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
+          curl --fail --silent --show-error --retry 10 --retry-all-errors --retry-delay 1 --output /dev/null http://127.0.0.1:8080/
           for path in / /research/ /publication/ /recruitment/ /service/; do
-            axe --chromedriver-path $(npm root -g)/chromedriver/bin/chromedriver "http://localhost:8080${path}" --load-delay=1500 --exit
+            axe --chromedriver-path "$(npm root -g)/chromedriver/bin/chromedriver" "http://127.0.0.1:8080${path}" --load-delay=1500 --exit
           done
