@@ -10,7 +10,10 @@ TAXONOMY_PATH = File.join(ROOT, "_data", "publication_taxonomy.yml")
 source = File.read(SOURCE_PATH, encoding: "UTF-8")
 taxonomy = YAML.safe_load_file(TAXONOMY_PATH)
 
-full_section = source[/##### \*\*Full Publications\*\*(.*?)##### \*\*Books and Patents\*\*/m, 1]
+full_section = source[
+  /<h2[^>]*id=["']full-publications["'][^>]*>.*?<\/h2>(.*?)<h2[^>]*id=["']books-and-patents["']/m,
+  1
+]
 abort "Could not find the Full Publications section" unless full_section
 
 fragment = Nokogiri::HTML.fragment(full_section)
@@ -31,7 +34,7 @@ year_groups = publication_list.xpath("./section[@data-publication-year-group]")
 errors << "Expected 11 publication year groups, found #{year_groups.length}" unless year_groups.length == 11
 year_groups.each do |group|
   year = group["data-year"]
-  heading = group.at_xpath("./h4[@class='publication-year']")
+  heading = group.at_xpath("./h3[contains(concat(' ', normalize-space(@class), ' '), ' publication-year ')]")
   ordered_list = group.at_xpath("./ol[contains(concat(' ', normalize-space(@class), ' '), ' biblist ')]")
   errors << "Year group #{year.inspect}: missing direct publication heading" unless heading
   errors << "Year group #{year.inspect}: heading id does not match" unless heading&.[]("id") == "publications-#{year}"
@@ -42,7 +45,7 @@ year_groups.each do |group|
   end
 end
 
-full_publications.scan(/<h4([^>]*)>\s*<a name=['"](\d{4})['"]>/m).each do |attribute_text, anchor_year|
+full_publications.scan(/<h3([^>]*)>\s*<a name=['"](\d{4})['"]>/m).each do |attribute_text, anchor_year|
   attributes = attribute_text.scan(/([a-z-]+)="([^"]*)"/).to_h
   heading_years << anchor_year
   errors << "Year #{anchor_year}: class must include publication-year" unless attributes.fetch("class", "").split.include?("publication-year")
