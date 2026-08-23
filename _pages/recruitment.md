@@ -17,13 +17,13 @@ nav_order: 6
 
 I have several **full- and part-time Ph.D.** opening positions for 2027 and 2028 admission, and are also constantly seeking **Postdoctoral Fellows**, **SMU-fund / self-fund / CSC-fund visiting students and scholars**, **research assistants**, and **(remote) interns and scholars** to join my team. I am also open to any industrial and personal collaboration without restrictions on the research topic. Please feel free to drop me an email.
 
-##### **What Dr. ZHOU Offers for Ph.D., Visitings and (Remote) Interns**
+<h2 class="h5"><strong>What Dr. ZHOU Offers for Ph.D., Visitings and (Remote) Interns</strong></h2>
 
 - **An open research environment.** You will work on frontier AI problems and aim to publish high-quality research in leading conferences and journals.
 - **Close research mentorship.** I provide regular guidance on problem formulation, idea development, experiments, and academic writing, with the goal of helping each member grow into an independent researcher.
 - **Collaboration opportunities.** When there is a strong research fit, opportunities to collaborate with academic and industry partners may arise.
 
-##### **1) Ph.D. Application**
+<h2 class="h5"><strong>1) Ph.D. Application</strong></h2>
 
 For full- and part-time Ph.D. applicants, please satisfy the following general requirements:
 
@@ -48,7 +48,7 @@ Please see the official [SMU Ph.D. requirements and application schedule](https:
 
 **Application.** For an initial enquiry, please email me your English or Chinese CV and proposed research topic. Use the subject line: [Target Position (Research Fellow or PhD or Visiting Student/Scholar or Remote Intern/Scholar or RA) Application] + Your Name + Institution Name + Qualification (Bachelor/Master/Ph.D.). Ph.D. applicants must also submit a complete application through the [official SMU application system](https://computing.smu.edu.sg/phd/online-application); email contact does not replace the formal application.
 
-##### **2) Visiting and Remote-interning Students/Scholars**
+<h2 class="h5"><strong>2) Visiting and Remote-interning Students/Scholars</strong></h2>
 
 For students, I am happy to be your co-supervisor for long-term collaboration if your supervisor agrees. But please seriously consider the co-supervisor choice. For all applicants, <u>long-term collaboration is prefered</u>, and please check the following general requirements:
 
@@ -77,7 +77,7 @@ For **(remote) interns/scholars**, please check the following requirements:
 
 **Application**. For applicants, please send your English/Chinese resume with your interested research topic inside to my email. The email title should be: [Target Position (Research Fellow or PhD or Visiting Student/Scholar or Remote Intern/Scholar or RA) Application] + Your Name + Institution Name + Qualification (Bachelor/Master/Ph.D.).
 
-##### **3) Research Fellow (Postdoctoral Fellow)**
+<h2 class="h5"><strong>3) Research Fellow (Postdoctoral Fellow)</strong></h2>
 
 To apply for research fellow (postdoctoral fellow) postion, please check the following general requirements:
 
@@ -90,7 +90,7 @@ To apply for research fellow (postdoctoral fellow) postion, please check the fol
 
 **Application**. For applicants, please send your English/Chinese resume with your interested research topic inside to my email. The email title should be: [Target Position (Research Fellow or PhD or Visiting Student/Scholar or Remote Intern/Scholar or RA) Application] + Your Name + Institution Name + Qualification (Bachelor/Master/Ph.D.).
 
-##### **4) Research Assistant**
+<h2 class="h5"><strong>4) Research Assistant</strong></h2>
 
 To apply for research asssitant postion, please check the following general requirements:
 
