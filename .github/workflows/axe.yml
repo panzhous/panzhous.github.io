@@ -35,20 +35,11 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      - name: Get Chromium version 🌐
-        # https://github.com/GoogleChromeLabs/chrome-for-testing?tab=readme-ov-file#other-api-endpoints
-        run: |
-          CHROMIUM_VERSION=$(wget -qO- https://googlechromelabs.github.io/chrome-for-testing/LATEST_RELEASE_STABLE | cut -d. -f1)
-          echo "Chromium version: $CHROMIUM_VERSION"
-          echo "CHROMIUM_VERSION=$CHROMIUM_VERSION" >> $GITHUB_ENV
       - name: Setup Chrome 🌐
         id: setup-chrome
-        uses: browser-actions/setup-chrome@v1
+        uses: browser-actions/setup-chrome@v2
         with:
-          chrome-version: ${{ env.CHROMIUM_VERSION }}
-      - name: Install chromedriver 🚗
-        run: |
-          npm install -g chromedriver@$CHROMIUM_VERSION
+          install-chromedriver: true
       - name: Run axe 🪓
         # https://github.com/dequelabs/axe-core-npm/tree/develop/packages/cli
         run: |
@@ -58,5 +49,11 @@ jobs:
           trap 'kill "$server_pid"' EXIT
           curl --fail --silent --show-error --retry 10 --retry-all-errors --retry-delay 1 --output /dev/null http://127.0.0.1:8080/
           for path in / /research/ /publication/ /recruitment/ /service/; do
-            axe --chromedriver-path "$(npm root -g)/chromedriver/bin/chromedriver" "http://127.0.0.1:8080${path}" --load-delay=1500 --exit
+            axe \
+              --chrome-path "${{ steps.setup-chrome.outputs.chrome-path }}" \
+              --chromedriver-path "${{ steps.setup-chrome.outputs.chromedriver-path }}" \
+              --chrome-options="no-sandbox,disable-dev-shm-usage" \
+              "http://127.0.0.1:8080${path}" \
+              --load-delay=1500 \
+              --exit
           done
