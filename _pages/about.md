@@ -27,9 +27,7 @@ Before joining SMU, I was a Senior Research Scientist at Sea AI Lab and a Resear
 
 <a href="mailto:{{ site.email }}"><i class="fa fa-envelope" aria-hidden="true"></i> &nbsp; {{ site.email }}</a> &emsp; &emsp; &emsp; &emsp; &emsp; <a href="https://scholar.google.com/citations?user=0b7ZqlcAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i> &nbsp; Google Scholar</a>
 
-<h6>
-  <a name="interests"></a> <strong>Research Interests</strong>
-</h6>
+<h2 class="h6" id="interests"><strong>Research Interests</strong></h2>
 My research aims to develop <strong>efficient and capable AI systems</strong> that can perceive, understand, reason about, and interact with the world. I work at the intersection of machine learning, computer vision, and optimization, with three primary research directions. See more details <a href="https://panzhous.github.io/research/">here</a>.
 <div class="highlight">
   <ul>
@@ -39,9 +37,7 @@ My research aims to develop <strong>efficient and capable AI systems</strong> th
   </ul>
 </div>
 
-<h6>
-  <a name="Positions"></a> <strong>Open Positions</strong>
-</h6>
+<h2 class="h6" id="Positions"><strong>Open Positions</strong></h2>
 <div class="highlight">
   <ul>
     <li>I am seeking for full- and part-time <strong>Ph.D. applicants</strong> with strong background in computer science and mathematics, fully-supported by <a href="https://computing.smu.edu.sg/phd/online-application">SMU</a>/<a href="https://aisingapore.org/research/phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship">AICS</a>.</li>
