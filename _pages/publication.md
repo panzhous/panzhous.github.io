@@ -58,7 +58,7 @@ function toggleBibtex(articleid) {
 </script>
 
 
-##### **Featured Publications** 
+<h2 class="h5" id="featured-publications"><strong>Featured Publications</strong></h2>
 
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/masked-diffusion-transformer-is-a-strong/image-generation-on-imagenet-256x256)](https://paperswithcode.com/sota/image-generation-on-imagenet-256x256?p=masked-diffusion-transformer-is-a-strong)
 
@@ -279,7 +279,7 @@ NeurIPS, 2020,
 
   <br> 
 
-##### **Full Publications** 
+<h2 class="h5" id="full-publications"><strong>Full Publications</strong></h2>
 
 <section class="publication-explorer" data-publication-explorer>
 <div class="publication-controls" hidden>
@@ -371,9 +371,9 @@ NeurIPS, 2020,
 -->
 <div class="publication-list" data-publication-list>
 <section class="publication-year-group" data-publication-year-group data-year="2026" aria-labelledby="publications-2026">
-<h4 id="publications-2026" class="publication-year" data-year="2026">
+<h3 id="publications-2026" class="publication-year h4" data-year="2026">
 <a name="2026"></a> 2026
-</h4>
+</h3>
 <ol class="biblist">
 <li id="pub-2026-smart-when-is-it-actually-worth-expanding-a-speculative-tree" class="publication-item" data-year="2026" data-research-line="efficiency-optimization" data-subtopic="efficient-inference" data-keywords="efficient inference, model acceleration, decoding efficiency, speculative decoding, large language model"><p>
 <strong>SMART: When is it Actually Worth Expanding a Speculative Tree?</strong><br />
@@ -557,9 +557,9 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing  (<str
 </section>
 
 <section class="publication-year-group" data-publication-year-group data-year="2025" aria-labelledby="publications-2025">
-<h4 id="publications-2025" class="publication-year" data-year="2025">
+<h3 id="publications-2025" class="publication-year h4" data-year="2025">
 <a name="2025"></a> 2025
-</h4>
+</h3>
 <ol class="biblist">
 <li id="pub-2025-loco-low-bit-communication-adaptor-for-large-scale-model-training" class="publication-item" data-year="2025" data-research-line="efficiency-optimization" data-subtopic="efficient-training" data-keywords="efficient training, memory efficiency, scalable optimization, low-bit communication, distributed training, large language model, low-bit learning"><p>
 <strong>LoCo: Low-Bit Communication Adaptor for Large-scale Model Training</strong><br>
@@ -722,9 +722,9 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 </section>
 
 <section class="publication-year-group" data-publication-year-group data-year="2024" aria-labelledby="publications-2024">
-<h4 id="publications-2024" class="publication-year" data-year="2024">
+<h3 id="publications-2024" class="publication-year h4" data-year="2024">
 <a name="2024"></a> 2024
-</h4>
+</h3>
 <ol class="biblist">
 <!-- Item: 1 -->
 <li id="pub-2024-win-weight-decay-integrated-nesterov-acceleration-for-faster-network-training" class="publication-item" data-year="2024" data-research-line="efficiency-optimization" data-subtopic="efficient-training" data-keywords="optimization theory, convergence analysis, generalization theory, deep optimization"><p>
@@ -942,9 +942,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 </section>
 
 <section class="publication-year-group" data-publication-year-group data-year="2023" aria-labelledby="publications-2023">
-<h4 id="publications-2023" class="publication-year" data-year="2023">
+<h3 id="publications-2023" class="publication-year h4" data-year="2023">
 <a name="2023"></a> 2023
-</h4>
+</h3>
 <ol class="biblist">
 <!-- Item: 1 -->
 <li id="pub-2023-metaformer-baselines-for-vision" class="publication-item" data-year="2023" data-research-line="architecture-design" data-keywords="architecture design, vision architecture, network design"><p>
@@ -1132,9 +1132,9 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 </section>
 
 <section class="publication-year-group" data-publication-year-group data-year="2022" aria-labelledby="publications-2022">
-<h4 id="publications-2022" class="publication-year" data-year="2022">
+<h3 id="publications-2022" class="publication-year h4" data-year="2022">
 <a name="2022"></a> 2022
-</h4>
+</h3>
 <ol class="biblist">
 <!-- Item: 1 -->
 <li id="pub-2022-prototypical-graph-contrastive-learning" class="publication-item" data-year="2022" data-research-line="learning-frameworks" data-subtopic="representation-generalization" data-keywords="representation learning, generalization, learning framework, self-supervised learning"><p>
@@ -1240,9 +1240,9 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2022 <br />
 </section>
 
 <section class="publication-year-group" data-publication-year-group data-year="2021" aria-labelledby="publications-2021">
-<h4 id="publications-2021" class="publication-year" data-year="2021">
+<h3 id="publications-2021" class="publication-year h4" data-year="2021">
 <a name="2021"></a> 2021
-</h4>
+</h3>
 <ol class="biblist">
 <!-- Item: 1 -->
 <li id="pub-2021-a-hybrid-stochastic-deterministic-minibatch-proximal-gradient-method-for-efficient-optimization-and-generalization" class="publication-item" data-year="2021" data-research-line="efficiency-optimization" data-subtopic="efficient-training" data-keywords="optimization theory, convergence analysis, generalization theory, deep optimization"><p>
@@ -1381,9 +1381,9 @@ Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong
 </section>
 
 <section class="publication-year-group" data-publication-year-group data-year="2020" aria-labelledby="publications-2020">
-<h4 id="publications-2020" class="publication-year" data-year="2020">
+<h3 id="publications-2020" class="publication-year h4" data-year="2020">
 <a name="2020"></a> 2020
-</h4>
+</h3>
 <ol class="biblist">
 <!-- Item: 1 -->
 <li id="pub-2020-theory-inspired-path-regularized-differential-network-architecture-search" class="publication-item" data-year="2020" data-research-line="architecture-design" data-keywords="architecture design, vision architecture, network design"><p>
@@ -1451,9 +1451,9 @@ International Conference on Machine Learning (<strong>ICML</strong>), 2020 <br /
 </section>
 
 <section class="publication-year-group" data-publication-year-group data-year="2019" aria-labelledby="publications-2019">
-<h4 id="publications-2019" class="publication-year" data-year="2019">
+<h3 id="publications-2019" class="publication-year h4" data-year="2019">
 <a name="2019"></a> 2019
-</h4>
+</h3>
 <ol class="biblist">
 <!-- Item: 1 -->
 <li id="pub-2019-tensor-low-rank-representation-for-data-recovery-and-clustering" class="publication-item" data-year="2019" data-research-line="learning-frameworks" data-subtopic="representation-generalization" data-keywords="representation learning, generalization, learning framework, low-rank representation"><p>
@@ -1531,9 +1531,9 @@ IEEE Winter Conference on Applications of Computer Vision (<strong>WACV</strong>
 </section>
 
 <section class="publication-year-group" data-publication-year-group data-year="2018" aria-labelledby="publications-2018">
-<h4 id="publications-2018" class="publication-year" data-year="2018">
+<h3 id="publications-2018" class="publication-year h4" data-year="2018">
 <a name="2018"></a> 2018
-</h4>
+</h3>
 <ol class="biblist">
 <!-- Item: 1 -->
 <li id="pub-2018-efficient-stochastic-gradient-hard-thresholding" class="publication-item" data-year="2018" data-research-line="efficiency-optimization" data-subtopic="efficient-training" data-keywords="optimization theory, convergence analysis, generalization theory, deep optimization"><p>
@@ -1601,9 +1601,9 @@ International Conference on Learning Representations (<strong>ICLR</strong>), 20
 </section>
 
 <section class="publication-year-group" data-publication-year-group data-year="2017" aria-labelledby="publications-2017">
-<h4 id="publications-2017" class="publication-year" data-year="2017">
+<h3 id="publications-2017" class="publication-year h4" data-year="2017">
 <a name="2017"></a> 2017
-</h4>
+</h3>
 <ol class="biblist">
 <!-- Item: 1 -->
 <li id="pub-2017-tensor-factorization-for-low-rank-tensor-completion" class="publication-item" data-year="2017" data-research-line="learning-frameworks" data-subtopic="representation-generalization" data-keywords="representation learning, generalization, learning framework, low-rank representation"><p>
@@ -1659,9 +1659,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong
 </section>
 
 <section class="publication-year-group" data-publication-year-group data-year="2016" aria-labelledby="publications-2016">
-<h4 id="publications-2016" class="publication-year" data-year="2016">
+<h3 id="publications-2016" class="publication-year h4" data-year="2016">
 <a name="2016"></a> 2016
-</h4>
+</h3>
 <ol class="biblist">
 <!-- Item: 1 -->
 <li id="pub-2016-bilevel-model-based-discriminative-dictionary-learning-for-recognition" class="publication-item" data-year="2016" data-research-line="learning-frameworks" data-subtopic="representation-generalization" data-keywords="representation learning, generalization, learning framework, low-rank representation"><p>
@@ -1693,7 +1693,7 @@ IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong
 
  <br>
 
-##### **Books and Patents**
+<h2 class="h5" id="books-and-patents"><strong>Books and Patents</strong></h2>
 <ol class="biblist"> 
 <!-- Item: 1 -->
 <li ><p>
