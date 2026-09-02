@@ -25,7 +25,8 @@ Before joining SMU, I was a Senior Research Scientist at Sea AI Lab and a Resear
 
 
 
-<a href="mailto:{{ site.email }}"><i class="fa fa-envelope" aria-hidden="true"></i> &nbsp; {{ site.email }}</a> &emsp; &emsp; &emsp; &emsp; &emsp; <a href="https://scholar.google.com/citations?user=0b7ZqlcAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i> &nbsp; Google Scholar</a>
+{% capture contact_email %}{{ site.email_user }}@{{ site.email_domain }}{% endcapture %}
+<a href="mailto:{{ contact_email | strip | encode_email }}" aria-label="Email Pan Zhou"><i class="fa fa-envelope" aria-hidden="true"></i> &nbsp; {{ site.email_user }} [at] {{ site.email_domain | replace: ".", " [dot] " }}</a> &emsp; &emsp; &emsp; &emsp; &emsp; <a href="https://scholar.google.com/citations?user=0b7ZqlcAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i> &nbsp; Google Scholar</a>
 
 <h2 class="h6" id="interests"><strong>Research Interests</strong></h2>
 My research aims to develop <strong>efficient and capable AI systems</strong> that can perceive, understand, reason about, and interact with the world. I work at the intersection of machine learning, computer vision, and optimization, with three primary research directions. See more details <a href="https://panzhous.github.io/research/">here</a>.

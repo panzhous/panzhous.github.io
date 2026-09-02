@@ -6,7 +6,8 @@ title: Pan ZHOU # the website title (if blank, full name will be used instead)
 first_name: Pan
 middle_name:
 last_name: ZHOU
-email: panzhou3@gmail.com
+email_user: panzhou3
+email_domain: gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic homepage of Pan Zhou, an Assistant Professor at Singapore Management University working on efficient AI, multimodal and generative learning, optimization, and neural network architectures.
 footer_text: >
