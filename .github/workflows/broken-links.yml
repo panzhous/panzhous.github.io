@@ -68,5 +68,6 @@ jobs:
             --exclude '^https://openreview\.net/'
             --exclude '^https://scholar\.google\.(com|com\.sg)/'
             --exclude '^https://openai\.com/sora/?$'
+            --exclude '^https://paperswithcode2\.com/'
             --verbose --no-progress
             './**/*.md' './**/*.html'
