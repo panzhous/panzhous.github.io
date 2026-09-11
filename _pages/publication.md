@@ -20,6 +20,18 @@ You can also browse my <a href="https://scholar.google.com/citations?user=0b7Zql
 /* The item */
 .biblist li { }
 
+.publication-sequence {
+  counter-reset: publication-number;
+}
+
+.publication-sequence .biblist > li {
+  counter-increment: publication-number;
+}
+
+.publication-sequence .biblist > li::marker {
+  content: counter(publication-number) ". ";
+}
+
 /* You can define custom styles for plstyle field here. */
 
 
@@ -279,6 +291,7 @@ NeurIPS, 2020,
 
   <br> 
 
+<div class="publication-sequence">
 <h2 class="h5" id="full-publications"><strong>Full Publications</strong></h2>
 
 <section class="publication-explorer" data-publication-explorer>
@@ -367,7 +380,8 @@ NeurIPS, 2020,
   2. Give it a unique id and set data-year, data-research-line, and data-keywords.
   3. Efficiency Optimization and Learning Frameworks also require data-subtopic.
   4. Architecture Design must not have data-subtopic.
-  5. Run: bundle exec ruby scripts/validate_publications.rb
+  5. Keep all full publications, books, and patents inside .publication-sequence so numbering remains continuous.
+  6. Run: bundle exec ruby scripts/validate_publications.rb
 -->
 <div class="publication-list" data-publication-list>
 <section class="publication-year-group" data-publication-year-group data-year="2026" aria-labelledby="publications-2026">
@@ -1733,3 +1747,4 @@ US Patent, 2021.
 </li>
 
 </ol>
+</div>
