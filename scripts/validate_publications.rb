@@ -20,6 +20,15 @@ fragment = Nokogiri::HTML.fragment(full_section)
 publication_list = fragment.at_css("[data-publication-list]")
 abort "Could not find the Full Publications list" unless publication_list
 
+page_fragment = Nokogiri::HTML.fragment(source)
+publication_sequence = page_fragment.at_css(".publication-sequence")
+abort "Could not find the shared publication numbering sequence" unless publication_sequence
+
+sequence_publication_list = publication_sequence.at_css("[data-publication-list]")
+books_and_patents = publication_sequence.at_css("#books-and-patents + ol.biblist")
+abort "Full Publications must be inside the shared publication numbering sequence" unless sequence_publication_list
+abort "Books and Patents must be inside the shared publication numbering sequence" unless books_and_patents
+
 full_publications = publication_list.inner_html
 
 lines = taxonomy.to_h { |line| [line.fetch("id"), line] }
@@ -29,6 +38,12 @@ entries = []
 current_year = nil
 publication_lines = full_publications.lines
 heading_years = []
+
+numbered_items = publication_sequence.css("ol.biblist > li")
+expected_numbered_items = sequence_publication_list.css(".publication-item").length + books_and_patents.xpath("./li").length
+if numbered_items.length != expected_numbered_items
+  errors << "Expected #{expected_numbered_items} continuously numbered items, found #{numbered_items.length}"
+end
 
 year_groups = publication_list.xpath("./section[@data-publication-year-group]")
 errors << "Expected 11 publication year groups, found #{year_groups.length}" unless year_groups.length == 11
