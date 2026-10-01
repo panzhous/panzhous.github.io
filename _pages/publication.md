@@ -385,10 +385,43 @@ NeurIPS, 2020,
 -->
 <div class="publication-list" data-publication-list>
 <section class="publication-year-group" data-publication-year-group data-year="2026" aria-labelledby="publications-2026">
+
+
 <h3 id="publications-2026" class="publication-year h4" data-year="2026">
 <a name="2026"></a> 2026
 </h3>
 <ol class="biblist">
+
+
+<li id="pub-2026-drag-as-evidence-motion-grounded-latent-recomposition-for-drag-based-editing" class="publication-item" data-year="2026" data-research-line="learning-frameworks" data-subtopic="generative-learning" data-keywords="generative learning, content generation, generative model, image editing, drag-image editing"><p>
+<strong>Drag as Evidence: Motion-Grounded Latent Recomposition for Drag-Based Editing</strong><br />
+Xinyu Pu, Hongsong Wang, Jie Gui,<strong>Pan Zhou</strong><br /> 
+Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026 <br />
+<a href="https://arxiv.org/html/2609.36755v1">[arXiv]</a>
+<span>[Code coming soon]</span>
+</p>
+</li>
+
+<li id="pub-2026-understanding-the-out-of-distribution-generalization-of-chain-of-thought-reasoning-in-LLMs" class="publication-item" data-year="2026" data-research-line="learning-frameworks" data-subtopic="multimodal-learning-agent" data-keywords="Chain-of-Thought, Reasoning, LLM Reasoning, large language model"><p>
+<strong>Understanding the Out-of-Distribution Generalization of Chain-of-Thought Reasoning in LLMs</strong><br />
+Nuojing Liang, Xiaotong Yuan,<strong>Pan Zhou</strong><br /> 
+Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026 <br />
+<a href="">[arXiv]</a>
+<!-- <span>[Code coming soon]</span> -->
+</p>
+</li>
+
+
+<li id="pub-2026-metric-depth-estimation-from-arbitrarily-degraded-low-resolution-depth-prompts" class="publication-item" data-year="2026" data-research-line="learning-frameworks" data-subtopic="generative-learning" data-keywords="generative learning, depth estimation generation"><p>
+<strong>Metric Depth Estimation from Arbitrarily Degraded Low-Resolution Depth Prompts</strong><br />
+Kun Wang, Yun Zhu,<strong>Pan Zhou</strong>, Na Zhao<br /> 
+Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026 <br />
+<a href="">[arXiv]</a>
+<span>[Code coming soon]</span>
+</p>
+</li>
+
+
 <li id="pub-2026-smart-when-is-it-actually-worth-expanding-a-speculative-tree" class="publication-item" data-year="2026" data-research-line="efficiency-optimization" data-subtopic="efficient-inference" data-keywords="efficient inference, model acceleration, decoding efficiency, speculative decoding, large language model"><p>
 <strong>SMART: When is it Actually Worth Expanding a Speculative Tree?</strong><br />
 Lifu Wang, <strong>Pan Zhou<sup>+</sup></strong><br /> 
