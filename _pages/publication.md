@@ -358,7 +358,7 @@ NeurIPS, 2020,
   </div>
 
   <div class="publication-status" aria-live="polite">
-    <span data-publication-count>96 publications</span>
+    <span data-publication-count>99 publications</span>
   </div>
 </div>
 
@@ -406,17 +406,17 @@ Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026 <br />
 <strong>Understanding the Out-of-Distribution Generalization of Chain-of-Thought Reasoning in LLMs</strong><br />
 Nuojing Liang, Xiaotong Yuan,<strong>Pan Zhou</strong><br /> 
 Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026 <br />
-<a href="">[arXiv]</a>
+<span>[arXiv coming soon]</span>
 <!-- <span>[Code coming soon]</span> -->
 </p>
 </li>
 
 
-<li id="pub-2026-metric-depth-estimation-from-arbitrarily-degraded-low-resolution-depth-prompts" class="publication-item" data-year="2026" data-research-line="learning-frameworks" data-subtopic="generative-learning" data-keywords="generative learning, depth estimation generation"><p>
+<li id="pub-2026-metric-depth-estimation-from-arbitrarily-degraded-low-resolution-depth-prompts" class="publication-item" data-year="2026" data-research-line="learning-frameworks" data-subtopic="generative-learning" data-keywords="generative learning, metric depth estimation, low-resolution depth prompts"><p>
 <strong>Metric Depth Estimation from Arbitrarily Degraded Low-Resolution Depth Prompts</strong><br />
 Kun Wang, Yun Zhu,<strong>Pan Zhou</strong>, Na Zhao<br /> 
 Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026 <br />
-<a href="">[arXiv]</a>
+<span>[arXiv coming soon]</span>
 <span>[Code coming soon]</span>
 </p>
 </li>
